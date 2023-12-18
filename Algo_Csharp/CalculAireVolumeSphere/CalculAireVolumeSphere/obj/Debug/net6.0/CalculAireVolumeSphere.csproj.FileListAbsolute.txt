@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\bin\Debug\net6.0\CalculAireVolumeSphere.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\bin\Debug\net6.0\CalculAireVolumeSphere.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\bin\Debug\net6.0\CalculAireVolumeSphere.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\bin\Debug\net6.0\CalculAireVolumeSphere.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\bin\Debug\net6.0\CalculAireVolumeSphere.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\obj\Debug\net6.0\CalculAireVolumeSphere.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\obj\Debug\net6.0\CalculAireVolumeSphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\obj\Debug\net6.0\CalculAireVolumeSphere.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\obj\Debug\net6.0\CalculAireVolumeSphere.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\obj\Debug\net6.0\CalculAireVolumeSphere.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\obj\Debug\net6.0\CalculAireVolumeSphere.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\obj\Debug\net6.0\refint\CalculAireVolumeSphere.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\obj\Debug\net6.0\CalculAireVolumeSphere.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\obj\Debug\net6.0\CalculAireVolumeSphere.genruntimeconfig.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\CalculAireVolumeSphere\CalculAireVolumeSphere\obj\Debug\net6.0\ref\CalculAireVolumeSphere.dll
