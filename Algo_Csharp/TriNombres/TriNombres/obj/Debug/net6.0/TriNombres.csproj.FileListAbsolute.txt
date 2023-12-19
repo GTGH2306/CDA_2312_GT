@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\bin\Debug\net6.0\TriNombres.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\bin\Debug\net6.0\TriNombres.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\bin\Debug\net6.0\TriNombres.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\bin\Debug\net6.0\TriNombres.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\bin\Debug\net6.0\TriNombres.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\obj\Debug\net6.0\TriNombres.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\obj\Debug\net6.0\TriNombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\obj\Debug\net6.0\TriNombres.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\obj\Debug\net6.0\TriNombres.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\obj\Debug\net6.0\TriNombres.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\obj\Debug\net6.0\TriNombres.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\obj\Debug\net6.0\refint\TriNombres.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\obj\Debug\net6.0\TriNombres.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\obj\Debug\net6.0\TriNombres.genruntimeconfig.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\TriNombres\TriNombres\obj\Debug\net6.0\ref\TriNombres.dll

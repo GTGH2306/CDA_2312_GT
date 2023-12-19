@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\bin\Debug\net6.0\Bissextile.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\bin\Debug\net6.0\Bissextile.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\bin\Debug\net6.0\Bissextile.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\bin\Debug\net6.0\Bissextile.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\bin\Debug\net6.0\Bissextile.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\obj\Debug\net6.0\Bissextile.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\obj\Debug\net6.0\Bissextile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\obj\Debug\net6.0\Bissextile.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\obj\Debug\net6.0\Bissextile.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\obj\Debug\net6.0\Bissextile.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\obj\Debug\net6.0\Bissextile.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\obj\Debug\net6.0\refint\Bissextile.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\obj\Debug\net6.0\Bissextile.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\obj\Debug\net6.0\Bissextile.genruntimeconfig.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\Bissextile\Bissextile\obj\Debug\net6.0\ref\Bissextile.dll
