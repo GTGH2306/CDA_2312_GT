@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\bin\Debug\net6.0\NbParfait.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\bin\Debug\net6.0\NbParfait.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\bin\Debug\net6.0\NbParfait.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\bin\Debug\net6.0\NbParfait.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\bin\Debug\net6.0\NbParfait.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\obj\Debug\net6.0\NbParfait.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\obj\Debug\net6.0\NbParfait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\obj\Debug\net6.0\NbParfait.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\obj\Debug\net6.0\NbParfait.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\obj\Debug\net6.0\NbParfait.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\obj\Debug\net6.0\NbParfait.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\obj\Debug\net6.0\refint\NbParfait.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\obj\Debug\net6.0\NbParfait.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\obj\Debug\net6.0\NbParfait.genruntimeconfig.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbParfait\NbParfait\obj\Debug\net6.0\ref\NbParfait.dll

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        //A cause du typage dynamique on préferera === à ==
+        // ('4' == 4) donne true mais ('4' === 4) donne false
+        const age = prompt('Quel est votre âge ?');
+        if (age >= 18) {
+            console.log('Vous êtes majeur.');
+        } else {
+            console.log('Vous êtes majeur.');
+        }
+        //Ne pas oublier les valeurs truthy et falsy, ex: un tableau vide donne vrai
+        
+        const pays ='US';
+        if (
+            (pays === 'FR' && age >= 18) ||
+            (pays === 'US' && age >= 16)
+        ){
+            console.log(`Vous pouvez conduire`);
+        }
+
+        switch (pays) {
+            case 'FR':
+                console.log('Je suis en france');
+                break;
+            case 'US':
+                console.log('Je suis aux états unis');
+                break;
+            default:
+                console.log('Je suis dans un pays inconnu');
+                break;
+        }
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

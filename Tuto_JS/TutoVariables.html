@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+        const a = 3; //Variable constante, favoriser
+        let b = 2; //Variable
+        var c = 1; //Variable aussi, version ancienne
+        d = 32; //Equivaut à var d = 32 mais il faut eviter
+        b = 8.12;
+        c = `Chaîne de Caractère ${a} + ${b}`;
+        const d = `nom d'attribut`;
+        //Afficher des variables directement n'est possible qu'avec les "backticks"
+        let isMajeur = true;
+        isMajeur = null; //Assignation nule
+        isMajeur = undefined; //Assignation de base
+
+        const notes = [13, 14, 8, [1, 5, 8]] //Tableau
+        //notes[3][2] donnerai 5
+
+        //Objet
+        const person = {
+            firstname: `John`,
+            lastname: `Doe`,
+            age: 24,
+            notes: [12, 14, 15],
+            job: {
+                name: `Informaticien`,
+                hours: 35
+            },
+            'les gens': 23, //accepte les espace, ne marche pas avec des backticks
+            [d] : 21 //L'attribut s'appellera "nom d'attribut" 
+        }
+        //person.notes[2] donne 15 ici
+        //person.job.name donne "Informaticien"
+        //person['firstname'] donne "John"
+
+
+    </script>
+</head>
+<body>
+</body>
+</html>

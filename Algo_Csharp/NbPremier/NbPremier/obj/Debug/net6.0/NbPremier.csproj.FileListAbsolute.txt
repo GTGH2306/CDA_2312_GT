@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\bin\Debug\net6.0\NbPremier.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\bin\Debug\net6.0\NbPremier.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\bin\Debug\net6.0\NbPremier.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\bin\Debug\net6.0\NbPremier.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\bin\Debug\net6.0\NbPremier.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\obj\Debug\net6.0\NbPremier.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\obj\Debug\net6.0\NbPremier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\obj\Debug\net6.0\NbPremier.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\obj\Debug\net6.0\NbPremier.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\obj\Debug\net6.0\NbPremier.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\obj\Debug\net6.0\NbPremier.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\obj\Debug\net6.0\refint\NbPremier.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\obj\Debug\net6.0\NbPremier.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\obj\Debug\net6.0\NbPremier.genruntimeconfig.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\NbPremier\NbPremier\obj\Debug\net6.0\ref\NbPremier.dll

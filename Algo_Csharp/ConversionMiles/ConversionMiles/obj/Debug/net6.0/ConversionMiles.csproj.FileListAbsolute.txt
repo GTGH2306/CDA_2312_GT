@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\bin\Debug\net6.0\ConversionMiles.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\bin\Debug\net6.0\ConversionMiles.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\bin\Debug\net6.0\ConversionMiles.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\bin\Debug\net6.0\ConversionMiles.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\bin\Debug\net6.0\ConversionMiles.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\obj\Debug\net6.0\ConversionMiles.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\obj\Debug\net6.0\ConversionMiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\obj\Debug\net6.0\ConversionMiles.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\obj\Debug\net6.0\ConversionMiles.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\obj\Debug\net6.0\ConversionMiles.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\obj\Debug\net6.0\ConversionMiles.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\obj\Debug\net6.0\refint\ConversionMiles.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\obj\Debug\net6.0\ConversionMiles.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\obj\Debug\net6.0\ConversionMiles.genruntimeconfig.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ConversionMiles\ConversionMiles\obj\Debug\net6.0\ref\ConversionMiles.dll
