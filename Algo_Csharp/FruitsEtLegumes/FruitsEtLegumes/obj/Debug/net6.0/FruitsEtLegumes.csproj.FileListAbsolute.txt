@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\bin\Debug\net6.0\FruitsEtLegumes.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\bin\Debug\net6.0\FruitsEtLegumes.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\bin\Debug\net6.0\FruitsEtLegumes.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\bin\Debug\net6.0\FruitsEtLegumes.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\bin\Debug\net6.0\FruitsEtLegumes.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\obj\Debug\net6.0\FruitsEtLegumes.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\obj\Debug\net6.0\FruitsEtLegumes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\obj\Debug\net6.0\FruitsEtLegumes.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\obj\Debug\net6.0\FruitsEtLegumes.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\obj\Debug\net6.0\FruitsEtLegumes.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\obj\Debug\net6.0\FruitsEtLegumes.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\obj\Debug\net6.0\refint\FruitsEtLegumes.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\obj\Debug\net6.0\FruitsEtLegumes.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\obj\Debug\net6.0\FruitsEtLegumes.genruntimeconfig.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\FruitsEtLegumes\FruitsEtLegumes\obj\Debug\net6.0\ref\FruitsEtLegumes.dll
