@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\bin\Debug\net6.0\nbJeunes.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\bin\Debug\net6.0\nbJeunes.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\bin\Debug\net6.0\nbJeunes.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\bin\Debug\net6.0\nbJeunes.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\bin\Debug\net6.0\nbJeunes.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\obj\Debug\net6.0\nbJeunes.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\obj\Debug\net6.0\nbJeunes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\obj\Debug\net6.0\nbJeunes.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\obj\Debug\net6.0\nbJeunes.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\obj\Debug\net6.0\nbJeunes.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\obj\Debug\net6.0\nbJeunes.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\obj\Debug\net6.0\refint\nbJeunes.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\obj\Debug\net6.0\nbJeunes.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\obj\Debug\net6.0\nbJeunes.genruntimeconfig.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\nbJeunes\nbJeunes\obj\Debug\net6.0\ref\nbJeunes.dll
