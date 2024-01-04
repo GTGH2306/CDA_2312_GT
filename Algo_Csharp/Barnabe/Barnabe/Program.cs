@@ -2,7 +2,7 @@
 
 namespace Barnabe
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -11,7 +11,6 @@ namespace Barnabe
 
             for (int i = 0; i < sommesTest.Length; i++)
             {
-                Console.WriteLine(FonctionBarnabe(sommesTest[i]));
                 if (TestingBarnabe(sommesTest[i], magasinsAttendu[i]))
                 {
                     Console.WriteLine("Pour une somme de " + sommesTest[i] + "euros, test réussi");
