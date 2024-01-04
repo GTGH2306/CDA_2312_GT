@@ -10,6 +10,8 @@ namespace ConversionMiles
             RetourSaisie retourSaisie;
             const double rapportKmMi = 1.609;
             double km, mi;
+            const string KM = "Km";
+            const string MI = "Mi";
 
             do
             {
@@ -46,7 +48,7 @@ namespace ConversionMiles
                             break;
                     }
 
-                    Console.WriteLine((Math.Round(km * 100) / 100) + "km = " + (Math.Round(mi * 100) / 100) + "mi.");
+                    Console.WriteLine((Math.Round(km * 100) / 100) + KM + " = " + (Math.Round(mi * 100) / 100) + MI + ".");
                 }
 
             }while (retourSaisie != RetourSaisie.Quit);
