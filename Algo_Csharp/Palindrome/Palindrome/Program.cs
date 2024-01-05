@@ -12,15 +12,19 @@ namespace Palindrome
             {
                 Console.WriteLine("Saisissez une entrée: ");
                 saisie = Console.ReadLine();
-                retourSaisie = IsPalindrome(saisie);
+                retourSaisie = CtrlSaisie(saisie);
                 if (retourSaisie != Result.Quit) {
                     switch (retourSaisie)
                     {
-                        case Result.Vrai:
-                            Console.WriteLine(saisie + " est un palindrome.");
-                            break;
-                        case Result.Faux:
-                            Console.WriteLine(saisie + " n'est pas un palindrome.");
+                        case Result.Valide:
+                            if (IsPalindrome(saisie))
+                            {
+                                Console.WriteLine(saisie + " est un palindrome.");
+                            }
+                            else
+                            {
+                                Console.WriteLine(saisie + " n'est pas un palindrome.");
+                            }
                             break;
                         case Result.Vide:
                             Console.WriteLine("CHAÎNE VIDE, MERCI D'APPRENDRE A ECRIRE");
@@ -36,49 +40,51 @@ namespace Palindrome
             } while (retourSaisie != Result.Quit);
         }
 
-        public static Result IsPalindrome(string _phrase)
+        public static Result CtrlSaisie(string _saisie)
         {
             Result retour;
-            _phrase = _phrase.ToLower().Replace(" ", "");
-            
-            int jusqua;
-            if (_phrase.Length > 1)
+            _saisie = _saisie.ToLower();
+            if (_saisie.Length > 1)
             {
-                if (_phrase.Length % 2 == 0)
-                {
-                    jusqua = _phrase.Length / 2;
-                }
-                else
-                {
-                    jusqua = (_phrase.Length - 1) / 2;
-                }
-                int j = _phrase.Length - 1;
-                retour = Result.Vrai;
-                for (int i = 0; i < jusqua; i++)
-                {
-                    if (_phrase[i] != _phrase[j])
-                    {
-                        retour = Result.Faux;
-                    }
-                    j--;
-                }
-            } else if (_phrase == "q")
+                retour = Result.Valide;
+            }
+            else if (_saisie == "q")
             {
                 retour = Result.Quit;
-            } else if (_phrase.Length == 1)
+            }
+            else if (_saisie.Length == 1)
             {
                 retour = Result.Insuf;
-            } else
+            }
+            else
             {
                 retour = Result.Vide;
             }
             return retour;
         }
 
+        public static bool IsPalindrome(string _phrase)
+        {
+            bool retour = true;
+            _phrase = _phrase.ToLower().Replace(" ", "");
+            int jusqua = _phrase.Length / 2;
+            int i = 0;
+            int j = _phrase.Length - 1;
+            while (i < jusqua && retour == true)
+            {
+                if (_phrase[i] != _phrase[j])
+                {
+                    retour = false;
+                }
+                i++;
+                j--;
+            }
+            return retour;
+        }
+
         public enum Result
         {
-            Vrai,
-            Faux,
+            Valide,
             Vide,
             Insuf,
             Quit
