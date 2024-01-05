@@ -2,87 +2,86 @@
 
 namespace Palindrome
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             string saisie;
+            Result retourSaisie;
             do
             {
                 Console.WriteLine("Saisissez une entrée: ");
                 saisie = Console.ReadLine();
-
-                if (IsPalindrome(Unform(saisie)) == result.Vrai)
-                {
-                    Console.WriteLine(saisie + " est un palindrome.");
+                retourSaisie = IsPalindrome(saisie);
+                if (retourSaisie != Result.Quit) {
+                    switch (retourSaisie)
+                    {
+                        case Result.Vrai:
+                            Console.WriteLine(saisie + " est un palindrome.");
+                            break;
+                        case Result.Faux:
+                            Console.WriteLine(saisie + " n'est pas un palindrome.");
+                            break;
+                        case Result.Vide:
+                            Console.WriteLine("CHAÎNE VIDE, MERCI D'APPRENDRE A ECRIRE");
+                            break;
+                        case Result.Insuf:
+                            Console.WriteLine("BESOIN DE PLUS D'UN CARACTERE");
+                            break;
+                        default:
+                            Console.WriteLine("ERROR, OUT OF BOUNDS");
+                            break;
+                    }
                 }
-                else if (IsPalindrome(Unform(saisie)) == result.Faux)
-                {
-                    Console.WriteLine(saisie + " n'est pas un palindrome.");
-                } else if (IsPalindrome(Unform(saisie)) == result.Vide)
-                {
-                    Console.WriteLine("CHAÎNE VIDE, MERCI D'APPRENDRE A ECRIRE");
-                } else if (IsPalindrome(Unform(saisie)) == result.Insuf)
-                {
-                    Console.WriteLine("BESOIN DE PLUS D'UN CARACTERE");
-                } else
-                {
-                    Console.WriteLine("ERROR, OUT OF BOUNDS");
-                }
-
-            } while (saisie != "q");
+            } while (retourSaisie != Result.Quit);
         }
 
-        static string Unform(string _phrase)
+        public static Result IsPalindrome(string _phrase)
         {
-            StringBuilder retour = new StringBuilder();
-
-            _phrase = _phrase.ToLower();
-            for (int i = 0; i < _phrase.Length; i++)
-            {
-                if (_phrase[i] != ' ')
-                {
-                    retour.Append(_phrase[i]);
-                }
-            }
-            return retour.ToString();
-        }
-
-        static result IsPalindrome(string _phrase)
-        {
-            result retour;
+            Result retour;
+            _phrase = _phrase.ToLower().Replace(" ", "");
+            
+            int jusqua;
             if (_phrase.Length > 1)
             {
-                StringBuilder reverse = new StringBuilder();
-                for (int i = 0; i < _phrase.Length; i++)
+                if (_phrase.Length % 2 == 0)
                 {
-                    reverse.Append(_phrase[(_phrase.Length - 1) - i]);
-                }
-
-                if (reverse.ToString() == _phrase)
-                {
-                    retour = result.Vrai;
+                    jusqua = _phrase.Length / 2;
                 }
                 else
                 {
-                    retour = result.Faux;
+                    jusqua = (_phrase.Length - 1) / 2;
                 }
+                int j = _phrase.Length - 1;
+                retour = Result.Vrai;
+                for (int i = 0; i < jusqua; i++)
+                {
+                    if (_phrase[i] != _phrase[j])
+                    {
+                        retour = Result.Faux;
+                    }
+                    j--;
+                }
+            } else if (_phrase == "q")
+            {
+                retour = Result.Quit;
             } else if (_phrase.Length == 1)
             {
-                retour = result.Insuf;
+                retour = Result.Insuf;
             } else
             {
-                retour = result.Vide;
+                retour = Result.Vide;
             }
             return retour;
         }
 
-        enum result
+        public enum Result
         {
             Vrai,
             Faux,
             Vide,
-            Insuf
+            Insuf,
+            Quit
         }
     }
 }
