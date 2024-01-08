@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\bin\Debug\net6.0\PassageParRef.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\bin\Debug\net6.0\PassageParRef.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\bin\Debug\net6.0\PassageParRef.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\bin\Debug\net6.0\PassageParRef.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\bin\Debug\net6.0\PassageParRef.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\obj\Debug\net6.0\PassageParRef.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\obj\Debug\net6.0\PassageParRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\obj\Debug\net6.0\PassageParRef.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\obj\Debug\net6.0\PassageParRef.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\obj\Debug\net6.0\PassageParRef.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\obj\Debug\net6.0\PassageParRef.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\obj\Debug\net6.0\refint\PassageParRef.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\obj\Debug\net6.0\PassageParRef.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\obj\Debug\net6.0\PassageParRef.genruntimeconfig.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\PassageParRef\PassageParRef\obj\Debug\net6.0\ref\PassageParRef.dll
