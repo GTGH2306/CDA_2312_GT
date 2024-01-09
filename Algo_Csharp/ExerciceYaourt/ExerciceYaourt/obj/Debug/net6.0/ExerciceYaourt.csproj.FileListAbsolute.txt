@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\bin\Debug\net6.0\ExerciceYaourt.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\bin\Debug\net6.0\ExerciceYaourt.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\bin\Debug\net6.0\ExerciceYaourt.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\bin\Debug\net6.0\ExerciceYaourt.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\bin\Debug\net6.0\ExerciceYaourt.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\obj\Debug\net6.0\ExerciceYaourt.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\obj\Debug\net6.0\ExerciceYaourt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\obj\Debug\net6.0\ExerciceYaourt.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\obj\Debug\net6.0\ExerciceYaourt.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\obj\Debug\net6.0\ExerciceYaourt.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\obj\Debug\net6.0\ExerciceYaourt.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\obj\Debug\net6.0\refint\ExerciceYaourt.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\obj\Debug\net6.0\ExerciceYaourt.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\obj\Debug\net6.0\ExerciceYaourt.genruntimeconfig.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\ExerciceYaourt\ExerciceYaourt\obj\Debug\net6.0\ref\ExerciceYaourt.dll
