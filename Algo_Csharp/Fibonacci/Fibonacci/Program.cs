@@ -1,14 +1,12 @@
-﻿namespace Fibonacci
+﻿using System.Numerics;
+
+namespace Fibonacci
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Combien de nombre à la suite souhaitez vous afficher?");
-            int n;
-            string saisie = Console.ReadLine();
-            int.TryParse(saisie, out n);
-            Console.WriteLine(SuiteFibonacciRecursive(n));
+            ConsoleFibonacciRecursive();
         }
 
         static string SuiteFibonacci(int _nombre)
@@ -44,27 +42,45 @@
 
         }
 
-        static string SuiteFibonacciRecursive(int _nombre)
+        static List<BigInteger> SuiteFibonacciRecursive(int _nombre)
         {
-            string resultat;
-            resultat = "Les " + _nombre + " premiers nombres de la suite de fibonacci sont:";
 
+            List<BigInteger> resultat;
 
             if (_nombre > 2)
             {
-                string recur = SuiteFibonacciRecursive(_nombre - 1);
-                string[] recurTab = recur.Split('\n');
-                resultat += recur + "\n" + (long.Parse(recurTab[^1]) + long.Parse(recurTab[^2]));
+                resultat = SuiteFibonacciRecursive(_nombre - 1);
+                resultat.Add(resultat[^1] + resultat[^2]);
             }
             else
             {
-                resultat += "\n0\n1";
+                resultat = new();
+                resultat.Add(0);
+                resultat.Add(1);
             }
 
             return resultat;
-
         }
 
+        static void ConsoleFibonacciRecursive()
+        {
+            Console.WriteLine("Combien de nombre à la suite souhaitez vous afficher?");
+            int n;
+            string saisie;
+            string affichage;
+            List<BigInteger> fibo;
 
+            saisie = Console.ReadLine();
+            int.TryParse(saisie, out n);
+
+            fibo = SuiteFibonacciRecursive(n);
+
+            affichage = "Les " + n + " premiers nombres de la suite de fibonacci sont:";
+            foreach (BigInteger e in fibo)
+            {
+                affichage += "\n" + e.ToString();
+            }
+            Console.WriteLine(affichage);
+        }
     }
 }
