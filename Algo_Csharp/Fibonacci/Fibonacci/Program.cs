@@ -47,16 +47,20 @@
         static string SuiteFibonacciRecursive(int _nombre)
         {
             string resultat;
-            resultat = "0\n1";
-            string[] resultatTab = resultat.Split('\n');
+            resultat = "Les " + _nombre + " premiers nombres de la suite de fibonacci sont:";
 
-            if (_nombre >= 2)
+
+            if (_nombre > 2)
             {
-                resultat += SuiteFibonacciRecursive(_nombre - 1) + "\n" + (long.Parse(resultatTab[resultatTab.Length - 1]) + long.Parse(resultatTab[resultatTab.Length - 2]));
-            } else
-            {
-                resultat = "Les " + _nombre + " premiers nombres de la suite de fibonacci sont:\n" + resultat;
+                string recur = SuiteFibonacciRecursive(_nombre - 1);
+                string[] recurTab = recur.Split('\n');
+                resultat += recur + "\n" + (long.Parse(recurTab[^1]) + long.Parse(recurTab[^2]));
             }
+            else
+            {
+                resultat += "\n0\n1";
+            }
+
             return resultat;
 
         }

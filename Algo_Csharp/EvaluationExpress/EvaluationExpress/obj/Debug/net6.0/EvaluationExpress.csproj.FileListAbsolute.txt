@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\bin\Debug\net6.0\EvaluationExpress.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\bin\Debug\net6.0\EvaluationExpress.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\bin\Debug\net6.0\EvaluationExpress.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\bin\Debug\net6.0\EvaluationExpress.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\bin\Debug\net6.0\EvaluationExpress.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\obj\Debug\net6.0\EvaluationExpress.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\obj\Debug\net6.0\EvaluationExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\obj\Debug\net6.0\EvaluationExpress.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\obj\Debug\net6.0\EvaluationExpress.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\obj\Debug\net6.0\EvaluationExpress.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\obj\Debug\net6.0\EvaluationExpress.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\obj\Debug\net6.0\refint\EvaluationExpress.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\obj\Debug\net6.0\EvaluationExpress.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\obj\Debug\net6.0\EvaluationExpress.genruntimeconfig.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Algo_Csharp\EvaluationExpress\EvaluationExpress\obj\Debug\net6.0\ref\EvaluationExpress.dll
