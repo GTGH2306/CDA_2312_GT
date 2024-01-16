@@ -1,0 +1,27 @@
+VARIABLES
+	Investissement : réel
+	BeneficePourcent : réel
+	Benefices : tableau de réels
+
+DEBUT PROGRAMME
+	Ecrire "Saisissez la somme de départ investie:"
+	Lire <= Investissement
+	Ecrire "Saisissez le taux de bénéfices estimé par an (en pourcents):"
+	Lire <= BeneficePourcent
+
+	POUR i allant de 0 à 9
+		FAIRE
+		SI i = 0
+			ALORS
+			Benefices[i] <= (Investissement / 100) * BeneficePourcent
+		SINON
+			ALORS
+			Benefices[i] <= ((Investissement + Benefices[i - 1]) / 100) * BeneficePourcent
+		FIN SI
+	FIN POUR
+
+	POUR i allant de 0 à 9
+		FAIRE
+		Ecrire "Les benefices sur ", i + 1, " an(s) est de ", Benefices[i], " euros."
+	FIN POUR
+FIN PROGRAMME

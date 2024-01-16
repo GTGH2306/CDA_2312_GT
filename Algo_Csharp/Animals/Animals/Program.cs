@@ -8,6 +8,10 @@
             Bee abeille = new();
             Labrador michel = new("Michel");
             Pinscher pinpon = new("Pinpon");
+            Herbivorous chevre = new("Chêvre");
+            Horse bojack = new();
+            Giraffe giraffe = new();
+
 
             chat.Eat();
             chat.Move();
@@ -21,6 +25,17 @@
             michel.Move();
 
             pinpon.Move();
+
+            chevre.Move();
+            chevre.Eat();
+
+            bojack.Move();
+            bojack.Eat();
+            bojack.Neigh();
+
+            giraffe.Move();
+            giraffe.Eat();
+            giraffe.Moo();
 
         }
     }
