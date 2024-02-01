@@ -1,0 +1,134 @@
+@font-face {
+    font-family: channel-webfont;
+    src: url(./fonts/channel-webfont.ttf);
+}
+
+
+
+body{
+     margin: 0;
+    padding: 0;
+ background-image: url("./images/bg_motif.gif");
+}
+
+header{
+    grid-row: 1 /span 1;
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: flex-end;
+    background-color: black;
+    opacity: 95%;
+    border-bottom: 2px solid white;
+    width: 100%;
+}
+
+#logo{
+    position: absolute;
+    top: 34px;
+    left: 10%;
+}
+
+header > ul{
+    list-style: none;
+    font-family: channel-webfont;
+    display: flex;
+    flex-direction: row;
+    /*justify-content: space-between;*/
+    margin-top: 10px;
+    margin-bottom: 5px;
+    gap: 40px;
+    margin-right: 40px;
+    padding: 0;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color:darkred;
+}
+
+main{
+    width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+hr{
+    width: 95%;
+}
+
+figure{ 
+    gap: 5px;
+    margin-bottom: 0;
+}
+
+figure > img{
+    width:100%;
+}
+
+figure > figcaption {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color:darkred;
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+}
+
+section{
+    display: flex;
+    padding: 20px;
+    padding-top: 10px;
+}
+section > article {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    padding: 20px;
+    padding-top: 0;
+    background-image: url("./images/bg_g.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+section > article > h2{
+    grid-column: 1 /span 1;
+    grid-row: 1 / 2;
+    font-family: channel-webfont;
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    font-size: 1.2vw;
+    margin: 0;
+    transform: translate(0,25%);
+}
+section > article > img{
+    grid-column: 2 / -1;
+    grid-row: 1 /span 1;
+    width: 75%;
+}
+section > article > p {
+    grid-column: 1 / -1;
+    text-align: center;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button{
+    grid-column: 1 / -1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    justify-self: center;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 10px;
+    border: 0;
+    min-height: 3.5em;
+}
+
+
