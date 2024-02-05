@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Couleur Dynamique</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body onload="getValues()">
+    <h1>Changement de couleurs</h1>
+    <form id="bloc">
+        <div class="color">
+            <input type="text" onchange="getValues()" id="redValue" value="A2">
+            <button type="button" onclick="applyValues(['FF', '00', '00'])" id="redButton">Rouge</button>
+        </div>
+        <div class="color">
+            <input type="text" onchange="getValues()" id="greenValue" value="B7">
+            <button type="button" onclick="applyValues(['00', 'FF', '00'])" id="greenButton">Vert</button>
+        </div>
+        <div class="color">
+            <input type="text" onchange="getValues()" id="blueValue" value="CC">
+            <button type="button" onclick="applyValues(['00', '00', 'FF'])" id="blueButton">Bleu</button>
+        </div>        
+    </form>
+    <script src="./script.js"></script>
+</body>
+</html>

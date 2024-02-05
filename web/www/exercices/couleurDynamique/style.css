@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+}
+
+form{
+    width: fit-content;
+    display: flex;
+    padding: 5px;
+    gap: 5px;
+    border: solid white 5px;
+}
+
+.color{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.color > input {
+    width: 100px;
+}
+
+.color > button {
+    width: min-content;
+}
