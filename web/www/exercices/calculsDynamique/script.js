@@ -1,5 +1,21 @@
 var tabLines = [document.getElementById('Line1')];
 
+document.getElementById("Qte1").addEventListener("change", function(){
+    calculPrix(1);
+});
+
+document.getElementById("PrixUni1").addEventListener("change", function(){
+    calculPrix(1);
+});
+
+document.getElementById("buttonPlus").addEventListener("click", function(){
+    addLine();
+});
+
+document.getElementById("buttonMinus").addEventListener("click", function(){
+    removeLine();
+});
+
 function addLine(){
     let id = tabLines.length + 1;
     let name = 'Line' + id;
@@ -31,17 +47,24 @@ function addLine(){
 
     //Setup du champ Prix Unitaire
     champPrixUni.setAttribute('type', 'text');
-    champPrixUni.setAttribute('onchange', 'calculPrix(' + id + ')');
+    //champPrixUni.setAttribute('onchange', 'calculPrix(' + id + ')');
     champPrixUni.setAttribute('value', 0);
     champPrixUni.setAttribute('name', 'PrixUni' + id);
     champPrixUni.id ='PrixUni' + id;
 
     //Setup du champ Prix
     champPrix.setAttribute('type', 'text');
-    champPrix.setAttribute('onchange', 'calculPrix(' + id + ')');
     champPrix.setAttribute('value', 0);
     champPrix.setAttribute('name', 'Prix' + id);
     champPrix.id ='Prix' + id;
+    champPrix.readOnly = true;
+
+    champQte.addEventListener("change", function(){
+        calculPrix(id)
+    });
+    champPrixUni.addEventListener("change", function(){
+        calculPrix(id)
+    });
 
     //Attribution des enfants
     ligne.appendChild(labelQte);

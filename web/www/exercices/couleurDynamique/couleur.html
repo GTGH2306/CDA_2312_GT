@@ -6,22 +6,32 @@
     <title>Couleur Dynamique</title>
     <link rel="stylesheet" href="./style.css">
 </head>
-<body onload="getValues()">
+<body>
     <h1>Changement de couleurs</h1>
     <form id="bloc">
-        <div class="color">
-            <input type="text" onchange="getValues()" id="redValue" value="A2">
-            <button type="button" onclick="applyValues(['FF', '00', '00'])" id="redButton">Rouge</button>
+        <div>
+            <input type="text" class="field" id="redValue">
+            <button type="button" id="redButton">Rouge</button>
         </div>
-        <div class="color">
-            <input type="text" onchange="getValues()" id="greenValue" value="B7">
-            <button type="button" onclick="applyValues(['00', 'FF', '00'])" id="greenButton">Vert</button>
+        <div>
+            <input type="text" class="field" id="greenValue">
+            <button type="button" id="greenButton">Vert</button>
         </div>
-        <div class="color">
-            <input type="text" onchange="getValues()" id="blueValue" value="CC">
-            <button type="button" onclick="applyValues(['00', '00', 'FF'])" id="blueButton">Bleu</button>
-        </div>        
+        <div>
+            <input type="text" class="field" id="blueValue">
+            <button type="button" id="blueButton">Bleu</button>
+        </div>
+        <div>
+            <div>
+                <input type="radio" id="hexRadio" name="baseSelector" checked>
+                <label for="hexRadio">Hexadecimal</label>
+            </div>
+            <div>
+                <input type="radio" id="decRadio" name="baseSelector">
+                <label for="decRadio">Decimal</label>
+            </div>
+        </div>
     </form>
-    <script src="./script.js"></script>
+    <script src="./script2.js"></script>
 </body>
 </html>

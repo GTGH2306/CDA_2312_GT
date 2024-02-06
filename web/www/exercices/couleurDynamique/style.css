@@ -1,5 +1,5 @@
-body{
-    background-color: lightblue;
+#bloc{
+    background-color: aquamarine;
 }
 
 form{
@@ -10,16 +10,16 @@ form{
     border: solid white 5px;
 }
 
-.color{
+form > div{
     display: flex;
     flex-direction: column;
     gap: 5px;
 }
 
-.color > input {
+ .field {
     width: 100px;
 }
 
-.color > button {
+ button {
     width: min-content;
 }

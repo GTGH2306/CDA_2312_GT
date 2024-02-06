@@ -1,16 +1,32 @@
+
+document.addEventListener("DOMContentLoaded", function() {
+    setInterval('applyDateHour()', 500)
+});
+
+
+
+function applyDateHour(){
+    applyDate();
+    applyHour();
+}
+
 function returnDate(){
     const currentDate = new Date();
     let retour = '';
-
-    retour += currentDate.getDate() + '/' + (currentDate.getMonth() + 1) + '/' + currentDate.getFullYear()
+    retour += twoDigit(currentDate.getDate()) + '/' + twoDigit((currentDate.getMonth() + 1)) + '/' + currentDate.getFullYear()
     return retour;
 }
 
 function returnHour(){
     const currentDate = new Date();
     let retour ='';
+    retour += twoDigit(currentDate.getHours()) + ":" + twoDigit(currentDate.getMinutes()) + ":" + twoDigit(currentDate.getSeconds());
+    return retour;
+}
 
-    retour += currentDate.getHours().toString() + ":" + currentDate.getMinutes().toString() + ":" + currentDate.getSeconds();
+function twoDigit(_value){
+    let retour = '';
+    retour += (_value < 10)?'0' + _value:_value;
     return retour;
 }
 
