@@ -1,6 +1,6 @@
 
 document.addEventListener("DOMContentLoaded", function() {
-    setInterval('applyDateHour()', 500)
+    setInterval('applyDateHour()', 1000)
 });
 
 
