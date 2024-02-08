@@ -1,52 +1,5 @@
-window.addEventListener('load', function(){
-    let selectDay = document.getElementById('jour');
-    let selectYear = document.getElementById('annee');
-    let currentYear = new Date().getFullYear();
 
-    for (let i = 0; i <= 31; i++){
-        let option = document.createElement('option');
-        if (i == 0){
-            option.value = 'unselected';
-            option.text = 'Choisissez votre jour';
-        } else {
-            option.value = i;
-            option.text = i;
-        }
-        
-        selectDay.appendChild(option);
-    }
-
-    for (let i = currentYear; i >= 1900; i--){
-        let option = document.createElement('option');
-        option.value = i;
-        option.text = i;
-        selectYear.appendChild(option);
-    }
-
-    for (let element of document.getElementsByClassName('formElement')){
-        if (element.id == 'firstname' ||
-        element.id == 'uname' ||
-        element.id == 'jour' ||
-        element.id == 'mois') {
-            element.addEventListener('change', function(){
-                document.getElementById('pseudo').value = calculerPseudo()
-            });
-        }
-
-        element.addEventListener('change', function(){
-          document.getElementById('submit').disabled = !formOk();
-        });
-    }
-
-
-});
-
-document.getElementById('submit').addEventListener('click', function(){
-    for (let element of document.getElementsByClassName('formElement')){
-        addCookie(element.name, element.value);
-    }
-    window.location.href = './Accueil.html';
-});
+const mois = ['janvier', 'fevrier', 'mars', 'avril', 'mai', 'juin', 'juillet', 'aout', 'septembre', 'octobre', 'novembre', 'decembre'];
 
 function valNum(_mot){
     const alphabet = 'A B C D E F G H I J K L M N O P Q R S T U V W X Y Z'.split(' ');
@@ -150,4 +103,27 @@ function calculerPseudo(){
     }
     
     return retour;
+}
+
+function nbJoursAnniv(_jour, _mois){
+    const dateCourante = new Date();
+    let dateAnniv = new Date(dateCourante.getFullYear(), mois.indexOf(_mois), _jour);
+    const thisYear = ((dateCourante.getMonth() < dateAnniv.getMonth()) ||
+    ((dateCourante.getMonth() == dateAnniv.getMonth()) && (dateCourante.getDate() <= dateAnniv.getDate())))?true:false;
+    let timeDiff;
+    let jourDiff;
+
+    if (!thisYear) {
+        dateAnniv.setFullYear(dateAnniv.getFullYear() + 1)
+    }
+
+    timeDiff = dateAnniv.getTime() - dateCourante.getTime(); 
+
+    jourDiff = Math.round(timeDiff / (1000 * 3600 * 24));
+
+    if (jourDiff == -0){
+        jourDiff = 0;
+    }
+
+    return jourDiff;
 }

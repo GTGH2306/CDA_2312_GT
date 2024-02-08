@@ -1,0 +1,42 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+main {
+    width: 17%;
+    display: flex;
+    grid-column: 1 / -1;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#babaneImg{
+    width: 100%;
+    transition-duration: 0.3s;
+
+}
+
+#babaneImg:hover{
+    color:rgba(255, 169, 10, 0.281);
+    transform: scale(1.05);
+    transition: ease;
+    transition-duration: 0.3s;
+}
+
+#babaneImg:host + label > img{
+    filter: brightness(1.2);
+}
+
+#babaneCtrl {
+    display: none;
+}
+
+main > p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
