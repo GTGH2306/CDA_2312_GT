@@ -1,42 +1,131 @@
 body {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     justify-content: center;
     height: 100vh;
+    background: url('./img/palmtree.jpg') center/cover no-repeat fixed;
+    margin: 0;
+    padding: 0;
+
 
 }
 
 main {
-    width: 17%;
+    width: 100%;
     display: flex;
-    grid-column: 1 / -1;
+    grid-column: 2 /span 2;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
 
 }
 
-#babaneImg{
+#babane {
+    min-width: 200px;
+    width: 30%;
+}
+
+#babaneImg {
     width: 100%;
-    transition-duration: 0.3s;
-
-}
-
-#babaneImg:hover{
-    color:rgba(255, 169, 10, 0.281);
-    transform: scale(1.05);
+    transition-duration: 0.2s;
+    animation: idleAnimation 5s;
     transition: ease;
-    transition-duration: 0.3s;
+    animation-iteration-count: infinite;
 }
 
-#babaneImg:host + label > img{
-    filter: brightness(1.2);
+#babaneImg:hover {
+    color: rgba(255, 169, 10, 0.281);
+    filter: brightness(1.1);
+    transition-duration: 0.5s;
+    animation: idleAnimationHover 2s;
+    animation-iteration-count: infinite;
 }
 
-#babaneCtrl {
-    display: none;
+#babaneImg.clicBabane {
+    animation: clicAnimation 0.3s;
 }
 
-main > p{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+@keyframes clicAnimation {
+    0% {
+        filter: drop-shadow(0 0 0px yellow) brightness(1);
+    }
+
+    20% {
+        transform: rotate(2deg);
+    }
+
+    40% {
+        transform: rotate(-2deg) scale(0.8, 0.6);
+        filter: drop-shadow(0 0 10px yellow) brightness(1.5);
+    }
+
+    100% {
+        filter: drop-shadow(0 0 0px yellow) brightness(1);
+    }
+}
+
+@keyframes idleAnimation {
+    0% {
+        transform: rotate(5deg);
+        filter: drop-shadow(0 0 0px yellow);
+    }
+
+    50% {
+        transform: rotate(-5deg);
+        filter: drop-shadow(0 0 2px yellow);
+
+    }
+
+    100% {
+        transform: rotate(5deg);
+        filter: drop-shadow(0 0 0px yellow);
+
+    }
+}
+
+@keyframes idleAnimationHover {
+    0% {
+        transform: rotate(5deg) scale(1.05);
+        filter: drop-shadow(0 0 0px yellow) brightness(1.1);
+        
+
+        
+    }
+
+    50% {
+        transform: rotate(-5deg) scale(1.05);
+        filter: drop-shadow(0 0 3px yellow) brightness(1);
+
+
+    }
+
+    100% {
+        transform: rotate(5deg) scale(1.05);
+        filter: drop-shadow(0 0 0px yellow) brightness(1.1);
+
+
+    }
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(255, 217, 134);
+}
+
+#babane>p {
     font-size: 2em;
+    text-align: center;
+    filter: drop-shadow(5px 5px rgba(255, 27, 153, 0.425));
+}
+
+
+aside{
+    grid-column: 4 / -1;;
+    background-color: rgba(27, 22, 18, 0.705);
+    border-left: solid 5px brown;
+}
+
+aside > div{
+    width: 100%;
+    border-bottom: solid rgba(0, 0, 0, 0.5) 3px;
 }
