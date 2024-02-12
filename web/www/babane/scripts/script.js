@@ -1,5 +1,6 @@
 let babanes = 0
 const tickrate = 200;
+let timeoutHandle;
 
 
 window.addEventListener('load', function() {
@@ -22,10 +23,19 @@ document.getElementById('babaneImg').addEventListener('click', function(){
 function playAnimation(){
     let babane = document.getElementById('babaneImg');
 
-    babane.classList.add('clicBabane');
+    if (babane.classList.contains('clicBabane')){
+        clearTimeout(timeoutHandle);
+        babane.classList.remove('clicBabane');
+    }
+
     setTimeout(() =>{
+        babane.classList.add('clicBabane');
+    }, 1);
+
+    timeoutHandle = setTimeout(() =>{
         babane.classList.remove('clicBabane')
     }, 300);
+
 }
 
 function showBabanes(){
