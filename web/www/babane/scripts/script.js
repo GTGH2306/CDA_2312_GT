@@ -7,18 +7,16 @@ let timeoutHandle;
 
 window.addEventListener('load', function() {
     
-    for (let i = 0; i < farmsProps.length; i++){
-        farmTab.push(new Farm(farmsProps[i]));
-        elementForFarm(farmTab[i]);
-    }
-    
+    startingRoutine();
+
     setInterval(function(){
         babanes += (getGlobalBps() / 1000) * tickrate;
         
+        document.getElementById('bpstxt').innerHTML = 'BPS: ' + Math.round(getGlobalBps() * 10) / 10;
+
         showBabanes();
     }, tickrate);
 });
-
 
 
 document.getElementById('babaneImg').addEventListener('click', function(){
@@ -27,6 +25,9 @@ document.getElementById('babaneImg').addEventListener('click', function(){
     showBabanes();
 });
 
+window.addEventListener('beforeunload', function(){
+    sauvegarder();
+});
 
 
 function playAnimation(){
@@ -62,12 +63,17 @@ function Farm(_proprietes){
         return Math.round(this.numberOf * this.initBps * 10)/10;
     }
     this.getCost = function(){
-        return Math.floor(Math.pow(this.initCost, (1 + (this.numberOf / 11))));
+        //return Math.floor(Math.pow(this.initCost, (1 + (this.numberOf / 10))));
+        return Math.floor(this.initCost * Math.exp(0.2 * this.numberOf));
     };
     this.buy = function(){
         if (babanes - this.getCost() >= 0){
             babanes -= this.getCost();
             this.numberOf ++;
+            if (farmTab.indexOf(this) == farmTab.length - 1 && farmTab.length < farmsProps.length) {
+                farmTab.push(new Farm(farmsProps[farmTab.length]))
+                elementForFarm(farmTab[farmTab.length - 1])
+            }
             refreshFarmElements();
         }
     }
@@ -136,4 +142,49 @@ function getGlobalBps(){
         retour += farm.getBps();
     }
     return retour;
+}
+
+function sauvegarder(){
+    let farmTabNb = [];
+
+    for (let farm of farmTab){
+        farmTabNb.push(farm.numberOf);
+    }
+
+    const sauvegarde = {
+        babanes: babanes,
+        farmTabNb: farmTabNb
+    };
+    localStorage.setItem('sauvegarde', JSON.stringify(sauvegarde));
+}
+
+function charger(){
+    const sauvegarde = localStorage.getItem('sauvegarde');
+
+    if (sauvegarde){
+        const chargement = JSON.parse(sauvegarde);
+        babanes = chargement.babanes;
+        let farmTabNb = chargement.farmTabNb;
+
+        if (farmTabNb){
+           for (let i = 0; i < farmTabNb.length; i++){
+                farmTab.push(new Farm(farmsProps[i]))
+                farmTab[farmTab.length - 1].numberOf = farmTabNb[i];
+            } 
+        }
+        
+
+    }
+}
+
+function startingRoutine(){
+    charger();
+    if (farmTab.length == 0){
+        farmTab.push(new Farm(farmsProps[0]));
+        elementForFarm(farmTab[0]);
+    } else {
+        for (let farm of farmTab){
+            elementForFarm(farm);
+        }
+    }
 }
