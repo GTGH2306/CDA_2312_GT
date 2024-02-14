@@ -25,8 +25,8 @@ const Hydro = {
 
 const Nft = {
     id: 'nft',
-    nom: 'NFT\'s de Babanes',
-    img: './img/robot.png',
+    nom: 'NFT de Babane',
+    img: './img/nft.png',
     initCost: 10000,
     initBps: 75
 }

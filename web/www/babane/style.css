@@ -27,6 +27,7 @@ main {
 }
 
 #babane {
+    user-select: none;
     min-width: 200px;
     width: 30%;
 }
