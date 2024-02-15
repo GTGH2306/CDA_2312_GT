@@ -6,7 +6,7 @@ window.addEventListener('load', function(){
         response = data;
         createHtmlElement(response)
         showMostPlayed(response)
-        showBestRation(response)
+        showBestRatio(response)
     })
 
     
@@ -24,10 +24,17 @@ function createHtmlElement(_response) {
     let firstLine = document.createElement('tr')
     let keys = [];
 
-    for (let key in _response[0]){
+    for (let card of _response){
+        for (let key in card){
+            if (!keys.includes(key)){
+                keys.push(key);
+            }
+        }
+    }
+
+    for (let key of keys){
         let line = document.createElement('th');
-        line.innerHTML = key;
-        keys.push(key);
+        line.textContent = key;
         firstLine.appendChild(line);
     }
     document.getElementById('tableau').appendChild(firstLine);
@@ -61,7 +68,7 @@ function showMostPlayed(_cards){
 
 }
 
-function showBestRation(_cards){
+function showBestRatio(_cards){
     const bestRatioElement = document.getElementById('bestRatio');
     let bestRatioIndex;
     let bestRatio;
