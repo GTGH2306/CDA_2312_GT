@@ -1,5 +1,5 @@
+const students = [];
 const minGrade = 12;
-let students = [];
 
 window.addEventListener('load', function() {
 
@@ -7,55 +7,71 @@ window.addEventListener('load', function() {
     .then( function(_reponse){
         return _reponse.json();
     }).then(function(_results){
-        addAllStudents(_results);
+        addStudentsToTable(_results);
         showNbStudents();
         showAverage();
         showNbAboveAvg();
-        addObtained();
+        showObtained();
     })
 });
 
-document.getElementById('addStudent').addEventListener('click', function(){
-    let fullnameText = document.getElementById('fullname');
-    let gradeText = document.getElementById('grade');
 
-    addStudent(fullnameText.value, gradeText.value);
-    showNbStudents();
-    showAverage()
-    showNbAboveAvg()
-});
-
-function addAllStudents(_results){
-    _results.sort(function (a, b) {
-        return b.grade - a.grade;
-    });
-
-    for (let student of _results){
-        addStudent(student.fullname, student.grade);
-        students.push(student);
+function addStudent(_student){
+    try {
+        checkStudent(_student)
+        let lastName;
+        let firstName;
+        let line;
+        let gradeElement;
+        
+        lastName = _student.fullname.split(' ')[0];
+        firstName = _student.fullname.split(' ')[1];
+        line = document.createElement('tr');
+        
+        line.appendChild(document.createElement('td')).textContent = lastName;
+        line.appendChild(document.createElement('td')).textContent = firstName;
+        gradeElement = document.createElement('td');
+        gradeElement.textContent = _student.grade;
+        gradeElement.classList.add('grade');
+        line.appendChild(gradeElement);
+    
+        line.classList.add('line')
+    
+        document.getElementById('resultsBody').appendChild(line)
+    } catch (_error) {
+        console.log('Error: ' + _error)
     }
 }
 
-function addStudent(_fullname, _grade){
-    let lastName;
-    let firstName;
-    let line;
-    let gradeElement;
+function checkStudent(_student){
+    if (_student.grade < 0){
+        throw new Error(_student.fullname + ' grade is lesser than 0')
+    } else if (_student.grade > 20){
+        throw new Error (_student.fullname + ' grade is greater than 20')
+    } else if (_student.fullname.split(' ').length > 2){
+        throw new Error (_student.fullname + ' name is invalid(too big)')
+    } else if (_student.fullname.split(' ').length < 2){
+        throw new Error(_student.fullname + ' name is invalid(too small)')
+    }
+}
 
-    lastName = _fullname.split(' ')[0];
-    firstName = _fullname.split(' ')[1];
-    line = document.createElement('tr');
-    
-    line.appendChild(document.createElement('td')).textContent = lastName;
-    line.appendChild(document.createElement('td')).textContent = firstName;
-    gradeElement = document.createElement('td');
-    gradeElement.textContent = _grade;
-    gradeElement.classList.add('grade');
-    line.appendChild(gradeElement);
+function addStudentsToTable(_students){
 
-    line.classList.add('line')
+    while (document.getElementById('resultsBody').firstChild){
+        document.getElementById('resultsBody').removeChild(document.getElementById('resultsBody').firstChild)
+    }
 
-    document.getElementById('resultsBody').appendChild(line)
+
+    _students.sort(function (a, b) {
+        return b.grade - a.grade;
+    });
+
+    for (const student of _students){
+        addStudent(student);
+        if (students.indexOf(student) === -1){
+            students.push(student);
+        }
+    }
 }
 
 function showNbStudents(){
@@ -85,16 +101,30 @@ function showNbAboveAvg(){
     document.getElementById('nbAboveAverage').textContent = 'Nombre d\'étudiants au dessus de la moyenne : ' + nbAboveAvg;
 }
 
-function addObtained(){
-    document.getElementById('resultsHead').appendChild(document.createElement('th')).textContent = 'Obtenu'
+function showObtained(){
+    const lines = document.getElementsByClassName('line');
 
-    for (let i = 0; i < students.length; i++){
-        if (students[i].grade >= minGrade){
-            document.getElementsByClassName('line')[i].appendChild(document.createElement('td')).textContent = 'Oui'
-        } else {
-            document.getElementsByClassName('line')[i].appendChild(document.createElement('td')).textContent = 'Non'
-        }
+
+    if (!document.getElementById('obtainedHead')){
+        const header = document.createElement('th');
+        header.textContent = 'Obtenu';
+        header.id = 'obtainedHead';
+        document.getElementById('resultsHead').appendChild(header)
     }
 
-    document.getElementById('list').appendChild(document.createElement('li')).textContent = 'Note éliminatoire : ' + minGrade;
+    while (document.getElementsByClassName('obtained').length > 0){
+        document.getElementsByClassName('obtained').remove()[0];
+    }
+
+    for (let i = 0; i < lines.length; i++){
+        const obtained = document.createElement('td')
+        obtained.id = 'obtained'
+        if (students[i].grade >= minGrade){
+            obtained.textContent = 'Oui';
+        } else {
+            obtained.textContent = 'Non';
+        }
+        lines[i].appendChild(obtained);
+    }
+
 }
