@@ -1,0 +1,119 @@
+:root {
+    --color1: #111;
+    --color2: #222;
+    --color3: #333;
+    --color4: #444;
+    --color5: #664;
+    --color6: white;
+    --color7: #FFFFFFCC;
+    --color8: yellow;
+    --color9: yellowgreen;
+    --color10: darkgreen;
+    --color11: #009900CC;
+    --color12: #CCCC00CC;
+    --color13: #CC6600CC;
+    --color14: #CC0000CC;
+}
+
+body{
+    background-color: black;
+    grid-template-columns: 2fr 1fr 2fr;
+    display: grid;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Comic Sans MS';
+    width: 30%;
+    color:yellowgreen;
+    justify-self: center;
+    display: inline;
+    display: flex;
+}
+
+img{
+    height: 50px;
+}
+
+fieldset{
+    color: white;
+    display: inline;
+    background-color: #333;
+}
+
+#search{
+    height: 100%;
+    width: 100%;
+    font-size: large;
+    background-color: #333;
+    border: none;
+    color: white;
+}
+
+::placeholder{
+    color: lightgray;
+}
+
+table{
+    grid-column: 1 / -1;
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 100%;
+}
+
+th{
+    color: yellowgreen;
+    background-color: #444;
+    width: auto;
+    padding: 10px;
+}
+a:hover {
+    text-decoration: underline;
+    user-select:none;
+}
+
+.tableName{
+    width: 100%;
+    text-align: start;
+}
+
+tr {
+    color: white;
+    text-align: center;
+}
+tr:hover, tr:hover > td:first-child, tr:hover > td:last-child{
+    background-color: #664;
+}
+
+td{
+    padding: 10px;
+}
+
+tbody td:first-child, tbody td:last-child, tfoot td:first-child{
+    background-color: #222;
+    color: yellow;
+}
+
+.deleteButton{
+    background: none;
+    border: none;
+}
+
+.nutriA{
+    background-color: darkgreen;
+    font-weight: bold;
+}
+.nutriB{
+    background-color: #009900CC;
+}
+.nutriC{
+    background-color: #CCCC00CC;
+}
+.nutriD{
+    background-color: #CC6600CC;
+}
+.nutriE{
+    background-color: #CC0000CC;
+}
