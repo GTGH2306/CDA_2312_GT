@@ -35,16 +35,6 @@ window.addEventListener('load', function(){
             tableManager();
         });
     })
-
-    
-    // for (const header of document.getElementsByTagName('a')){
-    //     header.addEventListener('click', function(){
-    //         for (const key of )
-    //         cereals = sortByKey(cereals, key);
-    //         tableManager();
-    //     });
-    // }
-
 });
 
 document.getElementById('searchSelect').addEventListener('change', function(){
