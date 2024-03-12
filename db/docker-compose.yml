@@ -1,0 +1,17 @@
+name: gtgh2306-mysql
+volumes:
+  data:
+services:
+  db:
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: gtdb
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    container_name: gtgh2306-mysql
+    restart: always
+    volumes:
+      - 'data:/var/lib/mysql'
+    ports:
+      - '3306:3306'
