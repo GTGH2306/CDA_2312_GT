@@ -6,7 +6,7 @@ CREATE TABLE etudiants(
 	id_etu INT AUTO_INCREMENT,
 	nom_etu VARCHAR(20) NOT NULL,
 	pnom_etu VARCHAR(20) NOT NULL,
-	date_entree_etu DATE NOT NULL,
+	date_entree_etu DATE NOT NULL DEFAULT (CURDATE()),
 	CONSTRAINT pk_etu PRIMARY KEY (id_etu)
 );
 
@@ -20,7 +20,7 @@ CREATE TABLE matieres(
 
 CREATE TABLE controles (
 	moyenne_cont DECIMAL(4, 2) NOT NULL,
-	date_cont DATE DEFAULT (CURDATE()),
+	date_cont DATE NOT NULL,
 	id_etu INT,
 	id_mat INT,
 	CONSTRAINT CHECK (moyenne_cont < 20),
@@ -29,9 +29,9 @@ CREATE TABLE controles (
 	CONSTRAINT fk_mat FOREIGN KEY (id_mat) REFERENCES matieres(id_mat)
 );
 
-INSERT INTO etudiants(nom_etu, pnom_etu, date_entree_etu)
+INSERT INTO etudiants(nom_etu, pnom_etu)
 VALUES
-	('Dalton', 'Joe', (CURDATE()));
+	('Dalton', 'Joe');
 	
 	
 INSERT INTO matieres(lib_mat, coef_mat)
@@ -39,7 +39,7 @@ VALUES
 	('Mathmemagique', 9),
 	('Meteorologie', 3);
 	
-INSERT INTO controles(moyenne_cont, id_etu, id_mat)
+INSERT INTO controles(moyenne_cont, id_etu, id_mat, date_cont)
 VALUES
-	(13, 1, 1),
-	(15, 1, 2);
+	(13, 1, 1, '1985-08-16'),
+	(15, 1, 2, '1753-07-12');

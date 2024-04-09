@@ -18,7 +18,7 @@ ALTER TABLE personnes
 
 INSERT INTO personnes(nom_personne, pnom_personne, num_rue_personne, rue_personne, cp_personne, ville_personne)
 VALUES
-	('Dalton', 'Joe', 3, 'rue des peupliers', 95000, 'Montpellier')
+	('Dalton', 'Joe', 3, 'rue des peupliers', 95000, 'Montpellier');
 
 CREATE TABLE vehicules(
 	immat_vehicule VARCHAR(15) NOT NULL,
