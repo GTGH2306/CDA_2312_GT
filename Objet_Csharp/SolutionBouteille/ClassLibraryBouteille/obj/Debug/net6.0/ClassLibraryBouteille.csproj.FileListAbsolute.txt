@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBouteille\ClassLibraryBouteille\bin\Debug\net6.0\ClassLibraryBouteille.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBouteille\ClassLibraryBouteille\bin\Debug\net6.0\ClassLibraryBouteille.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBouteille\ClassLibraryBouteille\bin\Debug\net6.0\ClassLibraryBouteille.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBouteille\ClassLibraryBouteille\obj\Debug\net6.0\ClassLibraryBouteille.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBouteille\ClassLibraryBouteille\obj\Debug\net6.0\ClassLibraryBouteille.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBouteille\ClassLibraryBouteille\obj\Debug\net6.0\ClassLibraryBouteille.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBouteille\ClassLibraryBouteille\obj\Debug\net6.0\ClassLibraryBouteille.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBouteille\ClassLibraryBouteille\obj\Debug\net6.0\ClassLibraryBouteille.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBouteille\ClassLibraryBouteille\obj\Debug\net6.0\ClassLibraryBouteille.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBouteille\ClassLibraryBouteille\obj\Debug\net6.0\refint\ClassLibraryBouteille.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBouteille\ClassLibraryBouteille\obj\Debug\net6.0\ClassLibraryBouteille.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBouteille\ClassLibraryBouteille\obj\Debug\net6.0\ref\ClassLibraryBouteille.dll

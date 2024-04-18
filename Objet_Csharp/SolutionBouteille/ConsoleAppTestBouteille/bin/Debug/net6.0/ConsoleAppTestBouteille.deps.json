@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleAppTestBouteille/1.0.0": {
+        "dependencies": {
+          "ClassLibraryBouteille": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppTestBouteille.dll": {}
+        }
+      },
+      "ClassLibraryBouteille/1.0.0": {
+        "runtime": {
+          "ClassLibraryBouteille.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppTestBouteille/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryBouteille/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
