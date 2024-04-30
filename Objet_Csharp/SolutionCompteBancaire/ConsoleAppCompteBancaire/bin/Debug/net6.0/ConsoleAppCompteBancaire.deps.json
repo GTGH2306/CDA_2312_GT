@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleAppCompteBancaire/1.0.0": {
+        "dependencies": {
+          "ClassLibraryCompteBancaire": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppCompteBancaire.dll": {}
+        }
+      },
+      "ClassLibraryCompteBancaire/1.0.0": {
+        "runtime": {
+          "ClassLibraryCompteBancaire.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppCompteBancaire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryCompteBancaire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -6,8 +6,8 @@
         private double quantiteLiquideEnMl;
         private bool estOuverte;
 
-        public Bouteille() : this(1000) {}
-        
+        public Bouteille() : this(1000) { }
+
 
         public Bouteille(double _capaciteMaxEnMl)
         {
@@ -24,7 +24,8 @@
             {
                 this.estOuverte = true;
                 ouvertureSucces = true;
-            } else
+            }
+            else
             {
                 ouvertureSucces = false;
             }
@@ -53,14 +54,26 @@
         {
             bool remplirSucces;
 
-            if (this.estOuverte &&
+            try
+            {
+                verifierEntree(_quantiteLiquideEnMl);
+                if (this.estOuverte &&
                 _quantiteLiquideEnMl > 0 &&
                 this.quantiteLiquideEnMl < this.capaciteMaxEnMl)
+                {
+                    this.quantiteLiquideEnMl =
+                        this.quantiteLiquideEnMl + _quantiteLiquideEnMl > this.capaciteMaxEnMl ?
+                        this.capaciteMaxEnMl : this.quantiteLiquideEnMl + _quantiteLiquideEnMl;
+                    remplirSucces = true;
+                }
+                else
+                {
+                    remplirSucces = false;
+                }
+            }
+            catch (BouteilleEntreeNonValideException _exception)
             {
-                this.quantiteLiquideEnMl += _quantiteLiquideEnMl;
-                remplirSucces = true;
-            } else
-            {
+                Console.WriteLine(_exception);
                 remplirSucces = false;
             }
 
@@ -71,19 +84,38 @@
         {
             bool viderSucces;
 
-            if (this.estOuverte &&
+            try
+            {
+                verifierEntree(_quantiteLiquideEnMl);
+                if (this.estOuverte &&
                 this.quantiteLiquideEnMl > 0 &&
                 _quantiteLiquideEnMl > 0)
-            {
-                this.quantiteLiquideEnMl -= _quantiteLiquideEnMl > this.quantiteLiquideEnMl ? _quantiteLiquideEnMl : this.quantiteLiquideEnMl;
-                viderSucces = true;
+                {
+                    this.quantiteLiquideEnMl -=
+                        _quantiteLiquideEnMl < this.quantiteLiquideEnMl ?
+                        _quantiteLiquideEnMl : this.quantiteLiquideEnMl;
+                    viderSucces = true;
+                }
+                else
+                {
+                    viderSucces = false;
+                }
             }
-            else
+            catch (BouteilleEntreeNonValideException _exception)
             {
+                Console.WriteLine(_exception);
                 viderSucces = false;
             }
 
             return viderSucces;
+        }
+
+        public void verifierEntree(double _nombreATester)
+        {
+            if (_nombreATester < 0)
+            {
+                throw new BouteilleEntreeNonValideException("Nombre negatif");
+            }
         }
 
         public bool RemplirTout()

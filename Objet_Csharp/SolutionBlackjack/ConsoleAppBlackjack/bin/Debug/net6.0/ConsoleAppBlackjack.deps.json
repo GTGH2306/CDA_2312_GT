@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleAppBlackjack/1.0.0": {
+        "dependencies": {
+          "ClassLibraryBlackjack": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppBlackjack.dll": {}
+        }
+      },
+      "ClassLibraryBlackjack/1.0.0": {
+        "runtime": {
+          "ClassLibraryBlackjack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppBlackjack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryBlackjack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

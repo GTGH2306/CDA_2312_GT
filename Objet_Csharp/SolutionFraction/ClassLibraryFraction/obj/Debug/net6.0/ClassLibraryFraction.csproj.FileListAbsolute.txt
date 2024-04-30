@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionFraction\ClassLibraryFraction\bin\Debug\net6.0\ClassLibraryFraction.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionFraction\ClassLibraryFraction\bin\Debug\net6.0\ClassLibraryFraction.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionFraction\ClassLibraryFraction\bin\Debug\net6.0\ClassLibraryFraction.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionFraction\ClassLibraryFraction\obj\Debug\net6.0\ClassLibraryFraction.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionFraction\ClassLibraryFraction\obj\Debug\net6.0\ClassLibraryFraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionFraction\ClassLibraryFraction\obj\Debug\net6.0\ClassLibraryFraction.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionFraction\ClassLibraryFraction\obj\Debug\net6.0\ClassLibraryFraction.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionFraction\ClassLibraryFraction\obj\Debug\net6.0\ClassLibraryFraction.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionFraction\ClassLibraryFraction\obj\Debug\net6.0\ClassLibraryFraction.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionFraction\ClassLibraryFraction\obj\Debug\net6.0\refint\ClassLibraryFraction.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionFraction\ClassLibraryFraction\obj\Debug\net6.0\ClassLibraryFraction.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionFraction\ClassLibraryFraction\obj\Debug\net6.0\ref\ClassLibraryFraction.dll

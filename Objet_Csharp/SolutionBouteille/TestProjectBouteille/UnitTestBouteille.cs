@@ -6,6 +6,33 @@ namespace TestProjectBouteille
     public class UnitTestBouteille
     {
         [TestMethod]
+        public void Bouteille_Constructeur_ParDefaut_Reussite()
+        {
+            //Arrange
+            Bouteille testBottle = new Bouteille();
+
+            //Assert
+            Assert.IsNotNull(testBottle);
+            Assert.AreEqual(1000, testBottle.getCapaciteMaxEnMl());
+            Assert.AreEqual(1000, testBottle.getQuantiteLiquideEnMl());
+            Assert.IsFalse(testBottle.getEstOuverte());
+
+        }
+
+        public void Bouteille_Constructeur_Parametre_Reussite()
+        {
+            //Arrange
+            Bouteille testBottle = new Bouteille(2333);
+
+            //Assert
+            Assert.IsNotNull(testBottle);
+            Assert.AreEqual(2333, testBottle.getCapaciteMaxEnMl());
+            Assert.AreEqual(2333, testBottle.getQuantiteLiquideEnMl());
+            Assert.IsFalse(testBottle.getEstOuverte());
+
+        }
+
+        [TestMethod]
         public void Bouteille_Ouvrir_OuvertureQuandouteilleFermee_Reussite()
         {
             //Arrange
@@ -16,7 +43,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.Ouvrir();
 
             //Assert
-            Assert.AreEqual(true, retour);
+            Assert.IsTrue(testBottle.getEstOuverte());
+            Assert.IsTrue(retour);
         }
 
         [TestMethod]
@@ -30,7 +58,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.Ouvrir();
 
             //Assert
-            Assert.AreEqual(false, retour);
+            Assert.IsFalse(retour);
+            Assert.IsTrue(testBottle.getEstOuverte());
         }
 
         [TestMethod]
@@ -44,7 +73,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.Fermer();
 
             //Assert
-            Assert.AreEqual(false, retour);
+            Assert.IsFalse(retour);
+            Assert.IsFalse(testBottle.getEstOuverte());
         }
 
         [TestMethod]
@@ -58,7 +88,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.Fermer();
             
             //Assert
-            Assert.AreEqual(true, retour);
+            Assert.IsTrue(retour);
+            Assert.IsFalse(testBottle.getEstOuverte());
         }
 
         [TestMethod]
@@ -73,7 +104,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.Remplir(testBottle.getCapaciteMaxEnMl() / 2);
 
             //Assert
-            Assert.AreEqual(true, retour);
+            Assert.IsTrue(retour);
+            Assert.AreEqual(1500, testBottle.getQuantiteLiquideEnMl());
         }
 
         [TestMethod]
@@ -88,7 +120,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.Remplir(testBottle.getCapaciteMaxEnMl() / 2);
 
             //Assert
-            Assert.AreEqual(false, retour);
+            Assert.IsFalse(retour);
+            Assert.AreEqual(0, testBottle.getQuantiteLiquideEnMl());
         }
 
         [TestMethod]
@@ -103,7 +136,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.Remplir(testBottle.getCapaciteMaxEnMl() / 2);
             
             //Assert
-            Assert.AreEqual(false, retour);
+            Assert.IsFalse(retour);
+            Assert.AreEqual(3000, testBottle.getQuantiteLiquideEnMl());
         }
 
         [TestMethod]
@@ -118,7 +152,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.RemplirTout();
             
             //Assert
-            Assert.AreEqual(true, retour);
+            Assert.IsTrue(retour);
+            Assert.AreEqual(3000, testBottle.getQuantiteLiquideEnMl());
         }
 
         [TestMethod]
@@ -133,7 +168,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.RemplirTout();
             
             //Assert
-            Assert.AreEqual(false, retour);
+            Assert.IsFalse(retour);
+            Assert.AreEqual(0, testBottle.getQuantiteLiquideEnMl());
         }
 
         [TestMethod]
@@ -148,7 +184,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.RemplirTout();
             
             //Assert
-            Assert.AreEqual(true, retour);
+            Assert.IsTrue(retour);
+            Assert.AreEqual(3000, testBottle.getQuantiteLiquideEnMl());
         }
 
         [TestMethod]
@@ -163,7 +200,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.RemplirTout();
             
             //Assert
-            Assert.AreEqual(false, retour);
+            Assert.IsFalse(retour);
+            Assert.AreEqual(3000, testBottle.getQuantiteLiquideEnMl());
         }
 
         [TestMethod]
@@ -178,7 +216,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.Remplir(testBottle.getCapaciteMaxEnMl() + 1);
 
             //Assert
-            Assert.AreEqual(true, retour);
+            Assert.IsTrue(retour);
+            Assert.AreEqual(3000, testBottle.getQuantiteLiquideEnMl());
         }
 
         [TestMethod]
@@ -193,7 +232,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.Remplir(-1);
 
             //Assert
-            Assert.AreEqual(false, retour);
+            Assert.IsFalse(retour);
+            Assert.AreEqual(1500, testBottle.getQuantiteLiquideEnMl());
         }
 
         [TestMethod]
@@ -201,14 +241,15 @@ namespace TestProjectBouteille
         {
             //Arrange
             Bouteille testBottle = new Bouteille(3000);
-            testBottle.setQuantiteLiquideEnMl(testBottle.getCapaciteMaxEnMl() / 2);
+            testBottle.setQuantiteLiquideEnMl(1500);
             testBottle.setEstOuverte(true);
 
             //Act
-            bool retour = testBottle.Vider(testBottle.getQuantiteLiquideEnMl() / 2);
+            bool retour = testBottle.Vider(500);
 
             //Assert
-            Assert.AreEqual(true, retour);
+            Assert.IsTrue(retour);
+            Assert.AreEqual(1000, testBottle.getQuantiteLiquideEnMl());
         }
 
         [TestMethod]
@@ -223,7 +264,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.Vider(testBottle.getQuantiteLiquideEnMl() / 2);
 
             //Assert
-            Assert.AreEqual(false, retour);
+            Assert.AreEqual(1500, testBottle.getQuantiteLiquideEnMl());
+            Assert.IsFalse(retour);
         }
 
         [TestMethod]
@@ -238,7 +280,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.Vider(testBottle.getQuantiteLiquideEnMl() + 1);
 
             //Assert
-            Assert.AreEqual(true, retour);
+            Assert.AreEqual(0, testBottle.getQuantiteLiquideEnMl());
+            Assert.IsTrue(retour);
         }
 
         [TestMethod]
@@ -253,7 +296,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.Vider(-1);
 
             //Assert
-            Assert.AreEqual(false, retour);
+            Assert.AreEqual(1500, testBottle.getQuantiteLiquideEnMl());
+            Assert.IsFalse(retour);
         }
 
         [TestMethod]
@@ -268,7 +312,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.ViderTout();
 
             //Assert
-            Assert.AreEqual(true, retour);
+            Assert.AreEqual(0, testBottle.getQuantiteLiquideEnMl());
+            Assert.IsTrue(retour);
         }
 
         [TestMethod]
@@ -283,7 +328,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.ViderTout();
 
             //Assert
-            Assert.AreEqual(false, retour);
+            Assert.AreEqual(0, testBottle.getQuantiteLiquideEnMl());
+            Assert.IsFalse(retour);
         }
 
         [TestMethod]
@@ -299,7 +345,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.RemplirTout();
 
             //Assert
-            Assert.AreEqual(true, retour);
+            Assert.AreEqual(3000, testBottle.getQuantiteLiquideEnMl());
+            Assert.IsTrue(retour);
         }
 
         [TestMethod]
@@ -315,7 +362,8 @@ namespace TestProjectBouteille
             bool retour = testBottle.getQuantiteLiquideEnMl() == testBottle.getCapaciteMaxEnMl();
 
             //Assert
-            Assert.AreEqual(true, retour);
+            Assert.AreEqual(3000, testBottle.getQuantiteLiquideEnMl());
+            Assert.IsTrue(retour);
         }
 
         [TestMethod]
@@ -328,10 +376,9 @@ namespace TestProjectBouteille
 
             //Act
             testBottle.ViderTout();
-            bool retour = testBottle.getQuantiteLiquideEnMl() == 0;
-            
+
             //Assert
-            Assert.AreEqual(true, retour);
+            Assert.AreEqual(0, testBottle.getQuantiteLiquideEnMl());
         }
 
     }

@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBlackjack\ClassLibraryBlackjack\bin\Debug\net6.0\ClassLibraryBlackjack.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBlackjack\ClassLibraryBlackjack\bin\Debug\net6.0\ClassLibraryBlackjack.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBlackjack\ClassLibraryBlackjack\bin\Debug\net6.0\ClassLibraryBlackjack.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBlackjack\ClassLibraryBlackjack\obj\Debug\net6.0\ClassLibraryBlackjack.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBlackjack\ClassLibraryBlackjack\obj\Debug\net6.0\ClassLibraryBlackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBlackjack\ClassLibraryBlackjack\obj\Debug\net6.0\ClassLibraryBlackjack.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBlackjack\ClassLibraryBlackjack\obj\Debug\net6.0\ClassLibraryBlackjack.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBlackjack\ClassLibraryBlackjack\obj\Debug\net6.0\ClassLibraryBlackjack.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBlackjack\ClassLibraryBlackjack\obj\Debug\net6.0\ClassLibraryBlackjack.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBlackjack\ClassLibraryBlackjack\obj\Debug\net6.0\refint\ClassLibraryBlackjack.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBlackjack\ClassLibraryBlackjack\obj\Debug\net6.0\ClassLibraryBlackjack.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionBlackjack\ClassLibraryBlackjack\obj\Debug\net6.0\ref\ClassLibraryBlackjack.dll

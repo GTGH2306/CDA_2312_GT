@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionPoint\ClassLibraryPoint\bin\Debug\net6.0\ClassLibraryPoint.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionPoint\ClassLibraryPoint\bin\Debug\net6.0\ClassLibraryPoint.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionPoint\ClassLibraryPoint\bin\Debug\net6.0\ClassLibraryPoint.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionPoint\ClassLibraryPoint\obj\Debug\net6.0\refint\ClassLibraryPoint.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionPoint\ClassLibraryPoint\obj\Debug\net6.0\ref\ClassLibraryPoint.dll

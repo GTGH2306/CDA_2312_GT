@@ -9,7 +9,8 @@ namespace ConsoleAppTestBouteille
         {
             Bouteille myBottle = new Bouteille();
             EtatBouteille(myBottle);
-
+            myBottle.Ouvrir();
+            myBottle.Remplir(-1);
         }
 
         static string EtatBouteille(Bouteille _bouteille)

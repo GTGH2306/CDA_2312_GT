@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionCompteBancaire\ClassLibraryCompteBancaire\bin\Debug\net6.0\ClassLibraryCompteBancaire.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionCompteBancaire\ClassLibraryCompteBancaire\bin\Debug\net6.0\ClassLibraryCompteBancaire.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionCompteBancaire\ClassLibraryCompteBancaire\bin\Debug\net6.0\ClassLibraryCompteBancaire.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionCompteBancaire\ClassLibraryCompteBancaire\obj\Debug\net6.0\ClassLibraryCompteBancaire.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionCompteBancaire\ClassLibraryCompteBancaire\obj\Debug\net6.0\ClassLibraryCompteBancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionCompteBancaire\ClassLibraryCompteBancaire\obj\Debug\net6.0\ClassLibraryCompteBancaire.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionCompteBancaire\ClassLibraryCompteBancaire\obj\Debug\net6.0\ClassLibraryCompteBancaire.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionCompteBancaire\ClassLibraryCompteBancaire\obj\Debug\net6.0\ClassLibraryCompteBancaire.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionCompteBancaire\ClassLibraryCompteBancaire\obj\Debug\net6.0\ClassLibraryCompteBancaire.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionCompteBancaire\ClassLibraryCompteBancaire\obj\Debug\net6.0\refint\ClassLibraryCompteBancaire.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionCompteBancaire\ClassLibraryCompteBancaire\obj\Debug\net6.0\ClassLibraryCompteBancaire.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionCompteBancaire\ClassLibraryCompteBancaire\obj\Debug\net6.0\ref\ClassLibraryCompteBancaire.dll
