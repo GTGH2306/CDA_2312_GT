@@ -2,26 +2,19 @@
 
 namespace ClassLibraryFraction
 {
-    public class Fraction
+    public class Fraction : IComparable<Fraction>
     {
         private int numerateur;
         private int denominateur;
 
         public Fraction(int _numerateur, int _denominateur)
         {
-            try
+            if (_denominateur == 0)
             {
-                if (_denominateur == 0)
-                {
-                    throw new FractionException("Factionner par 0 est impossible.");
-                }
-                this.numerateur = _numerateur;
-                this.denominateur = _denominateur;
+                throw new FractionException("Impossible to create a fraction with 0 as denominator. Can't divide by zero.");
             }
-            catch (FractionException _exception)
-            {
-                Console.WriteLine("Creation de fraction impossible: " + _exception);
-            }
+            this.numerateur = _numerateur;
+            this.denominateur = _denominateur;
         }
 
         public Fraction(int _numerateur) : this(_numerateur, 1)
@@ -34,15 +27,17 @@ namespace ClassLibraryFraction
         public Fraction(Fraction _fractionReferente) : this(_fractionReferente.numerateur, _fractionReferente.denominateur)
         {
         }
-
         public override string ToString()
         {
             return this.denominateur == 1 ?
                 this.numerateur.ToString() : (this.numerateur + "/" + this.denominateur);
         }
-
         public void Inverse()
         {
+            if (this.numerateur == 0)
+            {
+                throw new FractionException("Impossible to invert numerator and denominator with 0 as the numerator. Can't divide by zero.");
+            }
             (this.numerateur, this.denominateur) = (this.denominateur, this.numerateur);
         }
         public void Oppose()
@@ -51,11 +46,11 @@ namespace ClassLibraryFraction
         }
         public bool SuperieurA(Fraction _fractionTest)
         {
-            return this.GetValue() > _fractionTest.GetValue(); 
+            return this.Evaluer() > _fractionTest.Evaluer(); 
         }
         public bool EgalA(Fraction _fractionTest)
         {
-            return this.GetValue() == _fractionTest.GetValue();
+            return this.Evaluer() == _fractionTest.Evaluer();
         }
         private Fraction Reduire()
         {
@@ -70,10 +65,6 @@ namespace ClassLibraryFraction
             }
 
             return new Fraction(numerateurRed / pgcd, denominateurRed / pgcd);
-        }
-        private float GetValue()
-        {
-            return (float)this.numerateur / (float)this.denominateur;
         }
         private int GetPgcd()
         {
@@ -123,8 +114,19 @@ namespace ClassLibraryFraction
         }
         public Fraction Divise(Fraction _autreFraction)
         {
-            _autreFraction.Inverse();
-            return this.Multiplie(_autreFraction);
+            Fraction autreInverse = new Fraction(_autreFraction);
+            autreInverse.Inverse();
+            return this.Multiplie(autreInverse);
+        }
+        private double Evaluer()
+        {
+            return (double)this.numerateur / this.denominateur;
+        }
+        public int CompareTo(Fraction? other)
+        {
+            double thisValue = this.Evaluer();
+            double otherValue = other.Evaluer();
+            return thisValue.CompareTo(otherValue);
         }
 
         //Remplacer operateurs
@@ -136,6 +138,30 @@ namespace ClassLibraryFraction
             => a.Multiplie(b);
         public static Fraction operator /(Fraction a, Fraction b)
             => a.Divise(b);
+        public static bool operator >(Fraction a, Fraction b)
+        {
+            return a.CompareTo(b) > 0;
+        }
+        public static bool operator <(Fraction a, Fraction b)
+        {
+            return a.CompareTo(b) < 0;
+        }
+        public static bool operator >=(Fraction a, Fraction b)
+        {
+            return a.CompareTo(b) >= 0;
+        }
+        public static bool operator <=(Fraction a, Fraction b)
+        {
+            return a.CompareTo(b) <= 0;
+        }
+        public static bool operator ==(Fraction a, Fraction b)
+        {
+            return a.CompareTo(b) == 0;
+        }
+        public static bool operator !=(Fraction a, Fraction b)
+        {
+            return a.CompareTo(b) != 0;
+        }
 
     }
 }

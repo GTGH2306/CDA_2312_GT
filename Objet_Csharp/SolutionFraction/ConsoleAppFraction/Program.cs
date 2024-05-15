@@ -23,9 +23,31 @@ namespace ConsoleAppFraction
             Console.WriteLine(new Fraction(3, 4) - new Fraction(1, 4));
             Console.WriteLine(new Fraction(2, 4) * new Fraction(4, 2));
             Console.WriteLine(new Fraction(2, 4) / new Fraction(4, 2));
+            Console.WriteLine(new Fraction(3, 4) > new Fraction(1, 2));
+            Console.WriteLine(new Fraction(2, 4) == new Fraction(1, 2));
 
-            Fraction fracTestImpossible = new Fraction(2, 0);
+            /*
+            try
+            {
+                Fraction fracTestImpossible = new Fraction(2, 0);
+            }
+            catch (Exception _exception)
+            {
+                Console.WriteLine("Creation de fraction impossible: " + _exception);
+            }
+            */
 
+            /*
+            try
+            {
+                Fraction fracTestImpossible = new Fraction(0, 2);
+                fracTestImpossible.Inverse();
+            }
+            catch (Exception _exception)
+            {
+                Console.WriteLine("Creation de fraction impossible: " + _exception);
+            }
+            */
         }
     }
 }

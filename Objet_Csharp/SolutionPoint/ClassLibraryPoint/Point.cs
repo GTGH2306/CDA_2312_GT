@@ -38,7 +38,7 @@
         }
         public Point SymetrieOrigine()
         {
-            return new Point(this.abscisse * -1, this.ordonnee * -1);
+            return this.SymetrieOrdonnee().SymetrieAbscisse();
         }
 
         public void Permuter()
