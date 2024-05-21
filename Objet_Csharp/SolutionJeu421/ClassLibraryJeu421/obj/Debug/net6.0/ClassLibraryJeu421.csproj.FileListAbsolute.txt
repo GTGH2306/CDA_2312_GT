@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionJeu421\ClassLibraryJeu421\bin\Debug\net6.0\ClassLibraryJeu421.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionJeu421\ClassLibraryJeu421\bin\Debug\net6.0\ClassLibraryJeu421.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionJeu421\ClassLibraryJeu421\bin\Debug\net6.0\ClassLibraryJeu421.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionJeu421\ClassLibraryJeu421\obj\Debug\net6.0\ClassLibraryJeu421.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionJeu421\ClassLibraryJeu421\obj\Debug\net6.0\ClassLibraryJeu421.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionJeu421\ClassLibraryJeu421\obj\Debug\net6.0\ClassLibraryJeu421.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionJeu421\ClassLibraryJeu421\obj\Debug\net6.0\ClassLibraryJeu421.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionJeu421\ClassLibraryJeu421\obj\Debug\net6.0\ClassLibraryJeu421.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionJeu421\ClassLibraryJeu421\obj\Debug\net6.0\ClassLibraryJeu421.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionJeu421\ClassLibraryJeu421\obj\Debug\net6.0\refint\ClassLibraryJeu421.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionJeu421\ClassLibraryJeu421\obj\Debug\net6.0\ClassLibraryJeu421.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionJeu421\ClassLibraryJeu421\obj\Debug\net6.0\ref\ClassLibraryJeu421.dll

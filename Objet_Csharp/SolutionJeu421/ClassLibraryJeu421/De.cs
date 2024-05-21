@@ -23,5 +23,11 @@
         {
             this.valeur = Alea.Instance().Nouveau(1, this.nbFaces);
         }
+        public static bool operator >(De _a, De _b) => _a.valeur > _b.valeur;
+        public static bool operator <(De _a, De _b) => _a.valeur < _b.valeur;
+        public static bool operator >=(De _a, De _b) => _a.valeur >= _b.valeur;
+        public static bool operator <=(De _a, De _b) => _a.valeur <= _b.valeur;
+        public static bool operator ==(De _a, De _b) => _a.valeur == _b.valeur;
+        public static bool operator !=(De _a, De _b) => _a.valeur != _b.valeur;
     }
 }

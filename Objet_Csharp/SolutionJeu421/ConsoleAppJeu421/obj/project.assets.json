@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "ClassLibraryJeu421/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibraryJeu421.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibraryJeu421.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ClassLibraryJeu421/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibraryJeu421/ClassLibraryJeu421.csproj",
+      "msbuildProject": "../ClassLibraryJeu421/ClassLibraryJeu421.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "ClassLibraryJeu421 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\TGrandgirard\\.nuget\\packages\\": {},
@@ -40,7 +59,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\ClassLibraryJeu421.csproj": {
+              "projectPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\ClassLibraryJeu421.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
