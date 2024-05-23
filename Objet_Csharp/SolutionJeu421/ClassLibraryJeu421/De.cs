@@ -17,7 +17,18 @@
         }
         public int CompareTo(De? other)
         {
-            return this.Valeur - other.Valeur;
+            int retour = this.Valeur - other.Valeur;
+            if (retour < 0)
+            {
+                retour = -1;
+            } else if (retour > 0)
+            {
+                retour = 1;
+            } else
+            {
+                retour = 0;
+            }
+            return retour;
         }
         public void Jeter()
         {

@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionLepidotere\ClassLibraryLepidoptere\bin\Debug\net6.0\ClassLibraryLepidoptere.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionLepidotere\ClassLibraryLepidoptere\bin\Debug\net6.0\ClassLibraryLepidoptere.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionLepidotere\ClassLibraryLepidoptere\bin\Debug\net6.0\ClassLibraryLepidoptere.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionLepidotere\ClassLibraryLepidoptere\obj\Debug\net6.0\ClassLibraryLepidoptere.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionLepidotere\ClassLibraryLepidoptere\obj\Debug\net6.0\ClassLibraryLepidoptere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionLepidotere\ClassLibraryLepidoptere\obj\Debug\net6.0\ClassLibraryLepidoptere.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionLepidotere\ClassLibraryLepidoptere\obj\Debug\net6.0\ClassLibraryLepidoptere.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionLepidotere\ClassLibraryLepidoptere\obj\Debug\net6.0\ClassLibraryLepidoptere.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionLepidotere\ClassLibraryLepidoptere\obj\Debug\net6.0\ClassLibraryLepidoptere.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionLepidotere\ClassLibraryLepidoptere\obj\Debug\net6.0\refint\ClassLibraryLepidoptere.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionLepidotere\ClassLibraryLepidoptere\obj\Debug\net6.0\ClassLibraryLepidoptere.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionLepidotere\ClassLibraryLepidoptere\obj\Debug\net6.0\ref\ClassLibraryLepidoptere.dll

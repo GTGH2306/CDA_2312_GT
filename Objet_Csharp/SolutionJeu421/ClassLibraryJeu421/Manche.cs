@@ -30,12 +30,12 @@ namespace ClassLibraryJeu421
             }
             this.nbLancerRestant--;
         }
-        private bool desDeMancheContientDe(int _valeurDe)
+        private bool DesDeMancheContientDe(int _valeurDe)
         {
             bool retour = false;
-            foreach(De _de in this.des)
+            for(int i = 0; i < this.des.Length && !retour; i++)
             {
-                if (_de.Valeur == _valeurDe)
+                if (this.des[i].Valeur == _valeurDe)
                 {
                     retour = true;
                 }
@@ -46,7 +46,7 @@ namespace ClassLibraryJeu421
         {
             bool retour;
             
-            if (desDeMancheContientDe(4) && desDeMancheContientDe(2) && desDeMancheContientDe(1))
+            if (DesDeMancheContientDe(4) && DesDeMancheContientDe(2) && DesDeMancheContientDe(1))
             {
                 retour = true;
             } else
