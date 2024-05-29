@@ -17,12 +17,14 @@
         public bool SeMetamorphoser()
         {
             bool aPuSeMetamorphoser;
-            if (this.stadeCourant == this.stadeCourant.SeMetamorphoser())
+            IStadeDevolution metamorphose = this.stadeCourant.SeMetamorphoser();
+
+            if (this.stadeCourant == metamorphose)
             {
                 aPuSeMetamorphoser = false;
             } else
             {
-                this.stadeCourant = this.stadeCourant.SeMetamorphoser();
+                this.stadeCourant = metamorphose;
                 aPuSeMetamorphoser = true;
             }
             return aPuSeMetamorphoser;

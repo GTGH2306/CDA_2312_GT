@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionVoiture\LibVoiture\bin\Debug\net6.0\LibVoiture.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionVoiture\LibVoiture\bin\Debug\net6.0\LibVoiture.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionVoiture\LibVoiture\bin\Debug\net6.0\LibVoiture.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionVoiture\LibVoiture\obj\Debug\net6.0\LibVoiture.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionVoiture\LibVoiture\obj\Debug\net6.0\LibVoiture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionVoiture\LibVoiture\obj\Debug\net6.0\LibVoiture.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionVoiture\LibVoiture\obj\Debug\net6.0\LibVoiture.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionVoiture\LibVoiture\obj\Debug\net6.0\LibVoiture.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionVoiture\LibVoiture\obj\Debug\net6.0\LibVoiture.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionVoiture\LibVoiture\obj\Debug\net6.0\refint\LibVoiture.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionVoiture\LibVoiture\obj\Debug\net6.0\LibVoiture.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Objet_Csharp\SolutionVoiture\LibVoiture\obj\Debug\net6.0\ref\LibVoiture.dll

@@ -11,8 +11,7 @@ namespace ConsoleAppLepidotere
             {
                 Console.WriteLine(toto.SeDeplacer() ?
                     ("Toto est capable de ce mouvoir") :
-                    ("Toto ne peux ce mouvoir")
-                    );
+                    ("Toto ne peux ce mouvoir"));
                 Console.WriteLine(toto);
                 Console.WriteLine(toto.SeMetamorphoser() ?
                     ("Toto c'est métamorphosé en " + toto.ToString().Split(":")[1]) :
