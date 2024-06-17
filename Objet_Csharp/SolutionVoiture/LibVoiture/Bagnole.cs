@@ -4,9 +4,9 @@ namespace LibVoiture
 {
     public class Bagnole
     {
-        private int nbPlaces;
+        private readonly int nbPlaces;
         private Dictionary<string, Roue> roues;
-        private Moteur moteur;
+        private readonly Moteur moteur;
 
         public Bagnole(Moteur _moteur,
             Roue _roueAvantGauche,

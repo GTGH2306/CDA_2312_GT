@@ -1,10 +1,10 @@
 var tabLines = [document.getElementById('Line1')];
 
-document.getElementById("Qte1").addEventListener("change", function(){
+document.getElementById("Qte1").addEventListener("input", function(){
     calculPrix(1);
 });
 
-document.getElementById("PrixUni1").addEventListener("change", function(){
+document.getElementById("PrixUni1").addEventListener("input", function(){
     calculPrix(1);
 });
 
@@ -41,14 +41,14 @@ function addLine(){
     //Setup du champ Qte
     champQte.setAttribute('type', 'text');
     champQte.setAttribute('onchange', 'calculPrix(' + id + ')');
-    champQte.setAttribute('value', 0);
+    champQte.setAttribute('placeholder', 0);
     champQte.setAttribute('name', 'Qte' + id);
     champQte.id ='Qte' + id;
 
     //Setup du champ Prix Unitaire
     champPrixUni.setAttribute('type', 'text');
     //champPrixUni.setAttribute('onchange', 'calculPrix(' + id + ')');
-    champPrixUni.setAttribute('value', 0);
+    champPrixUni.setAttribute('placeholder', 0);
     champPrixUni.setAttribute('name', 'PrixUni' + id);
     champPrixUni.id ='PrixUni' + id;
 
@@ -59,10 +59,10 @@ function addLine(){
     champPrix.id ='Prix' + id;
     champPrix.readOnly = true;
 
-    champQte.addEventListener("change", function(){
+    champQte.addEventListener("input", function(){
         calculPrix(id)
     });
-    champPrixUni.addEventListener("change", function(){
+    champPrixUni.addEventListener("input", function(){
         calculPrix(id)
     });
 

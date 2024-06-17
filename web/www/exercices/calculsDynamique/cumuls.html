@@ -7,13 +7,14 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <form>
+    <form autocomplete="off">
+        <input autocomplete="false" name="hidden" type="text" style="display:none;">
         <div id="Lines">
             <div id="Line1">
                 <label for="Qte1">Qté:</label>
-                <input type="text" value="0" name="Qte1" id="Qte1">
+                <input type="text" placeholder="0" name="Qte1" id="Qte1">
                 <label for="PrixUni1">Prix Unitaire:</label>
-                <input type="text" value="0" name="PrixUni1" id="PrixUni1">
+                <input type="text" placeholder="0" name="PrixUni1" id="PrixUni1">
                 <label for="Prix1">Prix:</label>
                 <input type="text" readonly value="0" name="Prix1" id="Prix1">
             </div>

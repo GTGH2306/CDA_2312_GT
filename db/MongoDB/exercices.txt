@@ -1,0 +1,376 @@
+//Saisir les employes dans la table employes
+db.employes.insertMany(
+    [
+    {
+    "_id": 7521,
+    "ename": "WARD",
+    "job": "SALESMAN",
+    "mgr": 7698,
+    "hiredate": "1981-02-22",
+    "sal": 1250,
+    "comm": 500,
+    "deptno": 30,
+    "dname": "SALES",
+    "city": "CHICAGO"
+  },
+  {
+    "_id": 7566,
+    "ename": "JONES",
+    "job": "MANAGER",
+    "mgr": 7839,
+    "hiredate": "1981-04-02",
+    "sal": 2975,
+    "comm": 0,
+    "deptno": 20,
+    "dname": "RESEARCH",
+    "city": "DALLAS"
+  },
+  {
+    "_id": 7654,
+    "ename": "MARTIN",
+    "job": "SALESMAN",
+    "mgr": 7698,
+    "hiredate": "1981-09-28",
+    "sal": 1250,
+    "comm": 1400,
+    "deptno": 30,
+    "dname": "SALES",
+    "city": "CHICAGO"
+  },
+  {
+    "_id": 7698,
+    "ename": "BLAKE",
+    "job": "MANAGER",
+    "mgr": 7839,
+    "hiredate": "1981-05-01",
+    "sal": 2850,
+    "comm": 0,
+    "deptno": 30,
+    "dname": "SALES",
+    "city": "CHICAGO"
+  },
+  {
+    "_id": 7782,
+    "ename": "CLARK",
+    "job": "MANAGER",
+    "mgr": 7839,
+    "hiredate": "1981-05-09",
+    "sal": 2450,
+    "comm": 0,
+    "deptno": 10,
+    "dname": "ACCOUNTING",
+    "city": "NEW YORK"
+  },
+  {
+    "_id": 7788,
+    "ename": "SCOTT",
+    "job": "ANALYST",
+    "mgr": 7566,
+    "hiredate": "1982-12-09",
+    "sal": 3000,
+    "comm": 0,
+    "deptno": 20,
+    "dname": "RESEARCH",
+    "city": "DALLAS"
+  },
+  {
+    "_id": 7839,
+    "ename": "KING",
+    "job": "PRESIDENT",
+    "mgr": null,
+    "hiredate": "1981-09-17",
+    "sal": 5000,
+    "comm": 0,
+    "deptno": 10,
+    "dname": "ACCOUNTING",
+    "city": "NEW YORK"
+  },
+  {
+    "_id": 7876,
+    "ename": "ADAMS",
+    "job": "CLERK",
+    "mgr": 7788,
+    "hiredate": "1983-01-12",
+    "sal": 1100,
+    "comm": 0,
+    "deptno": 20,
+    "dname": "RESEARCH",
+    "city": "DALLAS"
+  },
+  {
+    "_id": 7900,
+    "ename": "JAMES",
+    "job": "CLERK",
+    "mgr": 7698,
+    "hiredate": "1981-03-12",
+    "sal": 950,
+    "comm": 0,
+    "deptno": 30,
+    "dname": "SALES",
+    "city": "CHICAGO"
+  },
+  {
+    "_id": 7902,
+    "ename": "FORD",
+    "job": "ANALYST",
+    "mgr": 7566,
+    "hiredate": "1981-12-03",
+    "sal": 3000,
+    "comm": 0,
+    "deptno": 10,
+    "dname": "ACCOUNTING",
+    "city": "DALLAS"
+  },
+  {
+    "_id": 7934,
+    "ename": "MILLER",
+    "job": "CLERK",
+    "mgr": 7782,
+    "hiredate": "1982-01-23",
+    "sal": 1300,
+    "comm": 0,
+    "deptno": 10,
+    "dname": "ACCOUNTING",
+    "city": "NEW YORK"
+  },
+  {
+    "_id": 7844,
+    "ename": "TURNER",
+    "job": "SALESMAN",
+    "mgr": 7698,
+    "hiredate": "1981-09-08",
+    "sal": 1500,
+    "comm": 0,
+    "deptno": 30,
+    "dname": "SALES",
+    "city": "CHICAGO"
+  }
+])
+
+//Saisir dept dans la table dept
+db.dept.insertMany(
+    [
+        {
+            _id: 10,
+            dname: "ACCOUNTING",
+            loc: "NEW YORK"
+        },
+        {
+            _id:20,
+            dname: "RESEARCH",
+            loc: "DALLAS"
+        },
+        {
+            _id:30,
+            dname: "SALES",
+            loc: "CHICAGO"
+        },
+        {
+            _id:40,
+            dname: "OPERATIONS",
+            loc: "BOSTON"
+        },
+    ]
+)
+
+
+//1. Donner nom, job, numéro et salaire de tous les employés, puis seulement des employés du département 10
+db.employes.find(
+    {
+        deptno : 10
+    },
+    {
+        ename: true,
+        job: true,
+        _id: true,
+        sal: true
+    }
+)
+
+//2. Donner nom, job et salaire des employés de type MANAGER dont le salaire est supérieur à 2800
+/* Pas bon car on cherche ceux qui on le job Manager, et non les managers
+db.employes.find(
+    { $and:
+        [   
+            {
+                sal : { $gt: 2800}
+            },
+            {
+                _id: {$in: db.employes.distinct("mgr")}   
+            }
+        ]
+    },
+    {
+        ename: true,
+        job: true,
+        _id: true,
+        sal: true
+    }
+)
+*/
+//and non necessaire ici!
+db.employes.find(
+    { $and:
+        [   
+            {
+                sal: { $gt: 2800}
+            },
+            {
+                job: "MANAGER"
+            }
+        ]
+    },
+    {
+        ename: true,
+        job: true,
+        _id: false,
+        sal: true
+    }
+)
+
+
+//3. Donner la liste des MANAGER n'appartenant pas au département 30
+//And non necessaire
+db.employes.find(
+    { $and:
+        [   
+            {
+         db.       deptno: { $ne: 30}
+            },
+            {
+                job: "MANAGER"
+            }
+        ]
+    },
+    {
+        ename: true,
+        job: true,
+        _id: false,
+        sal: true
+    }
+)
+
+//4. Liste des employés de salaire compris entre 1200 et 1400
+db.employes.find(
+    { $and:
+        [   
+            {
+                sal: { $gte: 1200}
+            },
+            {
+                sal: { $lte: 1400}
+            }
+        ]
+    },
+    {
+        ename: true,
+        job: true,
+        _id: false,
+        sal: true
+    }
+)
+
+//5. Liste des employés des départements 10 et 30 classés dans l'ordre alphabétique
+db.employes.find(
+    { 
+        $or: [{deptno: 10}, {deptno: 30}]
+    },
+    {
+        ename: true,
+        job: true,
+        _id: false,
+        sal: true
+    }
+).sort({ename: 1})
+
+//6. Liste des employés du département 30 classés dans l'ordre des salaires croissants
+db.employes.find(
+    { 
+        deptno: 30
+    },
+    {
+        ename: true,
+        job: true,
+        _id: false,
+        sal: true
+    }
+).sort({sal: 1})
+
+//7. Liste de tous les employés classés par emploi et salaires décroissants
+db.employes.find(
+    { 
+    },
+    {
+        ename: true,
+        job: true,
+        _id: false,
+        sal: true
+    }
+).sort({job: 1, sal:-1})
+
+//8. Liste des différents emplois
+db.employes.distinct("job")
+
+//9.Donner le nom du département où travaille ALLEN
+/* NON
+db.dept.find(
+    {
+        _id: {$in: db.employes.find({ename:"ALLEN"}, {_id: false, deptno: true})}
+    },
+    {
+        dname: true
+    }
+)
+*/
+db.employes.find(
+    {
+        ename: "ALLEN"
+    },
+    {
+        dname: true,
+        _id: false
+    }
+)
+
+//10. Liste des employés avec nom du département, nom, job, salaire classés par noms de départements et
+par salaires décroissants.
+db.employes.find(
+    {
+        
+    },
+    {
+        ename: true,
+        dname: true,
+        sal: true,
+        _id: false,
+        job: true
+    }
+).sort({dname: -1, sal: -1})
+
+//13. Donner le salaire le plus élevé par département
+db.employes.aggregate(
+    {
+        $group:
+        {
+             _id: "$dname",
+             salaireMax: {$max: "$sal"}
+        }
+    }
+)
+
+//14.Donner département par département masse salariale, nombre d'employés, salaire moyen par type
+d'emploi
+db.employes.aggregate(
+    {
+        $group:
+        {
+            _id: { departement: "$dname", job: "$job"},
+            masseSalariale: {$sum: "$sal"},
+            nombreEmployes: { $sum : 1 },
+            salaireMoyen: {$avg: "$sal"}
+        }
+    },
+    {
+       $sort: {_id: 1}
+    }
+)
