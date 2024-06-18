@@ -1,0 +1,144 @@
+:root{
+    --color1: white;
+    --color2: rgb(245, 245, 245);
+    --transluscent: rgba(255, 255, 255, 0.3);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+    background-image: url('./ultakill.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    background-color: #1F001C;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    color: var(--color1);
+    font-size: 5rem;
+    margin-bottom: 0;
+}
+
+header > p{
+    color: var(--color1);
+    font-style: italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+header > button{
+    background-color: rgba(255, 255, 255, 0);
+    margin-top: 35px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+}
+
+header > button:hover{
+    background-color: var(--transluscent);
+    cursor: pointer;
+}
+
+main {
+    margin-left: 13%;
+    margin-right: 13%;
+    margin-top: 75px;
+    max-width: 100%;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--transluscent);
+}
+
+nav > ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav > ul > li{
+    padding: 15px 10px 15px 10px;
+}
+#navCurrentPage{
+    background-color: var(--color2);
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
+a {
+    color: var(--color1);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
+
+img{
+    width: 100%;
+}
+
+section{
+    background-color: var(--color1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+#sectionDate{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 35px 0 35px 0;
+}
+#sectionDate > p {
+    font-size: 1.2rem;
+    margin: 0 20px 0 20px;
+    width: max-content;
+    white-space: nowrap;
+    font-style: italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.line{
+    margin-top: 0.6rem;
+    width: 100%;
+    height: 1px;
+    border: 1px solid var(--color2);
+}
+#sectionTitle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    text-align: center;
+}
+#sectionTitle > h2{
+    text-transform: uppercase;
+}
+#sectionTitle > p {
+    line-height: 2rem;
+    font-size: 1rem;
+    font-style: italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
