@@ -7,7 +7,7 @@ const SortOrder = {
 let order = SortOrder.Id;
 
 
-window.addEventListener("load", function(){
+document.addEventListener("DOMContentLoaded", function(){
     fetch("https://arfp.github.io/tp/web/javascript2/03-employees/employees.json")
     .then(function(_fetched){
         return _fetched.json();

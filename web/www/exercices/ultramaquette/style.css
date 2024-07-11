@@ -1,7 +1,7 @@
 :root{
     --color1: white;
     --color2: rgb(245, 245, 245);
-    --transluscent: rgba(255, 255, 255, 0.3);
+    --transluscent: rgba(240, 240, 240, 0.5);
 }
 
 *{
@@ -43,7 +43,7 @@ header > p{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
-header > button{
+#downPageBtn{
     background-color: rgba(255, 255, 255, 0);
     margin-top: 35px;
     color: white;
@@ -51,18 +51,16 @@ header > button{
     border-radius: 100%;
     width: 35px;
     height: 35px;
+    padding: 0;
 }
 
-header > button:hover{
+#downPageBtn:hover{
     background-color: var(--transluscent);
-    cursor: pointer;
 }
 
 main {
-    margin-left: 13%;
-    margin-right: 13%;
     margin-top: 75px;
-    max-width: 100%;
+    width: 75%;
 }
 
 nav{
@@ -95,6 +93,7 @@ a {
 
 img{
     width: 100%;
+    margin-bottom: 7%;
 }
 
 section{
@@ -102,17 +101,16 @@ section{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-left: 8%;
-    padding-right: 8%;
 }
 
-#sectionDate{
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    margin: 35px 0 35px 0;
+#firstArticle{
+    margin: 35px 8% 35px 8%;
 }
-#sectionDate > p {
+#firstArticleDate{
+    display: flex;
+    width: 100%;
+}
+.date {
     font-size: 1.2rem;
     margin: 0 20px 0 20px;
     width: max-content;
@@ -126,19 +124,85 @@ section{
     height: 1px;
     border: 1px solid var(--color2);
 }
-#sectionTitle{
+#firstArticle > h2, #firstArticle > p{
+    width: 60%;
+
+}
+article{
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 60%;
     text-align: center;
 }
-#sectionTitle > h2{
+h2, h3{
     text-transform: uppercase;
 }
-#sectionTitle > p {
+h3{
+    width: 80%;
+}
+p {
     line-height: 2rem;
     font-size: 1rem;
     font-style: italic;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0 0 7% 0;
+}
+
+button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 6px 16px 6px 16px;
+    border: solid 1px black;
+    background-color: var(--color1);
+    margin-top: auto;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: var(--transluscent);
+}
+
+#articles{
+    display: flex;
+}
+
+#articles > article{
+   padding: 35px 3% 35px 3%; 
+   border-left: solid 1px var(--color2);
+   border-right: solid 1px var(--color2);
+   border-top: solid 2px var(--color2);
+}
+
+footer {
+    width: 75%;
+    margin-top: 5%;
+    background-color: var(--color1);
+    margin-left: 13%;
+    margin-right: 13%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+form{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-right: solid 2px var(--color2);
+}
+
+textarea{
+    width: 100%;
+    resize: none;
+}
+label{
+    margin-top: 10px;
+}
+
+form > button{
+    width: max-content;
 }

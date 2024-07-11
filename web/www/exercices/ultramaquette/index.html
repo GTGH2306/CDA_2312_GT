@@ -11,11 +11,11 @@
     <header>
         <h1>ULTRAKILL</h1>
         <p>Humanity is dead. Hell is full. Blood is fuel.</p>
-        <button><i class="fa-solid fa-arrow-down"></i></button>
+        <button id="downPageBtn"><i class="fa-solid fa-arrow-down"></i></button>
     </header>
     <main>
         <nav>
-                        <ul>
+            <ul>
                 <li id="navCurrentPage">Awesome FrontPage</li>
                 <li><a href="">Incredible Other Page</a></li>
                 <li><a href="">Hakita</a></li>
@@ -28,34 +28,37 @@
             </ul>
         </nav>
         <section>
-            <div id="sectionDate">
-                <span class="line"></span>
-                <p>April 25, 2017</p>
-                <span class="line"></span>
-            </div>
-            <div id="sectionTitle">
+            <article id="firstArticle">
+                <div id="firstArticleDate">
+                    <span class="line"></span>
+                    <p class="date">April 25, 2017</p>
+                    <span class="line"></span>
+                </div>
                 <h2>Big guns goes boom, blood ensues</h2>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem eius similique blanditiis adipisci praesentium magni nulla. Expedita similique illum ut maxime quia ipsa, nobis deserunt totam eius sunt possimus ratione.</p>
-            </div>
                 <img src="./pic1.png">
                 <button>Full story</button>
-
-
-            <article>
-                <p>April 24, 2017</p>
-                <h3>Rem eius similique blanditiis</h3>
-                <img src="./pic2.png" alt="">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, deserunt ipsa atque voluptatem explicabo aliquam quis iure, optio numquam eum error! Cumque ut odio, adipisci hic maiores harum iste? Libero.</p>
-                <button>Full story</button>
             </article>
 
-            <article>
-                <p>April 22, 2017</p>
-                <h3>Illum ut maxime quia</h3>
-                <img src="./pic3.png" alt="">
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti tempore nobis illo quia officiis ratione, ab ut eos itaque debitis quasi sunt culpa, sint esse blanditiis, a reiciendis in ipsum.</p>
-                <button>Full story</button>
-            </article>
+
+            <div id="articles">
+                <article>
+                    <p class="date">April 24, 2017</p>
+                    <h3>Rem eius similique blanditiis</h3>
+                    <img src="./pic2.png" alt="">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, deserunt ipsa atque voluptatem explicabo aliquam quis iure, optio numquam eum error! Cumque ut odio, adipisci hic maiores harum iste? Libero.</p>
+                    <button>Full story</button>
+                </article>
+
+                <article>
+                    <p class="date">April 22, 2017</p>
+                    <h3>Illum ut maxime quia ipsum dolor</h3>
+                    <img src="./pic3.png" alt="">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti tempore nobis illo quia officiis ratione, ab ut eos itaque debitis quasi sunt culpa, sint esse blanditiis, a reiciendis in ipsum.</p>
+                    <button>Full story</button>
+                </article>
+            </div>
+
         </section>
     </main>
     <footer>
@@ -65,10 +68,10 @@
             <label for="formMail">Email</label>
             <input type="text" name="formMail" id="formMail">
             <label for="formMessage">Message</label>
-            <textarea name="formMessage" id="formMessage"></textarea>
+            <textarea name="formMessage" id="formMessage" rows="7"></textarea>
             <button>Send message</button>
         </form>
-        <div>
+        <div id="infos">
             <div>
                 <label>Address</label>
                 <p>1234 Somewhere Road #84634</p>
