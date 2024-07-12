@@ -13,6 +13,15 @@ let game = new Game();
 let interval = 100/game.gameSpeed;
 let gameTick;
 const validInput = ["ArrowLeft", "ArrowUp", "ArrowRight", "ArrowDown"];
+const inputBuffer = []
+
+newGame();
+
+document.addEventListener("keydown", function(event){
+    if (event.key == "r"){
+        newGame()
+    }
+})
 
 document.addEventListener("keydown", function(event) {
     if (event.key == "ArrowLeft"){
@@ -25,9 +34,13 @@ document.addEventListener("keydown", function(event) {
         keyPressed = "ArrowDown";
     }
 
-    if(!gameTick && validInput.includes(keyPressed))
+    if (!inputBuffer.includes(keyPressed)){
+        inputBuffer.push(keyPressed);
+    }
+
+    if(!gameTick && validInput.includes(keyPressed) && event.key !== 'r')
     gameTick = setInterval(() => {
-        moveSnake(game)
+        moveSnake(inputBuffer.shift())
         if(!game.isPlayerDead()){
             displaySnake(game);
             foodCheck()
@@ -68,11 +81,21 @@ document.addEventListener("keydown", function(event) {
 // snake.go(Snake.DIRECTION.DOWN);
 // snake.go(Snake.DIRECTION.LEFT);
 // // console.log(snake)
-game.spawnSnake();
-game.spawnFood();
-displayWalls();
-displayFood();
-displaySnake();
+
+
+function newGame(){
+    game = new Game();
+    game.spawnSnake();
+    game.spawnFood();
+    displayWalls();
+    displayFood();
+    displaySnake();
+    levelTxt.innerText = game.levels.indexOf(game.currentLevel) + (game.levelLoop * 5) + 1;
+    scoreTxt.innerText = game.score;
+    interval = 100/game.gameSpeed;
+    clearInterval(gameTick);
+    gameTick = null;
+}
 
 function displayWalls(){
     for(const _wall of document.querySelectorAll('.wall')){
@@ -125,8 +148,8 @@ function displaySnake(){
     }
 }
 
-function moveSnake(){
-    switch (keyPressed) {
+function moveSnake(_keyPressed){
+    switch (_keyPressed) {
         case "ArrowLeft":
             game.snake.go(Snake.DIRECTION.LEFT);
             break;

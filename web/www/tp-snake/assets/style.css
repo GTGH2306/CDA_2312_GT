@@ -13,11 +13,18 @@
     --pxlSize: 3.2vh;
     --bgSize: 12.4vh;
 }
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
 
 body{
     background-color: var(--bg);
     color: var(--text);
-    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
 }
 
 #snakeWindow{
@@ -35,17 +42,7 @@ body{
     border-bottom: solid 2px var(--border);
 }
 
-#snakeGame{
-    display: grid;
-    align-self: center;
-    grid-template-columns: repeat(34, var(--pxlSize));
-    grid-template-rows: repeat(24, var(--pxlSize));
-    border-left: solid 2px var(--border);
-    border-right: solid 2px var(--border);
-    background-image: url(./gameBg.png);
-    background-repeat: repeat;
-    background-size: var(--bgSize);
-}
+
 
 .wall {
     background-image: url(./Rock.png);
@@ -98,4 +95,40 @@ body{
 
 
     }
+}
+#container{
+    align-self: center;
+    position: relative;
+    width: min-content;
+}
+#gameOverScreen {
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .6);
+    color: white;
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#snakeGame{
+    width: min-content;
+    display: grid;
+    align-self: center;
+    grid-template-columns: repeat(34, var(--pxlSize));
+    grid-template-rows: repeat(24, var(--pxlSize));
+    border-left: solid 2px var(--border);
+    border-right: solid 2px var(--border);
+    background-image: url(./gameBg.png);
+    background-repeat: repeat;
+    background-size: var(--bgSize);
+}
+
+#ded1, #ded2 {
+    position: absolute;
+    top: 40%;
 }
