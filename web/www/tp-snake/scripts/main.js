@@ -6,7 +6,7 @@ import { Snake } from "./Snake.js";
 import { Game } from "./Game.js";
 import {Level, levels} from "./Level.js"
 const snakeGame = document.getElementById('snakeGame')
-const scoreTxt = document.getElementById('scoreTxt')
+const scoreTxts = document.getElementsByClassName('scoreTxt')
 const levelTxt = document.getElementById('levelTxt')
 let keyPressed = "None";
 let game = new Game();
@@ -14,87 +14,81 @@ let interval = 100/game.gameSpeed;
 let gameTick;
 const validInput = ["ArrowLeft", "ArrowUp", "ArrowRight", "ArrowDown"];
 const inputBuffer = []
+const highscoreTxt = document.getElementById('highscoreTxt');
 
 newGame();
+
+
+//Prevent from scrolling with keys
+window.addEventListener("keydown", function(e) {
+    if(["Space","ArrowUp","ArrowDown","ArrowLeft","ArrowRight"].indexOf(e.code) > -1) {
+        e.preventDefault();
+    }
+}, false);
 
 document.addEventListener("keydown", function(event){
     if (event.key == "r"){
         newGame()
-    }
-})
-
-document.addEventListener("keydown", function(event) {
-    if (event.key == "ArrowLeft"){
-        keyPressed = "ArrowLeft";
-    } else if (event.key == "ArrowUp"){
-        keyPressed = "ArrowUp";
-    } else if (event.key == "ArrowRight"){
-        keyPressed = "ArrowRight";
-    } else if (event.key == "ArrowDown"){
-        keyPressed = "ArrowDown";
-    }
-
-    if (!inputBuffer.includes(keyPressed)){
-        inputBuffer.push(keyPressed);
-    }
-
-    if(!gameTick && validInput.includes(keyPressed) && event.key !== 'r')
-    gameTick = setInterval(() => {
-        moveSnake(inputBuffer.shift())
-        if(!game.isPlayerDead()){
-            displaySnake(game);
-            foodCheck()
-            nextLevelCheck()
-        } else {
-            const snake = document.getElementsByClassName('snake');
-            for(const _snakeElement of snake){
-                _snakeElement.classList.add('deadSnake')
-            }
-            clearInterval(gameTick)
+        console.log(inputBuffer);
+    } else if (validInput.includes(event.key)){
+        if (event.key == "ArrowLeft"){
+            keyPressed = "ArrowLeft";
+        } else if (event.key == "ArrowUp"){
+            keyPressed = "ArrowUp";
+        } else if (event.key == "ArrowRight"){
+            keyPressed = "ArrowRight";
+        } else if (event.key == "ArrowDown"){
+            keyPressed = "ArrowDown";
         }
     
-    }, interval);
-});
-
-// let entity = new Entity([4, 3]);
-// let food1 = new Food([4, 3]);
-// let food2 = new Food([5, 3]);
-// let food3 = new Food([2, 4]);
-// let food4 = new Food([3, 2]);
-// let wall = new Wall([2, 2], 3, 2)
-// // console.log(wall)
-// // console.log(entity.isColliding(food1)); //true
-// // console.log(food1.isColliding(wall)); //true
-// // console.log(food2.isColliding(wall)); //false
-// // console.log(food3.isColliding(wall)); //false
-// // console.log(food4.isColliding(wall)); //true
-// // console.log(Food.FOOD_GROW) // 2
-
-
-// let snake = new Snake([1, 1], 3)
-// console.log(snake)
-
-// snake.go(Snake.DIRECTION.RIGHT);
-// snake.go(Snake.DIRECTION.RIGHT);
-// snake.go(Snake.DIRECTION.RIGHT);
-// snake.go(Snake.DIRECTION.RIGHT);
-// snake.go(Snake.DIRECTION.DOWN);
-// snake.go(Snake.DIRECTION.LEFT);
-// // console.log(snake)
+        if (!inputBuffer.includes(keyPressed)){
+            inputBuffer.push(keyPressed);
+        }
+    
+        if(!gameTick && validInput.includes(keyPressed) && event.key !== 'r')
+        gameTick = setInterval(() => {
+            moveSnake(inputBuffer.shift())
+            if(!game.isPlayerDead()){
+                displaySnake(game);
+                foodCheck()
+                nextLevelCheck()
+            } else {
+                const snake = document.getElementsByClassName('snake');
+                for(const _snakeElement of snake){
+                    _snakeElement.classList.add('deadSnake')
+                }
+                document.getElementById('gameOverScreen').classList.remove('dontShow')
+                clearInterval(gameTick)
+            }
+        
+        }, interval);
+    }
+})
 
 
 function newGame(){
     game = new Game();
+    if (localStorage.getItem("highScore")) {
+        Game.highScore = localStorage.getItem("highScore");
+        highscoreTxt.innerText = Game.highScore;
+    }
+    while (inputBuffer.length > 0){
+        inputBuffer.shift();
+    }
+    keyPressed = "";
     game.spawnSnake();
     game.spawnFood();
     displayWalls();
     displayFood();
     displaySnake();
     levelTxt.innerText = game.levels.indexOf(game.currentLevel) + (game.levelLoop * 5) + 1;
-    scoreTxt.innerText = game.score;
+    for (const element of scoreTxts){
+        element.innerText = game.score;
+    }
     interval = 100/game.gameSpeed;
     clearInterval(gameTick);
     gameTick = null;
+    document.getElementById('gameOverScreen').classList.add('dontShow')
 }
 
 function displayWalls(){
@@ -174,7 +168,13 @@ function foodCheck(){
         game.spawnFood();
         displayFood();
         game.score ++;
-        scoreTxt.innerText = game.score
+        for (const element of scoreTxts){
+            element.innerText = game.score;
+        }
+        if (game.score > Game.highScore){
+            highscoreTxt.innerText = game.score;
+            localStorage.setItem("highScore", game.score)
+        }
         game.counterForNextLv ++;
         return true;
     } else {

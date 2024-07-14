@@ -10,19 +10,22 @@
 <body>
 
     <div id="snakeWindow">
-        
         <div id="scoreWindow">
-            <p>Score: <span id="scoreTxt">0</span></p>
+            <p>Score: <span class="scoreTxt">0</span></p>
             <p>Level: <span id="levelTxt">1</span></p>
-            <p>Highscore: Z</p>
+            <p>Highscore: <span id="highscoreTxt">0</span></p>
         </div>
         <div id="container">
-            <div id="gameOverScreen">
+            <div id="gameOverScreen" class="dontShow">
                 <h2>[YOU ARE DEAD]</h2>
-                <img id="ded1" src="./assets/ded1.png" alt="">
-                <img id="ded2" src="./assets/ded2.png" alt="">
-                <p>SCORE: X</p>
-                <p>PRESS [R] TO RESTART</p>
+                <div id="dedSnek">
+                    <img id="ded1" src="./assets/ded1.png" alt="" draggable="false">
+                    <img id="ded2" src="./assets/ded2.png" alt="" draggable="false">
+                </div>
+                <div id="deathText">
+                    <p>SCORE: <span class="scoreTxt">X</span></p>
+                    <p>PRESS [R] TO RESTART</p>
+                </div>
 
             </div>
             <div id="snakeGame">
@@ -30,5 +33,12 @@
             </div>
         </div>
     </div>
+    <p>Update 1.1:</p>
+    <ul>
+        <li>Improved controls</li>
+        <li>Impremented High Score System</li>
+        <li>Added Game Over screen</li>
+        <li>Can now restart with 'R'</li>
+    </ul>
 </body>
 </html>
