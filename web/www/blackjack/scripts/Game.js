@@ -150,8 +150,6 @@ class Game{
             if (hasWon === winResult.PLAYERWIN) {
                 this.playerMoney += Math.round(_hand.bet * _hand.comboMod);
             }
-
-            localStorage.setItem('playerMoney', this.playerMoney)
         }
 
         this.playerHands = [];
@@ -167,9 +165,16 @@ class Game{
     }
 
     upgradeCryptoMiner(){
-        if (this.canPrintCrypto()){
-            this.currentCryptoMiner = cryptoMiners[cryptoMiners.indexOf(this.currentCryptoMiner) + 1];
-            localStorage.setItem('cryptoTier', cryptoMiners.indexOf(this.currentCryptoMiner))
+        if (this.canUpgradeCryptoMiner)
+        {
+            this.currentCryptoMiner = cryptoMiners[this.currentCryptoMiner.tier + 1];
+            this.playerMoney -= this.currentCryptoMiner.price;
+        }
+    }
+
+    printCrypto(){
+        if(this.canPrintCrypto){
+            this.playerMoney = parseInt(this.playerMoney) + this.currentCryptoMiner.print();
         }
     }
 
@@ -186,7 +191,7 @@ class Game{
     }
 
     get canUpgradeCryptoMiner(){
-        const cryptoTier = cryptoMiners.indexOf(this.currentCryptoMiner)
+        const cryptoTier = this.currentCryptoMiner.tier;
         if(this.playerMoney >= cryptoMiners[cryptoTier + 1].price){
             return true
         } else {
@@ -195,7 +200,7 @@ class Game{
     }
 
     get canPrintCrypto(){
-        return this.currentCryptoMiner.percentToPrint >= 100
+        return this.currentCryptoMiner.canPrint
     }
 
     static get CHOICES(){
@@ -205,7 +210,7 @@ class Game{
 
 function loadCryptoMiner(){
     let cryptoTier = localStorage.getItem('cryptoTier');
-    if (cryptoTier > 0){
+    if (cryptoTier !== null){
         return cryptoMiners[cryptoTier]
     } else {
         return cryptoMiners[0]
@@ -213,11 +218,8 @@ function loadCryptoMiner(){
 }
 
 function loadPlayerMoney(){
-    let money = localStorage.getItem('playerMoney');
-    if (money < 1) {
-        money = 100
-    }
-    return money;
+    const money = localStorage.getItem('playerMoney')
+    return money ? money : 0
 }
 
 export { Game }

@@ -10,7 +10,7 @@
 </head>
 <body>
     <div id="app">
-        <p>Argent: {{ game.playerMoney }}</p>
+        <p>Babane Coins: {{ game.playerMoney }}</p>
 
         <div id="dealerHand" v-if="game.dealerHands.length > 0">
             <p v-if="game.playerCanPlay">Dealer: {{ game.dealerHands[0].cards[0].singularValue }}</p>
@@ -43,7 +43,13 @@
         </div>
         <button id="nextButton" v-if="!game.playerCanPlay && game.playerHands.length !== 0" @click="nextStepBtn">NEXT</button>
         <aside>
-            <p>Toto: {{ game.currentCryptoMiner.percentToPrint }}%</p>
+            <h2>Crypto Miner</h2>
+            <p>Tier {{ game.currentCryptoMiner.tier }}</p>
+            <img src="./assets/cryptominer.png" alt="">
+            <p>Mining: {{ game.currentCryptoMiner.percentToPrint }}%</p>
+            <button :disabled="!game.canPrintCrypto" @click="printCrypto">Print crypto</button>
+            <button :disabled="!game.canUpgradeCryptoMiner" @click="upgradeCryptoMiner">Upgrade Crypto Miner</button>
+            <button @click="storageClear">Effacer données</button>
         </aside>
     </div>
 </body>

@@ -37,7 +37,8 @@ const blackjackCombo = new Combo(1.5, isBlackjack)
 const tripleSevens = new Combo(3, isTripleSeven)
 
 const combos = [
-    blackjackCombo
+    blackjackCombo,
+    tripleSevens
 ]
 
 export { combos };
