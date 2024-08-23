@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\database\\countriesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\database\\countriesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\migrations\\20240822130058_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\migrations\\20240822130058_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\controllers\\continentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\controllers\\continentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\migrations\\countriesdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\migrations\\countriesdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\models\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\models\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Program.cs",
+              "RelativeDocumentMoniker": "Introduction\\Program.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Program.cs",
+              "RelativeToolTip": "Introduction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:12:59.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContinentsController.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\ContinentsController.cs",
+              "RelativeDocumentMoniker": "Introduction\\Controllers\\ContinentsController.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\ContinentsController.cs",
+              "RelativeToolTip": "Introduction\\Controllers\\ContinentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:11:31.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountriesDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\CountriesDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Introduction\\Migrations\\CountriesDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\CountriesDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Introduction\\Migrations\\CountriesDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:01:35.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240822130058_initial.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240822130058_initial.cs",
+              "RelativeDocumentMoniker": "Introduction\\Migrations\\20240822130058_initial.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240822130058_initial.cs",
+              "RelativeToolTip": "Introduction\\Migrations\\20240822130058_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:00:58.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountriesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Database\\CountriesDbContext.cs",
+              "RelativeDocumentMoniker": "Introduction\\Database\\CountriesDbContext.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Database\\CountriesDbContext.cs",
+              "RelativeToolTip": "Introduction\\Database\\CountriesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:36:45.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Continent.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Continent.cs",
+              "RelativeDocumentMoniker": "Introduction\\Models\\Continent.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Continent.cs",
+              "RelativeToolTip": "Introduction\\Models\\Continent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:33:36.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

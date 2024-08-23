@@ -16,7 +16,7 @@
 }
 
 body{
-    background-color: black;
+    background-color: var(--color1);
     grid-template-columns: 2fr 1fr 2fr;
     display: grid;
     width: 100%;
@@ -27,7 +27,7 @@ body{
 h1{
     font-family: 'Comic Sans MS';
     width: 30%;
-    color:yellowgreen;
+    color: var(--color9);
     justify-self: center;
     display: inline;
     display: flex;
@@ -38,22 +38,22 @@ img{
 }
 
 fieldset{
-    color: white;
+    color: var(--color6);
     display: inline;
-    background-color: #333;
+    background-color: var(--color3);
 }
 
 #search{
     height: 100%;
     width: 100%;
     font-size: large;
-    background-color: #333;
+    background-color: var(--color3);
     border: none;
-    color: white;
+    color: var(--color6);
 }
 
 ::placeholder{
-    color: lightgray;
+    color: var(--color7);
 }
 
 table{
@@ -64,8 +64,8 @@ table{
 }
 
 th{
-    color: yellowgreen;
-    background-color: #444;
+    color: var(--color9);
+    background-color: var(--color4);
     width: auto;
     padding: 10px;
 }
@@ -80,11 +80,11 @@ a:hover {
 }
 
 tr {
-    color: white;
+    color: var(--color7);
     text-align: center;
 }
 tr:hover, tr:hover > td:first-child, tr:hover > td:last-child{
-    background-color: #664;
+    background-color: var(--color5);
 }
 
 td{
@@ -92,8 +92,8 @@ td{
 }
 
 tbody td:first-child, tbody td:last-child, tfoot td:first-child{
-    background-color: #222;
-    color: yellow;
+    background-color: var(--color2);
+    color: var(--color8);
 }
 
 .deleteButton{
@@ -102,18 +102,18 @@ tbody td:first-child, tbody td:last-child, tfoot td:first-child{
 }
 
 .nutriA{
-    background-color: darkgreen;
+    background-color: var(--color10);
     font-weight: bold;
 }
 .nutriB{
-    background-color: #009900CC;
+    background-color: var(--color11);
 }
 .nutriC{
-    background-color: #CCCC00CC;
+    background-color: var(--color12);
 }
 .nutriD{
-    background-color: #CC6600CC;
+    background-color: var(--color13);
 }
 .nutriE{
-    background-color: #CC0000CC;
+    background-color: var(--color14);
 }
