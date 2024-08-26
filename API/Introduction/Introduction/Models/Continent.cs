@@ -26,5 +26,7 @@ namespace Introduction.Models
 
         [Column("continent_area")]
         public int ContinentArea { get; set; }
+        //Rendre nullable pour ne pas avoir à envoyer une liste de pays à la création d'un continent
+        public ICollection<Country>? Countries { get; set; }
     }
 }

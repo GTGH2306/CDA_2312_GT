@@ -3,6 +3,7 @@ using Introduction.Database;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Introduction.Migrations
 {
     [DbContext(typeof(CountriesDbContext))]
-    partial class CountriesDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240826104435_country-fix")]
+    partial class countryfix
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -20,36 +23,6 @@ namespace Introduction.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("Introduction.Models.City", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasColumnName("city_id");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("CityCode")
-                        .IsRequired()
-                        .HasColumnType("char(8)")
-                        .HasColumnName("city_code");
-
-                    b.Property<string>("CityName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)")
-                        .HasColumnName("city_name");
-
-                    b.Property<int>("CountryId")
-                        .HasColumnType("int")
-                        .HasColumnName("country_id");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("CountryId");
-
-                    b.ToTable("city");
-                });
 
             modelBuilder.Entity("Introduction.Models.Continent", b =>
                 {
@@ -105,17 +78,6 @@ namespace Introduction.Migrations
                     b.ToTable("country");
                 });
 
-            modelBuilder.Entity("Introduction.Models.City", b =>
-                {
-                    b.HasOne("Introduction.Models.Country", "Country")
-                        .WithMany("Cities")
-                        .HasForeignKey("CountryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Country");
-                });
-
             modelBuilder.Entity("Introduction.Models.Country", b =>
                 {
                     b.HasOne("Introduction.Models.Continent", "Continent")
@@ -130,11 +92,6 @@ namespace Introduction.Migrations
             modelBuilder.Entity("Introduction.Models.Continent", b =>
                 {
                     b.Navigation("Countries");
-                });
-
-            modelBuilder.Entity("Introduction.Models.Country", b =>
-                {
-                    b.Navigation("Cities");
                 });
 #pragma warning restore 612, 618
         }
