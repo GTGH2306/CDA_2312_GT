@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="./scripts/main.js" type="module"></script>
+    <link rel="stylesheet" href="./assets/style.css">
+    <title>Api Pays</title>
+</head>
+<body>
+    <header>
+        <img src="https://arfp.github.io/tp/web/api/api-cities/banner.png" alt="">
+        <h1>Pays</h1>
+    </header>
+    <main>
+        <table>
+            <caption>Liste des pays</caption>
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>CODE</th>
+                    <th>NOM</th>
+                    <td></td>
+                </tr>
+            </thead>
+            <tbody id="app" v-if="countries.length > 0">
+                <tr v-for="country of countries">
+                    <td>
+                        <img :src="getFlagLink(country.countryCode, 32)" alt="drapeau">
+                    </td>
+                    <td class="padding60">{{ country.countryCode }}</td>
+                    <td class="maxWidth">{{ country.countryName }}</td>
+                    <td><button>Détails</button></td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
+</body>
+</html>

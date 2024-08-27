@@ -9,6 +9,18 @@ namespace Introduction
         {
             var builder = WebApplication.CreateBuilder(args);
 
+
+            //Je sais pas trop ce que je fou ici
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("localPolicy",
+                    policy =>
+                    {
+                        policy.WithOrigins("https://localhost:7117");
+                    }
+                );
+            });
+
             // Add services to the container.
 
             builder.Services.AddControllers();
@@ -27,6 +39,8 @@ namespace Introduction
             }
 
             app.UseHttpsRedirection();
+
+            app.UseCors();
 
             app.UseAuthorization();
 

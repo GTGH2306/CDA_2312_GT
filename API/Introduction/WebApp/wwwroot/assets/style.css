@@ -1,0 +1,92 @@
+:root {
+    --bg : black;
+    --txt : white;
+    --table : green;
+    --thclr : lightgreen;
+    --trbgclr1: rgb(0, 49, 0);
+    --trbgclr2: rgb(20, 20, 20);
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-size: 62.5%
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--bg);
+    color: var(--txt);
+    font-size: 1.6rem;
+  }
+
+  header {
+    position: relative;
+  }
+
+  header img{
+    width: 100%;
+  }
+
+  header h1{
+    position: absolute;
+    bottom: 0px;
+  }
+
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 500px;
+    max-width: 60%;
+    background-color: var(--table);
+    border-collapse: collapse;
+  }
+
+  caption{
+    background-color: var(--table);
+    font-size: 2.5rem;
+    text-align: left;
+    padding: 5px;
+  }
+
+tbody tr:nth-child(odd){
+    background-color: var(--trbgclr1);
+}
+tbody tr:nth-child(even){
+    background-color: var(--trbgclr2);
+}
+tbody tr:hover {
+    background-color: var(--thclr);
+    color: var(--bg);
+}
+  th{
+    color: var(--thclr);
+    text-align: left;
+  }
+
+  td {
+    padding: 7px;
+    text-align: center;
+  }
+
+  .maxWidth{
+    width: 100%;
+    text-align: left;
+  }
+
+  button {
+    padding: 8px 15px 8px 15px;
+    border: solid 1px var(--txt);
+    background-color: var(--table);
+    color: var(--txt);
+  }
+
+  button:hover{
+    cursor: pointer;
+  }
+
+  .padding60 {
+    padding-right: 60px;
+  }

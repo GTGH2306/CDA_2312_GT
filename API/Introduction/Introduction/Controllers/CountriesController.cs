@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Introduction.Database;
 using Introduction.Models;
+using Microsoft.AspNetCore.Cors;
 
 namespace Introduction.Controllers
 {
+    [EnableCors("localPolicy")]
     [Route("api/[controller]")]
     [ApiController]
     public class CountriesController : ControllerBase
@@ -22,10 +24,11 @@ namespace Introduction.Controllers
         }
 
         // GET: api/Countries
+
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Country>>> GetCountries()
         {
-            return await _context.Countries.ToListAsync();
+            return await _context.Countries.Include( c => c.Cities).ToListAsync();
         }
 
         // GET: api/Countries/5

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppVoiture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eb5dc3de636186ce0c43ce83cd10073c53c05b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppVoiture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppVoiture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

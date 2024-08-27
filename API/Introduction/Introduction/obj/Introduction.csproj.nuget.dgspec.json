@@ -14,8 +14,7 @@
         "outputPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\TGrandgirard\\AppData\\Roaming\\NuGet\\NuGet.Config",
