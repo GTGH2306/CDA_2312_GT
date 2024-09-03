@@ -9,10 +9,35 @@
     <title>Api Pays</title>
 </head>
 <body>
+    <div id="app">
     <header>
         <img src="https://arfp.github.io/tp/web/api/api-cities/banner.png" alt="">
         <h1>Pays</h1>
     </header>
+
+    <dialog v-if="selectedCountry != null" open>
+        <section>
+            <button class="closeBtn" v-on:click="unselectCountry">Fermer</button>
+            <div id="countryInfos">
+                <h2>{{ selectedCountry.countryName }}</h2>
+                <img v-bind:src="getFlagLink(selectedCountry.countryCode, 64)" alt="drapeau">
+                <p>Code ISO: <strong>{{ selectedCountry.countryCode }}</strong></p>
+            </div>
+            <form>
+                <label for="cityName">Ajouter une ville: </label>
+                <input type="text" id="cityName" v-model="addCityName">
+                <label for="cityCode">Code postal: </label>
+                <input type="text" id="cityCode" v-model="addCityCode">
+                <button v-on:click="addCity">Ajouter</button>
+                <p>{{ addCityMsg }}</p>
+            </form>
+            <h2>{{ selectedCountry.cities.length }} ville(s) enregitrées</h2>
+            <ul v-if="selectedCountry.cities.length > 0">
+                <li v-for="city of selectedCountry.cities">{{ city.cityName }}</li>
+            </ul>
+        </section>
+    </dialog>
+
     <main>
         <table>
             <caption>Liste des pays</caption>
@@ -24,17 +49,19 @@
                     <td></td>
                 </tr>
             </thead>
-            <tbody id="app" v-if="countries.length > 0">
-                <tr v-for="country of countries">
+            <tbody v-if="countries.length > 0">
+                <tr v-for="(country, countryIndex) of countries">
                     <td>
-                        <img :src="getFlagLink(country.countryCode, 32)" alt="drapeau">
+                        <img v-bind:src="getFlagLink(country.countryCode, 32)" alt="drapeau">
                     </td>
                     <td class="padding60">{{ country.countryCode }}</td>
                     <td class="maxWidth">{{ country.countryName }}</td>
-                    <td><button>Détails</button></td>
+                    <td><button v-on:click="selectCountry" :data-country-index="countryIndex">Détails</button></td>
                 </tr>
             </tbody>
         </table>
     </main>
+
+    </div>
 </body>
 </html>

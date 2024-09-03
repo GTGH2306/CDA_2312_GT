@@ -11,7 +11,6 @@ using Microsoft.AspNetCore.Cors;
 
 namespace Introduction.Controllers
 {
-    [EnableCors("localPolicy")]
     [Route("api/[controller]")]
     [ApiController]
     public class CountriesController : ControllerBase

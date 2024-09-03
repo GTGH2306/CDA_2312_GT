@@ -1,5 +1,6 @@
 ﻿using Introduction.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection.Metadata;
 
 namespace Introduction.Database
 {
@@ -16,5 +17,25 @@ namespace Introduction.Database
             _options.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=db_countries_2312");
         }
         public DbSet<Introduction.Models.City> City { get; set; } = default!;
+        public DbSet<Introduction.Models.Person> Person { get; set; } = default!;
+        public DbSet<Introduction.Models.Travel> Route { get; set; } = default!;
+
+
+        ////WTF?
+        //protected override void OnModelCreating(ModelBuilder modelBuilder)
+        //{
+        //    modelBuilder.Entity<Travel>()
+        //            .HasRequired(m => m.CityStart)
+        //            .WithMany(t => t.TravelStarts)
+        //            .HasForeignKey(m => m.CityStartId)
+        //            .WillCascadeOnDelete(false);
+
+        //    modelBuilder.Entity<Travel>()
+        //                .HasRequired(m => m.CityEnd)
+        //                .WithMany(t => t.TravelEnds)
+        //                .HasForeignKey(m => m.CityEndId)
+        //                .WillCascadeOnDelete(false);
+        //}
+
     }
 }

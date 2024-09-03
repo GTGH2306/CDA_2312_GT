@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Introduction.Database;
 using Introduction.Models;
+using Microsoft.AspNetCore.Cors;
 
 namespace Introduction.Controllers
 {

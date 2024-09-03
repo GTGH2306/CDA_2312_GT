@@ -10,13 +10,17 @@ namespace Introduction
             var builder = WebApplication.CreateBuilder(args);
 
 
-            //Je sais pas trop ce que je fou ici
+            //Je sais pas trop ce que je fais ici
             builder.Services.AddCors(options =>
             {
-                options.AddPolicy("localPolicy",
+                options.AddDefaultPolicy(
                     policy =>
                     {
-                        policy.WithOrigins("https://localhost:7117");
+                        policy.WithOrigins(
+                            "http://localhost:5173",
+                            "https://localhost:7117"
+                            );
+                        policy.AllowAnyMethod().AllowAnyHeader();
                     }
                 );
             });
