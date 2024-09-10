@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Introduction.Database;
 using Introduction.Models;
 using Microsoft.AspNetCore.Cors;
+using Introduction.DataTransferObjects;
 
 namespace Introduction.Controllers
 {
@@ -26,21 +27,34 @@ namespace Introduction.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Person>>> GetPerson()
         {
-            return await _context.Person.ToListAsync();
+            var people = await _context.Person
+                .Include(p => p.TravelsPeople).ThenInclude(t => t.Travel).ThenInclude(t => t.CityStart)
+                .Include(p => p.TravelsPeople).ThenInclude(t => t.Travel).ThenInclude(t => t.CityEnd)
+                .ToListAsync();
+            
+            List<PersonDTO> result = new List<PersonDTO>();
+            foreach (Person _person in people)
+            {
+                result.Add(ToPersonDTO(_person));
+            }
+            return Ok(result);
         }
 
         // GET: api/People/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Person>> GetPerson(int id)
         {
-            var person = await _context.Person.FindAsync(id);
+            var person = await _context.Person
+                .Include(p => p.TravelsPeople).ThenInclude(t => t.Travel).ThenInclude(t => t.CityStart)
+                .Include(p => p.TravelsPeople).ThenInclude(t => t.Travel).ThenInclude(t => t.CityEnd)
+                .FirstOrDefaultAsync(p => p.Id == id);
 
             if (person == null)
             {
                 return NotFound();
             }
 
-            return person;
+            return Ok(ToPersonDTO(person));
         }
 
         // PUT: api/People/5
@@ -104,6 +118,36 @@ namespace Introduction.Controllers
         private bool PersonExists(int id)
         {
             return _context.Person.Any(e => e.Id == id);
+        }
+
+        private static PersonDTO ToPersonDTO(Person _person)
+        {
+            
+            List<TravelsPeopleDTO> travelsPeopleDTOs = new List<TravelsPeopleDTO>();
+            foreach(TravelsPeople _tp in _person.TravelsPeople)
+            {
+                travelsPeopleDTOs.Add(
+                    new TravelsPeopleDTO()
+                    {
+                        IsDriver = _tp.IsDriver,
+                        Travel = new TravelDTO(){
+                            Id = _tp.TravelId,
+                            CityStart = _tp.Travel.CityStart,
+                            CityEnd = _tp.Travel.CityEnd,
+                            TravelStartDate = _tp.Travel.TravelStartDate,
+                            TravelEndDate = _tp.Travel.TravelEndDate
+                        }
+                    });
+            }
+            PersonDTO dto = new PersonDTO()
+            {
+                Id = _person.Id,
+                FirstName = _person.Firstname,
+                LastName = _person.Lastname,
+                TravelsPeople = travelsPeopleDTOs
+            };
+
+            return dto;
         }
     }
 }

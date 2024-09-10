@@ -9,16 +9,15 @@ namespace Introduction.Models
     {
         [Key]
         [Column("country_id")]
-        [Required]
         public int Id { get; set; }
 
         [Column("country_name")]
         [Required]
-        public string CountryName { get; set; }
+        public required string CountryName { get; set; }
 
         [Column("country_code", TypeName = "char(2)")]
         [Required]
-        public string CountryCode { get; set; }
+        public required string CountryCode { get; set; }
         /*
         Pour ajouter une clée étrangère on ajoute un objet nullable du type du modèle étrangé
         Ensuite on ajoute une annotation ForeignKey sur un int nullable représentant l'id de l'objet étrangé

@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Introduction.Migrations
 {
     [DbContext(typeof(CountriesDbContext))]
-    [Migration("20240903142225_travels2")]
-    partial class travels2
+    [Migration("20240905090901_travelspeople")]
+    partial class travelspeople
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -152,7 +152,7 @@ namespace Introduction.Migrations
                         .HasColumnType("int")
                         .HasColumnName("travel_start_city_id");
 
-                    b.Property<DateTime>("TravelEndDate")
+                    b.Property<DateTime?>("TravelEndDate")
                         .HasColumnType("datetime2")
                         .HasColumnName("travel_end_date");
 
@@ -167,6 +167,27 @@ namespace Introduction.Migrations
                     b.HasIndex("CityStartId");
 
                     b.ToTable("travel");
+                });
+
+            modelBuilder.Entity("Introduction.Models.TravelsPeople", b =>
+                {
+                    b.Property<int>("TravelId")
+                        .HasColumnType("int")
+                        .HasColumnName("travel_id");
+
+                    b.Property<int>("PersonId")
+                        .HasColumnType("int")
+                        .HasColumnName("person_id");
+
+                    b.Property<bool>("IsDriver")
+                        .HasColumnType("bit")
+                        .HasColumnName("driver");
+
+                    b.HasKey("TravelId", "PersonId");
+
+                    b.HasIndex("PersonId");
+
+                    b.ToTable("travels_people");
                 });
 
             modelBuilder.Entity("Introduction.Models.City", b =>
@@ -196,18 +217,37 @@ namespace Introduction.Migrations
                     b.HasOne("Introduction.Models.City", "CityEnd")
                         .WithMany()
                         .HasForeignKey("CityEndId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
                     b.HasOne("Introduction.Models.City", "CityStart")
                         .WithMany()
                         .HasForeignKey("CityStartId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
                     b.Navigation("CityEnd");
 
                     b.Navigation("CityStart");
+                });
+
+            modelBuilder.Entity("Introduction.Models.TravelsPeople", b =>
+                {
+                    b.HasOne("Introduction.Models.Person", "Person")
+                        .WithMany("TravelsPeople")
+                        .HasForeignKey("PersonId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Introduction.Models.Travel", "Travel")
+                        .WithMany("TravelsPeople")
+                        .HasForeignKey("TravelId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Person");
+
+                    b.Navigation("Travel");
                 });
 
             modelBuilder.Entity("Introduction.Models.Continent", b =>
@@ -218,6 +258,16 @@ namespace Introduction.Migrations
             modelBuilder.Entity("Introduction.Models.Country", b =>
                 {
                     b.Navigation("Cities");
+                });
+
+            modelBuilder.Entity("Introduction.Models.Person", b =>
+                {
+                    b.Navigation("TravelsPeople");
+                });
+
+            modelBuilder.Entity("Introduction.Models.Travel", b =>
+                {
+                    b.Navigation("TravelsPeople");
                 });
 #pragma warning restore 612, 618
         }

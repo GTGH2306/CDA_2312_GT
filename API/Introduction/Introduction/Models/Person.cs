@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace Introduction.Models
 {
@@ -9,16 +10,17 @@ namespace Introduction.Models
     {
         [Key]
         [Column("person_id")]
-        [Required]
         public int Id { get; set; }
         [Column("person_firstname")]
         [MaxLength(50)]
         [Required]
-        public string Firstname { get; set; }
+        public required string Firstname { get; set; }
         [Column("person_lastname")]
         [MaxLength(50)]
         [Required]
-        public string Lastname { get; set; }
+        public required string Lastname { get; set; }
 
+        [JsonIgnore]
+        public ICollection<TravelsPeople>? TravelsPeople { get; set; }
     }
 }

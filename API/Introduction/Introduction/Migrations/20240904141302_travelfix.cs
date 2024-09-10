@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Introduction.Migrations
 {
     /// <inheritdoc />
-    public partial class travels : Migration
+    public partial class travelfix : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -42,14 +42,12 @@ namespace Introduction.Migrations
                         name: "FK_travel_city_travel_end_city_id",
                         column: x => x.travel_end_city_id,
                         principalTable: "city",
-                        principalColumn: "city_id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "city_id");
                     table.ForeignKey(
                         name: "FK_travel_city_travel_start_city_id",
                         column: x => x.travel_start_city_id,
                         principalTable: "city",
-                        principalColumn: "city_id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "city_id");
                 });
 
             migrationBuilder.CreateIndex(

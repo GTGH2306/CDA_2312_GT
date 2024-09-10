@@ -18,24 +18,40 @@ namespace Introduction.Database
         }
         public DbSet<Introduction.Models.City> City { get; set; } = default!;
         public DbSet<Introduction.Models.Person> Person { get; set; } = default!;
-        public DbSet<Introduction.Models.Travel> Route { get; set; } = default!;
+        public DbSet<Introduction.Models.Travel> Travels { get; set; } = default!;
+        public DbSet<Introduction.Models.TravelsPeople> TravelsPeople { get; set; } = default!;
 
 
-        ////WTF?
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.Entity<Travel>()
-        //            .HasRequired(m => m.CityStart)
-        //            .WithMany(t => t.TravelStarts)
-        //            .HasForeignKey(m => m.CityStartId)
-        //            .WillCascadeOnDelete(false);
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
 
-        //    modelBuilder.Entity<Travel>()
-        //                .HasRequired(m => m.CityEnd)
-        //                .WithMany(t => t.TravelEnds)
-        //                .HasForeignKey(m => m.CityEndId)
-        //                .WillCascadeOnDelete(false);
-        //}
+        {
 
+            modelBuilder.Entity<Travel>()
+                //indique que dans Travel CityStart est le côté One de la relation
+                .HasOne(t => t.CityStart)
+                //indique que dans City TravelsStarts est le côté Many de la relation
+                .WithMany(c => c.TravelStarts)
+                //Indique que dans Travel CityStartId est la clé étrangère
+                .HasForeignKey(t => t.CityStartId)
+                //Demande de ne pas faire de suppression en cascade car risque de boucle infini
+                .OnDelete(DeleteBehavior.Restrict);
+
+
+
+            modelBuilder.Entity<Travel>()
+
+                .HasOne(t => t.CityEnd)
+
+                .WithMany(c => c.TravelEnds)
+
+                .HasForeignKey(t => t.CityEndId)
+
+                .OnDelete(DeleteBehavior.Restrict);
+
+
+
+            base.OnModelCreating(modelBuilder);
+
+        }
     }
 }

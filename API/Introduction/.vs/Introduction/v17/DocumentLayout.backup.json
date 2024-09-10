@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240903145254_travel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Introduction\\Migrations\\20240903145254_travel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\models\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\models\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\database\\countriesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\database\\countriesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,28 +11,68 @@
       "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\models\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\controllers\\travelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\controllers\\travelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\migrations\\20240829125245_people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\migrations\\20240829125245_people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240903142225_travels2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Introduction\\Migrations\\20240903142225_travels2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240903141727_travels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Introduction\\Migrations\\20240903141727_travels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\controllers\\travelspeoplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\controllers\\travelspeoplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\controllers\\travelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\controllers\\travelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\migrations\\20240826104435_country-fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\migrations\\20240826104435_country-fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\migrations\\20240822130058_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\migrations\\20240822130058_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\migrations\\20240822130058_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\migrations\\20240822130058_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\models\\travelspeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\models\\travelspeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\models\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\models\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\datatransferobjects\\travelspeopledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\datatransferobjects\\travelspeopledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\datatransferobjects\\traveldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\datatransferobjects\\traveldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\datatransferobjects\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\datatransferobjects\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\controllers\\continentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\controllers\\continentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\migrations\\20240829125245_people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\migrations\\20240829125245_people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\migrations\\20240826104435_country-fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\migrations\\20240826104435_country-fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7B69FDC-AD01-48E4-860E-EA637CFB1D59}|WebApp\\WebApp.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C7B69FDC-AD01-48E4-860E-EA637CFB1D59}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -83,6 +95,10 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/db_countries_2312/True/SqlTable/dbo.city.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\api\\introduction\\introduction\\migrations\\20240905090901_travelspeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93240EBD-1DCD-484C-A7C4-7B74EF42FE2D}|Introduction\\Introduction.csproj|solutionrelative:introduction\\migrations\\20240905090901_travelspeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -92,69 +108,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240903145254_travel3.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240903145254_travel3.cs",
-              "RelativeDocumentMoniker": "Introduction\\Migrations\\20240903145254_travel3.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240903145254_travel3.cs",
-              "RelativeToolTip": "Introduction\\Migrations\\20240903145254_travel3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "TravelsPeoplesController.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\TravelsPeoplesController.cs",
+              "RelativeDocumentMoniker": "Introduction\\Controllers\\TravelsPeoplesController.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\TravelsPeoplesController.cs",
+              "RelativeToolTip": "Introduction\\Controllers\\TravelsPeoplesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T14:52:54.719Z",
+              "WhenOpened": "2024-09-05T09:08:40.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "TravelsController.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\TravelsController.cs",
               "RelativeDocumentMoniker": "Introduction\\Controllers\\TravelsController.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\TravelsController.cs",
               "RelativeToolTip": "Introduction\\Controllers\\TravelsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T14:22:17.084Z",
+              "WhenOpened": "2024-09-05T12:16:23.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Travel.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Travel.cs",
-              "RelativeDocumentMoniker": "Introduction\\Models\\Travel.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Travel.cs",
-              "RelativeToolTip": "Introduction\\Models\\Travel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Introduction\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Introduction\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAADwvx8AAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T13:45:50.908Z",
+              "WhenOpened": "2024-08-29T12:50:17.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\City.cs",
               "RelativeDocumentMoniker": "Introduction\\Models\\City.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\City.cs",
               "RelativeToolTip": "Introduction\\Models\\City.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T10:34:49.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Continent.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Continent.cs",
+              "RelativeDocumentMoniker": "Introduction\\Models\\Continent.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Continent.cs",
+              "RelativeToolTip": "Introduction\\Models\\Continent.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:29:05.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Country.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Country.cs",
               "RelativeDocumentMoniker": "Introduction\\Models\\Country.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Country.cs",
               "RelativeToolTip": "Introduction\\Models\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T12:30:34.813Z",
               "EditorCaption": ""
@@ -162,58 +191,162 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Continent.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Continent.cs",
-              "RelativeDocumentMoniker": "Introduction\\Models\\Continent.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Continent.cs",
-              "RelativeToolTip": "Introduction\\Models\\Continent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:29:05.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Introduction\\Models\\Person.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Person.cs",
               "RelativeToolTip": "Introduction\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T12:27:37.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CountriesDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Database\\CountriesDbContext.cs",
-              "RelativeDocumentMoniker": "Introduction\\Database\\CountriesDbContext.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Database\\CountriesDbContext.cs",
-              "RelativeToolTip": "Introduction\\Database\\CountriesDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "20240826104435_country-fix.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240826104435_country-fix.cs",
+              "RelativeDocumentMoniker": "Introduction\\Migrations\\20240826104435_country-fix.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240826104435_country-fix.cs",
+              "RelativeToolTip": "Introduction\\Migrations\\20240826104435_country-fix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T09:53:48.695Z",
+              "WhenOpened": "2024-09-02T08:14:57.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "20240822130058_initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240822130058_initial.Designer.cs",
+              "RelativeDocumentMoniker": "Introduction\\Migrations\\20240822130058_initial.Designer.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240822130058_initial.Designer.cs",
+              "RelativeToolTip": "Introduction\\Migrations\\20240822130058_initial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:41:26.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240822130058_initial.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240822130058_initial.cs",
+              "RelativeDocumentMoniker": "Introduction\\Migrations\\20240822130058_initial.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240822130058_initial.cs",
+              "RelativeToolTip": "Introduction\\Migrations\\20240822130058_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:41:23.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Travel.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Travel.cs",
+              "RelativeDocumentMoniker": "Introduction\\Models\\Travel.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\Travel.cs",
+              "RelativeToolTip": "Introduction\\Models\\Travel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:45:50.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Program.cs",
               "RelativeDocumentMoniker": "Introduction\\Program.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Program.cs",
               "RelativeToolTip": "Introduction\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T12:51:58.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
+              "Title": "20240905090901_travelspeople.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240905090901_travelspeople.cs",
+              "RelativeDocumentMoniker": "Introduction\\Migrations\\20240905090901_travelspeople.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240905090901_travelspeople.cs",
+              "RelativeToolTip": "Introduction\\Migrations\\20240905090901_travelspeople.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:09:01.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TravelsPeople.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\TravelsPeople.cs",
+              "RelativeDocumentMoniker": "Introduction\\Models\\TravelsPeople.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Models\\TravelsPeople.cs",
+              "RelativeToolTip": "Introduction\\Models\\TravelsPeople.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:48:46.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TravelsPeopleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\DataTransferObjects\\TravelsPeopleDTO.cs",
+              "RelativeDocumentMoniker": "Introduction\\DataTransferObjects\\TravelsPeopleDTO.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\DataTransferObjects\\TravelsPeopleDTO.cs",
+              "RelativeToolTip": "Introduction\\DataTransferObjects\\TravelsPeopleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:31:14.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TravelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\DataTransferObjects\\TravelDTO.cs",
+              "RelativeDocumentMoniker": "Introduction\\DataTransferObjects\\TravelDTO.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\DataTransferObjects\\TravelDTO.cs",
+              "RelativeToolTip": "Introduction\\DataTransferObjects\\TravelDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:30:48.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\DataTransferObjects\\PersonDTO.cs",
+              "RelativeDocumentMoniker": "Introduction\\DataTransferObjects\\PersonDTO.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\DataTransferObjects\\PersonDTO.cs",
+              "RelativeToolTip": "Introduction\\DataTransferObjects\\PersonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:31:34.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContinentsController.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\ContinentsController.cs",
+              "RelativeDocumentMoniker": "Introduction\\Controllers\\ContinentsController.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\ContinentsController.cs",
+              "RelativeToolTip": "Introduction\\Controllers\\ContinentsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:59:19.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "20240829125245_people.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240829125245_people.cs",
               "RelativeDocumentMoniker": "Introduction\\Migrations\\20240829125245_people.cs",
@@ -226,59 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20240903142225_travels2.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240903142225_travels2.cs",
-              "RelativeDocumentMoniker": "Introduction\\Migrations\\20240903142225_travels2.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240903142225_travels2.cs",
-              "RelativeToolTip": "Introduction\\Migrations\\20240903142225_travels2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T14:22:25.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20240903141727_travels.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240903141727_travels.cs",
-              "RelativeDocumentMoniker": "Introduction\\Migrations\\20240903141727_travels.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240903141727_travels.cs",
-              "RelativeToolTip": "Introduction\\Migrations\\20240903141727_travels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T14:17:27.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PeopleController.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\PeopleController.cs",
-              "RelativeDocumentMoniker": "Introduction\\Controllers\\PeopleController.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\PeopleController.cs",
-              "RelativeToolTip": "Introduction\\Controllers\\PeopleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:50:17.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ContinentsController.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\ContinentsController.cs",
-              "RelativeDocumentMoniker": "Introduction\\Controllers\\ContinentsController.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\ContinentsController.cs",
-              "RelativeToolTip": "Introduction\\Controllers\\ContinentsController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwGIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T09:59:19.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "CountriesController.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\CountriesController.cs",
               "RelativeDocumentMoniker": "Introduction\\Controllers\\CountriesController.cs",
@@ -291,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "CitiesController.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Controllers\\CitiesController.cs",
               "RelativeDocumentMoniker": "Introduction\\Controllers\\CitiesController.cs",
@@ -304,20 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20240826104435_country-fix.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240826104435_country-fix.cs",
-              "RelativeDocumentMoniker": "Introduction\\Migrations\\20240826104435_country-fix.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Migrations\\20240826104435_country-fix.cs",
-              "RelativeToolTip": "Introduction\\Migrations\\20240826104435_country-fix.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T08:14:57.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\Introduction\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Introduction\\Properties\\launchSettings.json",
@@ -330,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "WebApp.csproj",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\API\\Introduction\\WebApp\\WebApp.csproj",
               "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
@@ -338,11 +406,12 @@
               "RelativeToolTip": "WebApp\\WebApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-27T12:22:45.121Z"
+              "WhenOpened": "2024-08-27T12:22:45.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "dbo.country.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/db_countries_2312/True/SqlTable/dbo.country.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/db_countries_2312/True/SqlTable/dbo.country.sql",
@@ -351,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "dbo.city.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/db_countries_2312/True/SqlTable/dbo.city.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/db_countries_2312/True/SqlTable/dbo.city.sql",

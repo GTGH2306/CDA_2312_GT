@@ -16,7 +16,6 @@ namespace Introduction.Models
         //Pour indiquer que c'est bien la clé primaire
         [Key]
         [Column("continent_id")]
-        [Required]
         public int Id { get; set; }
 
         //Les anotations liés à une contrainte peuvent avoir un message d'erreur personnalisé
@@ -24,7 +23,7 @@ namespace Introduction.Models
         [MinLength(2)]
         [Column("continent_name")]
         [Required]
-        public string ContinentName { get; set; }
+        public required string ContinentName { get; set; }
 
         [Column("continent_area")]
         [Required]

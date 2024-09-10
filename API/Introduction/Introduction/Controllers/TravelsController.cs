@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Introduction.Database;
 using Introduction.Models;
+using Introduction.DataTransferObjects;
 
 namespace Introduction.Controllers
 {
@@ -23,23 +24,38 @@ namespace Introduction.Controllers
 
         // GET: api/Travels
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Travel>>> GetRoute()
+        public async Task<ActionResult<IEnumerable<Travel>>> GetTravels()
         {
-            return await _context.Route.ToListAsync();
+             var travels = await _context.Travels
+                .Include(t => t.CityStart)
+                .Include(t => t.CityEnd)
+                .Include(t => t.TravelsPeople).ThenInclude(t => t.Person)
+                .ToListAsync();
+
+            List<TravelDTO> result = new List<TravelDTO>();
+            foreach (Travel _travel in travels)
+            {
+                result.Add(ToTravelDTO(_travel));
+            }
+            return Ok(result);
         }
 
         // GET: api/Travels/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Travel>> GetTravel(int id)
         {
-            var travel = await _context.Route.FindAsync(id);
+            var travel = await _context.Travels
+                .Include(t => t.CityStart)
+                .Include(t => t.CityEnd)
+                .Include(t => t.TravelsPeople).ThenInclude(t => t.Person)
+                .FirstOrDefaultAsync(t => t.Id == id);
 
             if (travel == null)
             {
                 return NotFound();
             }
 
-            return travel;
+            return Ok(ToTravelDTO(travel));
         }
 
         // PUT: api/Travels/5
@@ -78,7 +94,7 @@ namespace Introduction.Controllers
         [HttpPost]
         public async Task<ActionResult<Travel>> PostTravel(Travel travel)
         {
-            _context.Route.Add(travel);
+            _context.Travels.Add(travel);
             await _context.SaveChangesAsync();
 
             return CreatedAtAction("GetTravel", new { id = travel.Id }, travel);
@@ -88,13 +104,13 @@ namespace Introduction.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteTravel(int id)
         {
-            var travel = await _context.Route.FindAsync(id);
+            var travel = await _context.Travels.FindAsync(id);
             if (travel == null)
             {
                 return NotFound();
             }
 
-            _context.Route.Remove(travel);
+            _context.Travels.Remove(travel);
             await _context.SaveChangesAsync();
 
             return NoContent();
@@ -102,7 +118,40 @@ namespace Introduction.Controllers
 
         private bool TravelExists(int id)
         {
-            return _context.Route.Any(e => e.Id == id);
+            return _context.Travels.Any(e => e.Id == id);
+        }
+
+        private TravelDTO ToTravelDTO(Travel _travel)
+        {
+            List<TravelsPeopleDTO> travelsPeopleDTOs = new List<TravelsPeopleDTO>();
+            if (_travel.TravelsPeople != null)
+            {
+                foreach (TravelsPeople _tp in _travel.TravelsPeople)
+                {
+                    travelsPeopleDTOs.Add(
+                        new TravelsPeopleDTO()
+                        {
+                            IsDriver = _tp.IsDriver,
+                            Person = new PersonDTO()
+                            {
+                                Id = _tp.PersonId,
+                                FirstName = _tp.Person.Firstname,
+                                LastName = _tp.Person.Lastname
+                            }
+                        }
+                    );
+                }
+            }
+            TravelDTO dTO = new TravelDTO()
+            {
+                Id = _travel.Id,
+                CityStart = _travel.CityStart,
+                CityEnd = _travel.CityEnd,
+                TravelStartDate = _travel.TravelStartDate,
+                TravelEndDate = _travel.TravelEndDate,
+                TravelsPeople = travelsPeopleDTOs
+            };
+            return dTO;
         }
     }
 }

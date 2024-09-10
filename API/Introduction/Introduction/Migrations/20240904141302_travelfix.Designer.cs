@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Introduction.Migrations
 {
     [DbContext(typeof(CountriesDbContext))]
-    [Migration("20240903141727_travels")]
-    partial class travels
+    [Migration("20240904141302_travelfix")]
+    partial class travelfix
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -196,13 +196,13 @@ namespace Introduction.Migrations
                     b.HasOne("Introduction.Models.City", "CityEnd")
                         .WithMany()
                         .HasForeignKey("CityEndId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
                     b.HasOne("Introduction.Models.City", "CityStart")
                         .WithMany()
                         .HasForeignKey("CityStartId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
                     b.Navigation("CityEnd");
