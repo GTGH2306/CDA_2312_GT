@@ -1,0 +1,10 @@
+C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\bin\Debug\WFCombo.exe.config
+C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\bin\Debug\WFCombo.exe
+C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\bin\Debug\WFCombo.pdb
+C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\obj\Debug\WFCombo.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\obj\Debug\WFCombo.FormCombo.resources
+C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\obj\Debug\WFCombo.Properties.Resources.resources
+C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\obj\Debug\WFCombo.csproj.GenerateResource.cache
+C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\obj\Debug\WFCombo.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\obj\Debug\WFCombo.exe
+C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\obj\Debug\WFCombo.pdb

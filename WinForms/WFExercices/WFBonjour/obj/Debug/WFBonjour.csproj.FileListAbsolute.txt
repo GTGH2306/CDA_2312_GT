@@ -1,0 +1,14 @@
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\bin\Debug\WFBonjour.exe.config
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\bin\Debug\WFBonjour.exe
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\bin\Debug\WFBonjour.pdb
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\obj\Debug\WFBonjour.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\obj\Debug\WFBonjour.Form1.resources
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\obj\Debug\WFBonjour.Properties.Resources.resources
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\obj\Debug\WFBonjour.csproj.GenerateResource.cache
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\obj\Debug\WFBonjour.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\obj\Debug\WFBonjour.exe
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\obj\Debug\WFBonjour.pdb
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\obj\Debug\WFBonjour.FormHumeur.resources
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\bin\Debug\CLObjet.dll
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\bin\Debug\CLObjet.pdb
+C:\Users\TGrandgirard\source\repos\WFExercices\WFBonjour\obj\Debug\WFBonjour.csproj.Up2Date

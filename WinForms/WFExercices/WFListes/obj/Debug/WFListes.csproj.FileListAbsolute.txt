@@ -1,0 +1,10 @@
+C:\Users\TGrandgirard\source\repos\WFExercices\WFListes\bin\Debug\WFListes.exe.config
+C:\Users\TGrandgirard\source\repos\WFExercices\WFListes\bin\Debug\WFListes.exe
+C:\Users\TGrandgirard\source\repos\WFExercices\WFListes\bin\Debug\WFListes.pdb
+C:\Users\TGrandgirard\source\repos\WFExercices\WFListes\obj\Debug\WFListes.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\source\repos\WFExercices\WFListes\obj\Debug\WFListes.FormLists.resources
+C:\Users\TGrandgirard\source\repos\WFExercices\WFListes\obj\Debug\WFListes.Properties.Resources.resources
+C:\Users\TGrandgirard\source\repos\WFExercices\WFListes\obj\Debug\WFListes.csproj.GenerateResource.cache
+C:\Users\TGrandgirard\source\repos\WFExercices\WFListes\obj\Debug\WFListes.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\source\repos\WFExercices\WFListes\obj\Debug\WFListes.exe
+C:\Users\TGrandgirard\source\repos\WFExercices\WFListes\obj\Debug\WFListes.pdb

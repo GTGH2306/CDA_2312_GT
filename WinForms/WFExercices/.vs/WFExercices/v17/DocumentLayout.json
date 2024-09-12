@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC742D6-4C35-4EC4-8FCB-47883506ABC2}|WFListes\\WFListes.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\wflistes\\formlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC742D6-4C35-4EC4-8FCB-47883506ABC2}|WFListes\\WFListes.csproj|solutionrelative:wflistes\\formlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC742D6-4C35-4EC4-8FCB-47883506ABC2}|WFListes\\WFListes.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\wflistes\\formlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAC742D6-4C35-4EC4-8FCB-47883506ABC2}|WFListes\\WFListes.csproj|solutionrelative:wflistes\\formlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BE099B-4FED-40A3-9A6A-32625285107C}|WFCombo\\WFCombo.csproj|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\wfcombo\\formcombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BE099B-4FED-40A3-9A6A-32625285107C}|WFCombo\\WFCombo.csproj|solutionrelative:wfcombo\\formcombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BE099B-4FED-40A3-9A6A-32625285107C}|WFCombo\\WFCombo.csproj|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\wfcombo\\formcombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75BE099B-4FED-40A3-9A6A-32625285107C}|WFCombo\\WFCombo.csproj|solutionrelative:wfcombo\\formcombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCombo.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFCombo\\FormCombo.cs",
+              "RelativeDocumentMoniker": "WFCombo\\FormCombo.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFCombo\\FormCombo.cs",
+              "RelativeToolTip": "WFCombo\\FormCombo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:36:19.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLists.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFListes\\FormLists.cs",
+              "RelativeDocumentMoniker": "WFListes\\FormLists.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFListes\\FormLists.cs",
+              "RelativeToolTip": "WFListes\\FormLists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:44:01.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "c2660509-ca5c-4f60-a44f-5e1caf250e84",
+        "Display": 0,
+        "X": 581,
+        "Y": 260,
+        "Width": 824,
+        "Height": 1508,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCombo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFCombo\\FormCombo.cs",
+              "RelativeDocumentMoniker": "WFCombo\\FormCombo.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\source\\repos\\WFExercices\\WFCombo\\FormCombo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\WFExercices\\WFCombo\\FormCombo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:35:28.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLists.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFListes\\FormLists.cs",
+              "RelativeDocumentMoniker": "WFListes\\FormLists.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFListes\\FormLists.cs [Design]",
+              "RelativeToolTip": "WFListes\\FormLists.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:43:54.207Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

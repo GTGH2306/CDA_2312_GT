@@ -1,0 +1,6 @@
+C:\Users\TGrandgirard\source\repos\WFExercices\CLObjet\bin\Debug\CLObjet.dll
+C:\Users\TGrandgirard\source\repos\WFExercices\CLObjet\bin\Debug\CLObjet.pdb
+C:\Users\TGrandgirard\source\repos\WFExercices\CLObjet\obj\Debug\CLObjet.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\source\repos\WFExercices\CLObjet\obj\Debug\CLObjet.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\source\repos\WFExercices\CLObjet\obj\Debug\CLObjet.dll
+C:\Users\TGrandgirard\source\repos\WFExercices\CLObjet\obj\Debug\CLObjet.pdb
