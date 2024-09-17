@@ -8,3 +8,13 @@ C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\obj\Debug\WFCombo.csproj.
 C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\obj\Debug\WFCombo.csproj.CoreCompileInputs.cache
 C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\obj\Debug\WFCombo.exe
 C:\Users\TGrandgirard\source\repos\WFExercices\WFCombo\obj\Debug\WFCombo.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFCombo\bin\Debug\WFCombo.exe.config
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFCombo\bin\Debug\WFCombo.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFCombo\bin\Debug\WFCombo.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFCombo\obj\Debug\WFCombo.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFCombo\obj\Debug\WFCombo.FormCombo.resources
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFCombo\obj\Debug\WFCombo.Properties.Resources.resources
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFCombo\obj\Debug\WFCombo.csproj.GenerateResource.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFCombo\obj\Debug\WFCombo.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFCombo\obj\Debug\WFCombo.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFCombo\obj\Debug\WFCombo.pdb

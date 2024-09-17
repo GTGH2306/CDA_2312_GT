@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\source\\repos\\WFExercices\\",
+  "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAC742D6-4C35-4EC4-8FCB-47883506ABC2}|WFListes\\WFListes.csproj|c:\\users\\tgrandgirard\\source\\repos\\wfexercices\\wflistes\\formlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAC742D6-4C35-4EC4-8FCB-47883506ABC2}|WFListes\\WFListes.csproj|solutionrelative:wflistes\\formlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\clobjet\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|solutionrelative:clobjet\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAC742D6-4C35-4EC4-8FCB-47883506ABC2}|WFListes\\WFListes.csproj|c:\\users\\tgrandgirard\\source\\repos\\wfexercices\\wflistes\\formlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CAC742D6-4C35-4EC4-8FCB-47883506ABC2}|WFListes\\WFListes.csproj|solutionrelative:wflistes\\formlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\clobjet\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|solutionrelative:clobjet\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75BE099B-4FED-40A3-9A6A-32625285107C}|WFCombo\\WFCombo.csproj|c:\\users\\tgrandgirard\\source\\repos\\wfexercices\\wfcombo\\formcombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75BE099B-4FED-40A3-9A6A-32625285107C}|WFCombo\\WFCombo.csproj|solutionrelative:wfcombo\\formcombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D6DF312-9575-447F-A73A-6FD757D4B1AE}|WFLoan\\WFLoan.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\wfloan\\formloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6DF312-9575-447F-A73A-6FD757D4B1AE}|WFLoan\\WFLoan.csproj|solutionrelative:wfloan\\formloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75BE099B-4FED-40A3-9A6A-32625285107C}|WFCombo\\WFCombo.csproj|c:\\users\\tgrandgirard\\source\\repos\\wfexercices\\wfcombo\\formcombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{75BE099B-4FED-40A3-9A6A-32625285107C}|WFCombo\\WFCombo.csproj|solutionrelative:wfcombo\\formcombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7D6DF312-9575-447F-A73A-6FD757D4B1AE}|WFLoan\\WFLoan.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\wfloan\\formloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6DF312-9575-447F-A73A-6FD757D4B1AE}|WFLoan\\WFLoan.csproj|solutionrelative:wfloan\\formloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC76D5D-C50B-4F5B-984C-540942D16D0B}|ConsoleAppTests\\ConsoleAppTests.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\consoleapptests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC76D5D-C50B-4F5B-984C-540942D16D0B}|ConsoleAppTests\\ConsoleAppTests.csproj|solutionrelative:consoleapptests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\clobjet\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|solutionrelative:clobjet\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +34,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormCombo.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\source\\repos\\WFExercices\\WFCombo\\FormCombo.cs",
-              "RelativeDocumentMoniker": "WFCombo\\FormCombo.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\source\\repos\\WFExercices\\WFCombo\\FormCombo.cs",
-              "RelativeToolTip": "WFCombo\\FormCombo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\LoanController.cs",
+              "RelativeDocumentMoniker": "CLObjet\\LoanController.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\LoanController.cs",
+              "RelativeToolTip": "CLObjet\\LoanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T13:36:19.982Z",
+              "WhenOpened": "2024-09-17T09:48:37.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormLists.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\source\\repos\\WFExercices\\WFListes\\FormLists.cs",
-              "RelativeDocumentMoniker": "WFListes\\FormLists.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\source\\repos\\WFExercices\\WFListes\\FormLists.cs",
-              "RelativeToolTip": "WFListes\\FormLists.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\Transaction.cs",
+              "RelativeDocumentMoniker": "CLObjet\\Transaction.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\Transaction.cs",
+              "RelativeToolTip": "CLObjet\\Transaction.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwD4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T14:44:01.508Z",
+              "WhenOpened": "2024-09-17T09:22:29.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\ConsoleAppTests\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTests\\Program.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\ConsoleAppTests\\Program.cs",
+              "RelativeToolTip": "ConsoleAppTests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:28:36.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\Loan.cs",
+              "RelativeDocumentMoniker": "CLObjet\\Loan.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\Loan.cs",
+              "RelativeToolTip": "CLObjet\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:12:02.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLoan.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs",
+              "RelativeDocumentMoniker": "WFLoan\\FormLoan.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs",
+              "RelativeToolTip": "WFLoan\\FormLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:44:21.411Z",
               "EditorCaption": ""
             }
           ]
@@ -73,30 +120,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormCombo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\source\\repos\\WFExercices\\WFCombo\\FormCombo.cs",
-              "RelativeDocumentMoniker": "WFCombo\\FormCombo.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\source\\repos\\WFExercices\\WFCombo\\FormCombo.cs [Design]",
-              "RelativeToolTip": "WFCombo\\FormCombo.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "FormLoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs",
+              "RelativeDocumentMoniker": "WFLoan\\FormLoan.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs [Design]",
+              "RelativeToolTip": "WFLoan\\FormLoan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T13:35:28.38Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormLists.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\source\\repos\\WFExercices\\WFListes\\FormLists.cs",
-              "RelativeDocumentMoniker": "WFListes\\FormLists.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\source\\repos\\WFExercices\\WFListes\\FormLists.cs [Design]",
-              "RelativeToolTip": "WFListes\\FormLists.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T14:43:54.207Z",
+              "WhenOpened": "2024-09-16T10:44:12.398Z",
               "EditorCaption": " [Design]"
             }
           ]

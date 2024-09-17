@@ -56,6 +56,7 @@
             this.comboBoxCountries.Name = "comboBoxCountries";
             this.comboBoxCountries.Size = new System.Drawing.Size(128, 21);
             this.comboBoxCountries.TabIndex = 0;
+            this.comboBoxCountries.DropDown += new System.EventHandler(this.ComboBoxAddToCombo_DropDown);
             this.comboBoxCountries.SelectedValueChanged += new System.EventHandler(this.ComboBoxCountries_SelectedValueChanged);
             // 
             // buttonAdd
@@ -66,7 +67,7 @@
             this.buttonAdd.TabIndex = 1;
             this.buttonAdd.Text = ">";
             this.buttonAdd.UseVisualStyleBackColor = true;
-            this.buttonAdd.Click += new System.EventHandler(this.ButtonAdd_Click);
+            this.buttonAdd.Click += new System.EventHandler(this.ButtonComboToList_Click);
             // 
             // listBoxCountries
             // 
@@ -85,7 +86,7 @@
             this.buttonAddAll.TabIndex = 3;
             this.buttonAddAll.Text = ">>";
             this.buttonAddAll.UseVisualStyleBackColor = true;
-            this.buttonAddAll.Click += new System.EventHandler(this.ButtonAddAll_Click);
+            this.buttonAddAll.Click += new System.EventHandler(this.ButtonComboToListAll_Click);
             // 
             // buttonRemove
             // 
@@ -95,7 +96,7 @@
             this.buttonRemove.TabIndex = 4;
             this.buttonRemove.Text = "<";
             this.buttonRemove.UseVisualStyleBackColor = true;
-            this.buttonRemove.Click += new System.EventHandler(this.ButtonRemove_Click);
+            this.buttonRemove.Click += new System.EventHandler(this.ButtonListToCombo_Click);
             // 
             // buttonRemoveAll
             // 
@@ -105,7 +106,7 @@
             this.buttonRemoveAll.TabIndex = 5;
             this.buttonRemoveAll.Text = "<<";
             this.buttonRemoveAll.UseVisualStyleBackColor = true;
-            this.buttonRemoveAll.Click += new System.EventHandler(this.ButtonRemoveAll_Click);
+            this.buttonRemoveAll.Click += new System.EventHandler(this.ButtonListToComboAll_Click);
             // 
             // buttonMoveUp
             // 
@@ -115,6 +116,7 @@
             this.buttonMoveUp.TabIndex = 6;
             this.buttonMoveUp.Text = "↑";
             this.buttonMoveUp.UseVisualStyleBackColor = true;
+            this.buttonMoveUp.Click += new System.EventHandler(this.ButtonMoveUp_Click);
             // 
             // buttonMoveDown
             // 
@@ -124,6 +126,7 @@
             this.buttonMoveDown.TabIndex = 7;
             this.buttonMoveDown.Text = "↓";
             this.buttonMoveDown.UseVisualStyleBackColor = true;
+            this.buttonMoveDown.Click += new System.EventHandler(this.ButtonMoveDown_Click);
             // 
             // labelSource
             // 
