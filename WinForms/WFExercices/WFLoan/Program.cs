@@ -16,7 +16,7 @@ namespace WFLoan
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormLoan());
+            Application.Run(new FormLoan(FormLoan.LoadLoan()));
         }
     }
 }

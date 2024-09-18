@@ -45,9 +45,10 @@
             this.labelRepaymentsText = new System.Windows.Forms.Label();
             this.labelRepaymentsAmount = new System.Windows.Forms.Label();
             this.labelRepaymentsSum = new System.Windows.Forms.Label();
-            this.buttonOk = new System.Windows.Forms.Button();
-            this.buttonCancel = new System.Windows.Forms.Button();
+            this.buttonSave = new System.Windows.Forms.Button();
+            this.buttonClose = new System.Windows.Forms.Button();
             this.errorProvider = new System.Windows.Forms.ErrorProvider(this.components);
+            this.buttonDelete = new System.Windows.Forms.Button();
             this.groupBoxInterestRadios.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider)).BeginInit();
             this.SuspendLayout();
@@ -216,37 +217,48 @@
             this.labelRepaymentsSum.TabIndex = 12;
             this.labelRepaymentsSum.Text = "1 234 567,89 €";
             // 
-            // buttonOk
+            // buttonSave
             // 
-            this.buttonOk.Location = new System.Drawing.Point(448, 272);
-            this.buttonOk.Name = "buttonOk";
-            this.buttonOk.Size = new System.Drawing.Size(80, 23);
-            this.buttonOk.TabIndex = 13;
-            this.buttonOk.Text = "OK";
-            this.buttonOk.UseVisualStyleBackColor = true;
-            this.buttonOk.Click += new System.EventHandler(this.ButtonOk_Click);
+            this.buttonSave.Location = new System.Drawing.Point(352, 272);
+            this.buttonSave.Name = "buttonSave";
+            this.buttonSave.Size = new System.Drawing.Size(80, 23);
+            this.buttonSave.TabIndex = 13;
+            this.buttonSave.Text = "Sauvegarder";
+            this.buttonSave.UseVisualStyleBackColor = true;
+            this.buttonSave.Click += new System.EventHandler(this.ButtonSave_Click);
             // 
-            // buttonCancel
+            // buttonClose
             // 
-            this.buttonCancel.Location = new System.Drawing.Point(352, 272);
-            this.buttonCancel.Name = "buttonCancel";
-            this.buttonCancel.Size = new System.Drawing.Size(80, 23);
-            this.buttonCancel.TabIndex = 14;
-            this.buttonCancel.Text = "Annuler";
-            this.buttonCancel.UseVisualStyleBackColor = true;
-            this.buttonCancel.Click += new System.EventHandler(this.ButtonCancel_Click);
+            this.buttonClose.Location = new System.Drawing.Point(448, 304);
+            this.buttonClose.Name = "buttonClose";
+            this.buttonClose.Size = new System.Drawing.Size(80, 23);
+            this.buttonClose.TabIndex = 14;
+            this.buttonClose.Text = "Fermer";
+            this.buttonClose.UseVisualStyleBackColor = true;
+            this.buttonClose.Click += new System.EventHandler(this.ButtonClose_Click);
             // 
             // errorProvider
             // 
             this.errorProvider.ContainerControl = this;
             // 
+            // buttonDelete
+            // 
+            this.buttonDelete.Location = new System.Drawing.Point(448, 272);
+            this.buttonDelete.Name = "buttonDelete";
+            this.buttonDelete.Size = new System.Drawing.Size(80, 23);
+            this.buttonDelete.TabIndex = 15;
+            this.buttonDelete.Text = "Effacer";
+            this.buttonDelete.UseVisualStyleBackColor = true;
+            this.buttonDelete.Click += new System.EventHandler(this.ButtonDelete_Click);
+            // 
             // FormLoan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(562, 322);
-            this.Controls.Add(this.buttonCancel);
-            this.Controls.Add(this.buttonOk);
+            this.ClientSize = new System.Drawing.Size(562, 354);
+            this.Controls.Add(this.buttonDelete);
+            this.Controls.Add(this.buttonClose);
+            this.Controls.Add(this.buttonSave);
             this.Controls.Add(this.labelRepaymentsSum);
             this.Controls.Add(this.labelRepaymentsAmount);
             this.Controls.Add(this.labelRepaymentsText);
@@ -291,9 +303,10 @@
         private System.Windows.Forms.Label labelRepaymentsText;
         private System.Windows.Forms.Label labelRepaymentsAmount;
         private System.Windows.Forms.Label labelRepaymentsSum;
-        private System.Windows.Forms.Button buttonOk;
-        private System.Windows.Forms.Button buttonCancel;
+        private System.Windows.Forms.Button buttonSave;
+        private System.Windows.Forms.Button buttonClose;
         private System.Windows.Forms.ErrorProvider errorProvider;
+        private System.Windows.Forms.Button buttonDelete;
     }
 }
 
