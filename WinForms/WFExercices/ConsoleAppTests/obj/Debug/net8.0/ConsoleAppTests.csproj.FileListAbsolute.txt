@@ -17,3 +17,4 @@ C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\ConsoleAppT
 C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\ConsoleAppTests\obj\Debug\net8.0\ConsoleAppTests.pdb
 C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\ConsoleAppTests\obj\Debug\net8.0\ConsoleAppTests.genruntimeconfig.cache
 C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\ConsoleAppTests\obj\Debug\net8.0\ref\ConsoleAppTests.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\ConsoleAppTests\bin\Debug\net8.0\CLObjet.dll.config

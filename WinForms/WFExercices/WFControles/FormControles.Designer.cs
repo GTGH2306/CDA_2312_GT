@@ -165,7 +165,9 @@
             this.Controls.Add(this.labelAmount);
             this.Controls.Add(this.labelDate);
             this.Controls.Add(this.labelName);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "FormControles";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form Controles";

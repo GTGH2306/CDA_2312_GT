@@ -21,7 +21,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFDefilement", "WFDefilemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFLoan", "WFLoan\WFLoan.csproj", "{7D6DF312-9575-447F-A73A-6FD757D4B1AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTests", "ConsoleAppTests\ConsoleAppTests.csproj", "{FAC76D5D-C50B-4F5B-984C-540942D16D0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppTests", "ConsoleAppTests\ConsoleAppTests.csproj", "{FAC76D5D-C50B-4F5B-984C-540942D16D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFMenus", "WFMenus\WFMenus.csproj", "{1CF462BD-71DE-4ECC-A2D6-0B3B9126192A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFToutEmballe", "WFToutEmballe\WFToutEmballe.csproj", "{6AE841CF-9DE9-4141-91D8-3012B5AF3E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFControlLibrary", "WFControlLibrary\WFControlLibrary.csproj", "{C1914916-492E-4348-AF90-E5CF066F25BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{FAC76D5D-C50B-4F5B-984C-540942D16D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAC76D5D-C50B-4F5B-984C-540942D16D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAC76D5D-C50B-4F5B-984C-540942D16D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF462BD-71DE-4ECC-A2D6-0B3B9126192A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF462BD-71DE-4ECC-A2D6-0B3B9126192A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF462BD-71DE-4ECC-A2D6-0B3B9126192A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF462BD-71DE-4ECC-A2D6-0B3B9126192A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE841CF-9DE9-4141-91D8-3012B5AF3E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE841CF-9DE9-4141-91D8-3012B5AF3E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE841CF-9DE9-4141-91D8-3012B5AF3E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE841CF-9DE9-4141-91D8-3012B5AF3E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1914916-492E-4348-AF90-E5CF066F25BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1914916-492E-4348-AF90-E5CF066F25BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1914916-492E-4348-AF90-E5CF066F25BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1914916-492E-4348-AF90-E5CF066F25BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

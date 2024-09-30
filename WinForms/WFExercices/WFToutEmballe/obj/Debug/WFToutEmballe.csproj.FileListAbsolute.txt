@@ -1,0 +1,17 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\bin\Debug\WFToutEmballe.exe.config
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\bin\Debug\WFToutEmballe.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\bin\Debug\WFToutEmballe.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\bin\Debug\CLObjet.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\bin\Debug\CLObjet.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\bin\Debug\CLObjet.dll.config
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\obj\Debug\WFToutEmballe.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\obj\Debug\WFToutEmballe.FormProduction.resources
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\obj\Debug\WFToutEmballe.Properties.Resources.resources
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\obj\Debug\WFToutEmballe.csproj.GenerateResource.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\obj\Debug\WFToutEmballe.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\obj\Debug\WFToutEm.73901704.Up2Date
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\obj\Debug\WFToutEmballe.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\obj\Debug\WFToutEmballe.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\obj\Debug\WFToutEmballe.TimeSpeedInput.resources
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\bin\Debug\WFControlLibrary.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFToutEmballe\bin\Debug\WFControlLibrary.pdb

@@ -11,3 +11,17 @@ C:\Users\TGrandgirard\source\repos\WFExercices\WFAdditionneur\obj\Debug\WFAdditi
 C:\Users\TGrandgirard\source\repos\WFExercices\WFAdditionneur\obj\Debug\WFAdditi.A2EC09D0.Up2Date
 C:\Users\TGrandgirard\source\repos\WFExercices\WFAdditionneur\obj\Debug\WFAdditionneur.exe
 C:\Users\TGrandgirard\source\repos\WFExercices\WFAdditionneur\obj\Debug\WFAdditionneur.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\bin\Debug\WFAdditionneur.exe.config
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\bin\Debug\WFAdditionneur.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\bin\Debug\WFAdditionneur.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\bin\Debug\CLObjet.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\bin\Debug\CLObjet.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\bin\Debug\CLObjet.dll.config
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\obj\Debug\WFAdditionneur.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\obj\Debug\WFAdditionneur.AdditionneurForm.resources
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\obj\Debug\WFAdditionneur.Properties.Resources.resources
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\obj\Debug\WFAdditionneur.csproj.GenerateResource.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\obj\Debug\WFAdditionneur.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\obj\Debug\WFAdditi.A2EC09D0.Up2Date
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\obj\Debug\WFAdditionneur.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFAdditionneur\obj\Debug\WFAdditionneur.pdb

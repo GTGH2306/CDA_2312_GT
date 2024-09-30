@@ -8,3 +8,13 @@ C:\Users\TGrandgirard\source\repos\WFExercices\WFRadioCheck\obj\Debug\WFRadioChe
 C:\Users\TGrandgirard\source\repos\WFExercices\WFRadioCheck\obj\Debug\WFRadioCheck.csproj.CoreCompileInputs.cache
 C:\Users\TGrandgirard\source\repos\WFExercices\WFRadioCheck\obj\Debug\WFRadioCheck.exe
 C:\Users\TGrandgirard\source\repos\WFExercices\WFRadioCheck\obj\Debug\WFRadioCheck.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFRadioCheck\bin\Debug\WFRadioCheck.exe.config
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFRadioCheck\bin\Debug\WFRadioCheck.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFRadioCheck\bin\Debug\WFRadioCheck.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFRadioCheck\obj\Debug\WFRadioCheck.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFRadioCheck\obj\Debug\WFRadioCheck.Properties.Resources.resources
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFRadioCheck\obj\Debug\WFRadioCheck.RadioCheckForm.resources
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFRadioCheck\obj\Debug\WFRadioCheck.csproj.GenerateResource.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFRadioCheck\obj\Debug\WFRadioCheck.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFRadioCheck\obj\Debug\WFRadioCheck.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFRadioCheck\obj\Debug\WFRadioCheck.pdb

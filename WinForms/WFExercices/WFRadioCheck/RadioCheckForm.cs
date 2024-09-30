@@ -12,10 +12,13 @@ namespace WFRadioCheck
 {
     public partial class RadioCheckForm : Form
     {
-        public RadioCheckForm()
+        public RadioCheckForm(): this(string.Empty) {}
+
+        public RadioCheckForm(string startingString)
         {
             InitializeComponent();
-            this.labelEnteredText.Text = string.Empty;
+            this.textBoxInput.Text = startingString;
+            this.labelEnteredText.Text = startingString;
         }
 
         private void TextBoxInput_TextChanged(object sender, EventArgs e)

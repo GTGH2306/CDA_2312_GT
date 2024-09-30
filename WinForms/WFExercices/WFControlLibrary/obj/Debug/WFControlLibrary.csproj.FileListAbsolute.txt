@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\bin\Debug\WFControlLibrary.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\bin\Debug\WFControlLibrary.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\bin\Debug\CLObjet.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\bin\Debug\CLObjet.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\bin\Debug\CLObjet.dll.config
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\obj\Debug\WFControlLibrary.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\obj\Debug\WFControlLibrary.ProductionProgressBar.resources
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\obj\Debug\WFControlLibrary.csproj.GenerateResource.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\obj\Debug\WFControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\obj\Debug\WFContro.B4D6604E.Up2Date
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\obj\Debug\WFControlLibrary.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\obj\Debug\WFControlLibrary.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\obj\Debug\WFControlLibrary.ProductionTabPage.resources
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\obj\Debug\WFControlLibrary.Properties.Resources.resources
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WinForms\WFExercices\WFControlLibrary\obj\Debug\WFControlLibrary.UCTrafficLightButtons.resources
