@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfControles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfControles"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="366" Width="454" Closing="Window_Closing">
+    <Window.Resources>
+        <Style TargetType="{x:Type TextBox}">
+            <Setter Property="Validation.ErrorTemplate">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <StackPanel>
+                            <AdornedElementPlaceholder />
+                            <ItemsControl ItemsSource="{Binding}">
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding (ValidationError.ErrorContent)}" Foreground="Red" Margin="5"/>
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                        </StackPanel>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Label Content="Nom" HorizontalAlignment="Left" Margin="10,26,0,0" VerticalAlignment="Top"/>
+        <TextBox Text="{Binding Path=Name, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="88,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="149"/>
+        <Label Content="Date" HorizontalAlignment="Left" Margin="10,77,0,0" VerticalAlignment="Top"/>
+        <Label Content="Montant" HorizontalAlignment="Left" Margin="10,128,0,0" VerticalAlignment="Top"/>
+        <TextBox Text="{Binding Path=Amount, UpdateSourceTrigger=PropertyChanged}"  HorizontalAlignment="Left" Margin="88,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="101"/>
+        <Label Content="Code Postal" HorizontalAlignment="Left" Margin="10,178,0,0" VerticalAlignment="Top"/>
+        <TextBox Text="{Binding Path=ZipCode, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="88,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="78"/>
+        <Button IsEnabled="{Binding ButtonValidateEnabled}" Content="Valider" HorizontalAlignment="Left" Margin="190,245,0,0" VerticalAlignment="Top" Width="61" Click="ValidateButton_Click"/>
+        <Button Content="Effacer" HorizontalAlignment="Left" Margin="190,270,0,0" VerticalAlignment="Top" Width="61" Click="ClearButton_Click"/>
+        <DatePicker SelectedDate="{Binding Path=Date, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="88,78,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\bin\Debug\net8.0\CLDomainePersistance.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\bin\Debug\net8.0\CLDomainePersistance.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\bin\Debug\net8.0\CLDomainePersistance.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\obj\Debug\net8.0\CLDomainePersistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\obj\Debug\net8.0\CLDomainePersistance.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\obj\Debug\net8.0\CLDomainePersistance.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\obj\Debug\net8.0\CLDomainePersistance.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\obj\Debug\net8.0\CLDomainePersistance.sourcelink.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\obj\Debug\net8.0\CLDomainePersistance.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\obj\Debug\net8.0\refint\CLDomainePersistance.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\obj\Debug\net8.0\CLDomainePersistance.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\obj\Debug\net8.0\ref\CLDomainePersistance.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\bin\Debug\net8.0\CLDomainePersistance.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\obj\Debug\net8.0\CLDomainePersistance.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\CLDomainePersistance\obj\Debug\net8.0\CLDomainePersistance.genruntimeconfig.cache

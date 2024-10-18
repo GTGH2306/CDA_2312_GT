@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfControles.WindowValidated"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfControles"
+        mc:Ignorable="d"
+        Title="WindowValidated" Height="236" Width="259">
+    <Grid>
+        <Label Content="Nom:" HorizontalAlignment="Left" Margin="26,35,0,0" VerticalAlignment="Top"/>
+        <Label Content="{Binding Name}" HorizontalAlignment="Left" Margin="115,35,0,0" VerticalAlignment="Top"/>
+        <Label Content="Date:" HorizontalAlignment="Left" Margin="26,66,0,0" VerticalAlignment="Top"/>
+        <Label Content="{Binding Date}" HorizontalAlignment="Left" Margin="115,66,0,0" VerticalAlignment="Top"/>
+        <Label Content="Montant:" HorizontalAlignment="Left" Margin="26,97,0,0" VerticalAlignment="Top"/>
+        <Label Content="{Binding Amount}" HorizontalAlignment="Left" Margin="115,97,0,0" VerticalAlignment="Top"/>
+        <Label Content="Code Postal:" HorizontalAlignment="Left" Margin="26,128,0,0" VerticalAlignment="Top"/>
+        <Label Content="{Binding ZipCode}" HorizontalAlignment="Left" Margin="115,128,0,0" VerticalAlignment="Top"/>
+        <Button Content="Valider" HorizontalAlignment="Left" Margin="104,168,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.415,1.961" Height="23" Click="Button_Click"/>
+
+    </Grid>
+</Window>

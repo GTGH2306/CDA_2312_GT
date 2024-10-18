@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AE841CF-9DE9-4141-91D8-3012B5AF3E34}|WFToutEmballe\\WFToutEmballe.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\wftoutemballe\\formproduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6AE841CF-9DE9-4141-91D8-3012B5AF3E34}|WFToutEmballe\\WFToutEmballe.csproj|solutionrelative:wftoutemballe\\formproduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\clobjet\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|solutionrelative:clobjet\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE841CF-9DE9-4141-91D8-3012B5AF3E34}|WFToutEmballe\\WFToutEmballe.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\wftoutemballe\\formproduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AE841CF-9DE9-4141-91D8-3012B5AF3E34}|WFToutEmballe\\WFToutEmballe.csproj|solutionrelative:wftoutemballe\\formproduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D6DF312-9575-447F-A73A-6FD757D4B1AE}|WFLoan\\WFLoan.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\wfloan\\formloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6DF312-9575-447F-A73A-6FD757D4B1AE}|WFLoan\\WFLoan.csproj|solutionrelative:wfloan\\formloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\clobjet\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|solutionrelative:clobjet\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1914916-492E-4348-AF90-E5CF066F25BA}|WFControlLibrary\\WFControlLibrary.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\wfcontrollibrary\\uctrafficlightbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1914916-492E-4348-AF90-E5CF066F25BA}|WFControlLibrary\\WFControlLibrary.csproj|solutionrelative:wfcontrollibrary\\uctrafficlightbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AE841CF-9DE9-4141-91D8-3012B5AF3E34}|WFToutEmballe\\WFToutEmballe.csproj|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\wftoutemballe\\formproduction.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AE841CF-9DE9-4141-91D8-3012B5AF3E34}|WFToutEmballe\\WFToutEmballe.csproj|solutionrelative:wftoutemballe\\formproduction.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1914916-492E-4348-AF90-E5CF066F25BA}|WFControlLibrary\\WFControlLibrary.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\wfcontrollibrary\\uctrafficlightbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C1914916-492E-4348-AF90-E5CF066F25BA}|WFControlLibrary\\WFControlLibrary.csproj|solutionrelative:wfcontrollibrary\\uctrafficlightbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1914916-492E-4348-AF90-E5CF066F25BA}|WFControlLibrary\\WFControlLibrary.csproj|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\wfcontrollibrary\\productiontabpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C1914916-492E-4348-AF90-E5CF066F25BA}|WFControlLibrary\\WFControlLibrary.csproj|solutionrelative:wfcontrollibrary\\productiontabpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1914916-492E-4348-AF90-E5CF066F25BA}|WFControlLibrary\\WFControlLibrary.csproj|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\wfcontrollibrary\\productionprogressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C1914916-492E-4348-AF90-E5CF066F25BA}|WFControlLibrary\\WFControlLibrary.csproj|solutionrelative:wfcontrollibrary\\productionprogressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7D6DF312-9575-447F-A73A-6FD757D4B1AE}|WFLoan\\WFLoan.csproj|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\wfloan\\formloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6DF312-9575-447F-A73A-6FD757D4B1AE}|WFLoan\\WFLoan.csproj|solutionrelative:wfloan\\formloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,125 +26,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Production.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\Production.cs",
-              "RelativeDocumentMoniker": "CLObjet\\Production.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\Production.cs",
-              "RelativeToolTip": "CLObjet\\Production.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T13:36:05.276Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormProduction.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFToutEmballe\\FormProduction.Designer.cs",
-              "RelativeDocumentMoniker": "WFToutEmballe\\FormProduction.Designer.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFToutEmballe\\FormProduction.Designer.cs",
-              "RelativeToolTip": "WFToutEmballe\\FormProduction.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T10:23:47.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormProduction.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFToutEmballe\\FormProduction.cs",
-              "RelativeDocumentMoniker": "WFToutEmballe\\FormProduction.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFToutEmballe\\FormProduction.cs",
-              "RelativeToolTip": "WFToutEmballe\\FormProduction.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
+              "Title": "FormLoan.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs",
+              "RelativeDocumentMoniker": "WFLoan\\FormLoan.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs",
+              "RelativeToolTip": "WFLoan\\FormLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T13:34:52.853Z",
+              "WhenOpened": "2024-10-10T13:51:56.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UCTrafficLightButtons.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFControlLibrary\\UCTrafficLightButtons.cs",
-              "RelativeDocumentMoniker": "WFControlLibrary\\UCTrafficLightButtons.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFControlLibrary\\UCTrafficLightButtons.cs",
-              "RelativeToolTip": "WFControlLibrary\\UCTrafficLightButtons.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FormLoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs",
+              "RelativeDocumentMoniker": "WFLoan\\FormLoan.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs [Design]",
+              "RelativeToolTip": "WFLoan\\FormLoan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:01:39.882Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "c2660509-ca5c-4f60-a44f-5e1caf250e84",
-        "Display": 0,
-        "X": 819,
-        "Y": 224,
-        "Width": 824,
-        "Height": 1508,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+              "WhenOpened": "2024-10-10T13:51:50.338Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormProduction.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFToutEmballe\\FormProduction.cs",
-              "RelativeDocumentMoniker": "WFToutEmballe\\FormProduction.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFToutEmballe\\FormProduction.cs [Design]",
-              "RelativeToolTip": "WFToutEmballe\\FormProduction.cs [Design]",
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\Loan.cs",
+              "RelativeDocumentMoniker": "CLObjet\\Loan.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\Loan.cs",
+              "RelativeToolTip": "CLObjet\\Loan.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T13:34:47.395Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductionProgressBar.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFControlLibrary\\ProductionProgressBar.cs",
-              "RelativeDocumentMoniker": "WFControlLibrary\\ProductionProgressBar.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFControlLibrary\\ProductionProgressBar.cs [Design]",
-              "RelativeToolTip": "WFControlLibrary\\ProductionProgressBar.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T10:26:35.612Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductionTabPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFControlLibrary\\ProductionTabPage.cs",
-              "RelativeDocumentMoniker": "WFControlLibrary\\ProductionTabPage.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFControlLibrary\\ProductionTabPage.cs [Design]",
-              "RelativeToolTip": "WFControlLibrary\\ProductionTabPage.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T12:10:42.049Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UCTrafficLightButtons.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFControlLibrary\\UCTrafficLightButtons.cs",
-              "RelativeDocumentMoniker": "WFControlLibrary\\UCTrafficLightButtons.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFControlLibrary\\UCTrafficLightButtons.cs [Design]",
-              "RelativeToolTip": "WFControlLibrary\\UCTrafficLightButtons.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:34:02.982Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-10T10:35:36.864Z",
+              "EditorCaption": ""
             }
           ]
         }

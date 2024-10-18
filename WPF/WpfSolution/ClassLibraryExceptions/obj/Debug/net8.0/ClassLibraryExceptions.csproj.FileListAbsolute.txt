@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\bin\Debug\net8.0\ClassLibraryExceptions.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\bin\Debug\net8.0\ClassLibraryExceptions.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\bin\Debug\net8.0\ClassLibraryExceptions.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\obj\Debug\net8.0\ClassLibraryExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\obj\Debug\net8.0\ClassLibraryExceptions.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\obj\Debug\net8.0\ClassLibraryExceptions.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\obj\Debug\net8.0\ClassLibraryExceptions.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\obj\Debug\net8.0\ClassLibraryExceptions.sourcelink.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\obj\Debug\net8.0\ClassLibraryExceptions.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\obj\Debug\net8.0\refint\ClassLibraryExceptions.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\obj\Debug\net8.0\ClassLibraryExceptions.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\obj\Debug\net8.0\ref\ClassLibraryExceptions.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\bin\Debug\net8.0\ClassLibraryExceptions.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\obj\Debug\net8.0\ClassLibraryExceptions.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfSolution\ClassLibraryExceptions\obj\Debug\net8.0\ClassLibraryExceptions.genruntimeconfig.cache
