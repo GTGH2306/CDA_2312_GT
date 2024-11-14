@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppDPComposite")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppFigures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5449089ea6a91083de2e89408ca95e7d44838f01")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppDPComposite")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppDPComposite")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppFigures")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppFigures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

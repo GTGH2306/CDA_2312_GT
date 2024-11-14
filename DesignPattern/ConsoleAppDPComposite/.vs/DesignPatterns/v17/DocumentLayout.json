@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1454DFC-AB12-4C1F-987A-87B6FFE04192}|ConsoleAppFigures\\ConsoleAppFigures.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\designpattern\\consoleappdpcomposite\\consoleappfigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1454DFC-AB12-4C1F-987A-87B6FFE04192}|ConsoleAppFigures\\ConsoleAppFigures.csproj|solutionrelative:consoleappfigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\designpattern\\consoleappdpcomposite\\cldesignpattern\\dessin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|solutionrelative:cldesignpattern\\dessin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\designpattern\\consoleappdpcomposite\\cldesignpattern\\structuregeometrique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|solutionrelative:cldesignpattern\\structuregeometrique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\designpattern\\consoleappdpcomposite\\cldesignpattern\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|solutionrelative:cldesignpattern\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\designpattern\\consoleappdpcomposite\\cldesignpattern\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|solutionrelative:cldesignpattern\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\designpattern\\consoleappdpcomposite\\cldesignpattern\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|solutionrelative:cldesignpattern\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53889CC-3A88-49AD-BD30-AC24A92E06A7}|ConsoleAppDPComposite\\ConsoleAppDPComposite.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\designpattern\\consoleappdpcomposite\\consoleappdpcomposite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53889CC-3A88-49AD-BD30-AC24A92E06A7}|ConsoleAppDPComposite\\ConsoleAppDPComposite.csproj|solutionrelative:consoleappdpcomposite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\designpattern\\consoleappdpcomposite\\cldesignpattern\\soustraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|solutionrelative:cldesignpattern\\soustraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\designpattern\\consoleappdpcomposite\\cldesignpattern\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|solutionrelative:cldesignpattern\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\designpattern\\consoleappdpcomposite\\cldesignpattern\\entier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|solutionrelative:cldesignpattern\\entier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\designpattern\\consoleappdpcomposite\\cldesignpattern\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|solutionrelative:cldesignpattern\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\designpattern\\consoleappdpcomposite\\cldesignpattern\\binaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A124CC99-9FED-4B43-AB06-A5768ED0375B}|CLDesignPattern\\CLDesignPattern.csproj|solutionrelative:cldesignpattern\\binaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dessin.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Dessin.cs",
+              "RelativeDocumentMoniker": "CLDesignPattern\\Dessin.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Dessin.cs",
+              "RelativeToolTip": "CLDesignPattern\\Dessin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:06:38.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Rectangle.cs",
+              "RelativeDocumentMoniker": "CLDesignPattern\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Rectangle.cs",
+              "RelativeToolTip": "CLDesignPattern\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:03:07.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cercle.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Cercle.cs",
+              "RelativeDocumentMoniker": "CLDesignPattern\\Cercle.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Cercle.cs",
+              "RelativeToolTip": "CLDesignPattern\\Cercle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:00:23.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Triangle.cs",
+              "RelativeDocumentMoniker": "CLDesignPattern\\Triangle.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Triangle.cs",
+              "RelativeToolTip": "CLDesignPattern\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:53:06.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StructureGeometrique.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\StructureGeometrique.cs",
+              "RelativeDocumentMoniker": "CLDesignPattern\\StructureGeometrique.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\StructureGeometrique.cs",
+              "RelativeToolTip": "CLDesignPattern\\StructureGeometrique.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:49:59.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\ConsoleAppFigures\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppFigures\\Program.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\ConsoleAppFigures\\Program.cs",
+              "RelativeToolTip": "ConsoleAppFigures\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:48:50.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Binaire.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Binaire.cs",
+              "RelativeDocumentMoniker": "CLDesignPattern\\Binaire.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Binaire.cs",
+              "RelativeToolTip": "CLDesignPattern\\Binaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:44:52.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Soustraction.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Soustraction.cs",
+              "RelativeDocumentMoniker": "CLDesignPattern\\Soustraction.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Soustraction.cs",
+              "RelativeToolTip": "CLDesignPattern\\Soustraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:11:30.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Addition.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Addition.cs",
+              "RelativeDocumentMoniker": "CLDesignPattern\\Addition.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Addition.cs",
+              "RelativeToolTip": "CLDesignPattern\\Addition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:08:02.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Entier.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Entier.cs",
+              "RelativeDocumentMoniker": "CLDesignPattern\\Entier.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Entier.cs",
+              "RelativeToolTip": "CLDesignPattern\\Entier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:04:54.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Expression.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Expression.cs",
+              "RelativeDocumentMoniker": "CLDesignPattern\\Expression.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\CLDesignPattern\\Expression.cs",
+              "RelativeToolTip": "CLDesignPattern\\Expression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:58:38.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\ConsoleAppDPComposite\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppDPComposite\\Program.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\ConsoleAppDPComposite\\ConsoleAppDPComposite\\Program.cs",
+              "RelativeToolTip": "ConsoleAppDPComposite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:58:11.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

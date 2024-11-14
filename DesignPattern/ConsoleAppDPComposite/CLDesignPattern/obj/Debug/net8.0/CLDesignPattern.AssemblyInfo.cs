@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CLDesignPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b06d5e604d14a74e5f1ecedfd1eef7bf0e16c6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5449089ea6a91083de2e89408ca95e7d44838f01")]
 [assembly: System.Reflection.AssemblyProductAttribute("CLDesignPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CLDesignPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
