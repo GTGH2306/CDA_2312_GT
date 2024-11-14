@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppEcf", "WpfAppEcf\WpfAppEcf.csproj", "{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLEcf", "CLEcf\CLEcf.csproj", "{5AB94C68-DDB6-4E40-A865-B014790761D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB94C68-DDB6-4E40-A865-B014790761D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB94C68-DDB6-4E40-A865-B014790761D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB94C68-DDB6-4E40-A865-B014790761D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB94C68-DDB6-4E40-A865-B014790761D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00682834-0F70-4118-81E5-DD03CA2DCB27}
+	EndGlobalSection
+EndGlobal

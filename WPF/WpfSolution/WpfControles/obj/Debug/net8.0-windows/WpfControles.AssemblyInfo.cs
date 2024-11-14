@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfControles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39c9d208a8f54f634318258766420f193caeae66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b06d5e604d14a74e5f1ecedfd1eef7bf0e16c6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfControles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfControles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

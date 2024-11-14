@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfAppEcf\CLEcf\bin\Debug\net8.0\CLEcf.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfAppEcf\CLEcf\bin\Debug\net8.0\CLEcf.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfAppEcf\CLEcf\bin\Debug\net8.0\CLEcf.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfAppEcf\CLEcf\obj\Debug\net8.0\CLEcf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfAppEcf\CLEcf\obj\Debug\net8.0\CLEcf.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfAppEcf\CLEcf\obj\Debug\net8.0\CLEcf.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfAppEcf\CLEcf\obj\Debug\net8.0\CLEcf.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfAppEcf\CLEcf\obj\Debug\net8.0\CLEcf.sourcelink.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfAppEcf\CLEcf\obj\Debug\net8.0\CLEcf.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfAppEcf\CLEcf\obj\Debug\net8.0\refint\CLEcf.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfAppEcf\CLEcf\obj\Debug\net8.0\CLEcf.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\WPF\WpfAppEcf\CLEcf\obj\Debug\net8.0\ref\CLEcf.dll

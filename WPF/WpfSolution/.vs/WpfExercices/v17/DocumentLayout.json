@@ -3,64 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfloan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|solutionrelative:wpfloan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E7DAB371-B45E-4FB2-9656-DB66F310928C}|WpfControles\\WpfControles.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfcontroles\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DAB371-B45E-4FB2-9656-DB66F310928C}|WpfControles\\WpfControles.csproj|solutionrelative:wpfcontroles\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0560461-55DE-49D8-9DDA-80F328CCFD46}|CLPersistance\\CLPersistance.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\clpersistance\\loanpersistance\\loandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0560461-55DE-49D8-9DDA-80F328CCFD46}|CLPersistance\\CLPersistance.csproj|solutionrelative:clpersistance\\loanpersistance\\loandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7DAB371-B45E-4FB2-9656-DB66F310928C}|WpfControles\\WpfControles.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfcontroles\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7DAB371-B45E-4FB2-9656-DB66F310928C}|WpfControles\\WpfControles.csproj|solutionrelative:wpfcontroles\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\classlibrary\\loandomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\loandomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7DAB371-B45E-4FB2-9656-DB66F310928C}|WpfControles\\WpfControles.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfcontroles\\transactionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DAB371-B45E-4FB2-9656-DB66F310928C}|WpfControles\\WpfControles.csproj|solutionrelative:wpfcontroles\\transactionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0560461-55DE-49D8-9DDA-80F328CCFD46}|CLPersistance\\CLPersistance.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\clpersistance\\loanpersistance\\loanpersistancesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0560461-55DE-49D8-9DDA-80F328CCFD46}|CLPersistance\\CLPersistance.csproj|solutionrelative:clpersistance\\loanpersistance\\loanpersistancesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfrevision\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|solutionrelative:wpfrevision\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfloan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|solutionrelative:wpfloan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\classlibrary\\monetarytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\monetarytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0560461-55DE-49D8-9DDA-80F328CCFD46}|CLPersistance\\CLPersistance.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\clpersistance\\loanpersistance\\loandbcontextsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0560461-55DE-49D8-9DDA-80F328CCFD46}|CLPersistance\\CLPersistance.csproj|solutionrelative:clpersistance\\loanpersistance\\loandbcontextsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\classlibrary\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfloan\\loanvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|solutionrelative:wpfloan\\loanvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfrevision\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|solutionrelative:wpfrevision\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfloan\\selectloanwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|solutionrelative:wpfloan\\selectloanwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfrevision\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|solutionrelative:wpfrevision\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfloan\\selectloanwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|solutionrelative:wpfloan\\selectloanwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfrevision\\revisionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|solutionrelative:wpfrevision\\revisionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0560461-55DE-49D8-9DDA-80F328CCFD46}|CLPersistance\\CLPersistance.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\clpersistance\\loanpersistance\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0560461-55DE-49D8-9DDA-80F328CCFD46}|CLPersistance\\CLPersistance.csproj|solutionrelative:clpersistance\\loanpersistance\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfloan\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|solutionrelative:wpfloan\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfloan\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|solutionrelative:wpfloan\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfloan\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|solutionrelative:wpfloan\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfloan\\models\\loandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}|WpfLoan\\WpfLoan.csproj|solutionrelative:wpfloan\\models\\loandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F39E215-DAD1-42F3-AE12-77AC1E575545}|CLDomainePersistance\\CLDomainePersistance.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\cldomainepersistance\\iloanpersistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F39E215-DAD1-42F3-AE12-77AC1E575545}|CLDomainePersistance\\CLDomainePersistance.csproj|solutionrelative:cldomainepersistance\\iloanpersistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\classlibrary\\additionneurrevision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\additionneurrevision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,174 +50,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfLoan\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WpfLoan\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABSAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfControles\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfControles\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfControles\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfControles\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T10:37:06.219Z",
+              "WhenOpened": "2024-11-13T10:09:14.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoanDbContextSingleton.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\CLPersistance\\LoanPersistance\\LoanDbContextSingleton.cs",
-              "RelativeDocumentMoniker": "CLPersistance\\LoanPersistance\\LoanDbContextSingleton.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\CLPersistance\\LoanPersistance\\LoanDbContextSingleton.cs",
-              "RelativeToolTip": "CLPersistance\\LoanPersistance\\LoanDbContextSingleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MonetaryTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\ClassLibrary\\MonetaryTransaction.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\MonetaryTransaction.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\ClassLibrary\\MonetaryTransaction.cs",
+              "RelativeToolTip": "ClassLibrary\\MonetaryTransaction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:58:19.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoanPersistanceSQL.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\CLPersistance\\LoanPersistance\\LoanPersistanceSQL.cs",
-              "RelativeDocumentMoniker": "CLPersistance\\LoanPersistance\\LoanPersistanceSQL.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\CLPersistance\\LoanPersistance\\LoanPersistanceSQL.cs",
-              "RelativeToolTip": "CLPersistance\\LoanPersistance\\LoanPersistanceSQL.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:08:48.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoanDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\CLPersistance\\LoanPersistance\\LoanDbContext.cs",
-              "RelativeDocumentMoniker": "CLPersistance\\LoanPersistance\\LoanDbContext.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\CLPersistance\\LoanPersistance\\LoanDbContext.cs",
-              "RelativeToolTip": "CLPersistance\\LoanPersistance\\LoanDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:01:48.211Z",
+              "WhenOpened": "2024-11-13T08:19:33.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoanDomain.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\ClassLibrary\\LoanDomain.cs",
-              "RelativeDocumentMoniker": "ClassLibrary\\LoanDomain.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\ClassLibrary\\LoanDomain.cs",
-              "RelativeToolTip": "ClassLibrary\\LoanDomain.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAADwv2MAAAAIAAAAAAAAAA==",
+              "Title": "TransactionVM.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfControles\\TransactionVM.cs",
+              "RelativeDocumentMoniker": "WpfControles\\TransactionVM.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfControles\\TransactionVM.cs",
+              "RelativeToolTip": "WpfControles\\TransactionVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T12:07:21.791Z",
+              "WhenOpened": "2024-11-13T08:19:21.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoanVM.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\LoanVM.cs",
-              "RelativeDocumentMoniker": "WpfLoan\\LoanVM.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\LoanVM.cs",
-              "RelativeToolTip": "WpfLoan\\LoanVM.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAwwHEAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "RevisionVM.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\RevisionVM.cs",
+              "RelativeDocumentMoniker": "WpfRevision\\RevisionVM.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\RevisionVM.cs",
+              "RelativeToolTip": "WpfRevision\\RevisionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:01:35.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SelectLoanWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\SelectLoanWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfLoan\\SelectLoanWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\SelectLoanWindow.xaml.cs",
-              "RelativeToolTip": "WpfLoan\\SelectLoanWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T12:18:17.639Z",
+              "WhenOpened": "2024-11-12T10:06:56.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Loan.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\CLPersistance\\LoanPersistance\\Loan.cs",
-              "RelativeDocumentMoniker": "CLPersistance\\LoanPersistance\\Loan.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\CLPersistance\\LoanPersistance\\Loan.cs",
-              "RelativeToolTip": "CLPersistance\\LoanPersistance\\Loan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AdditionneurRevision.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\ClassLibrary\\AdditionneurRevision.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\AdditionneurRevision.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\ClassLibrary\\AdditionneurRevision.cs",
+              "RelativeToolTip": "ClassLibrary\\AdditionneurRevision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:59:02.711Z",
+              "WhenOpened": "2024-11-12T10:02:06.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Loan.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\Loan.cs",
-              "RelativeDocumentMoniker": "WpfLoan\\Loan.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\Loan.cs",
-              "RelativeToolTip": "WpfLoan\\Loan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfRevision\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfRevision\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:58:44.128Z",
+              "WhenOpened": "2024-11-12T08:20:31.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\App.xaml",
-              "RelativeDocumentMoniker": "WpfLoan\\App.xaml",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\App.xaml",
-              "RelativeToolTip": "WpfLoan\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-16T14:33:56.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\App.xaml.cs",
-              "RelativeDocumentMoniker": "WpfLoan\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\App.xaml.cs",
-              "RelativeToolTip": "WpfLoan\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\ClassLibrary\\ViewModel.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\ClassLibrary\\ViewModel.cs",
+              "RelativeToolTip": "ClassLibrary\\ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:33:53.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoanDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\Models\\LoanDbContext.cs",
-              "RelativeDocumentMoniker": "WpfLoan\\Models\\LoanDbContext.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\Models\\LoanDbContext.cs",
-              "RelativeToolTip": "WpfLoan\\Models\\LoanDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:21:29.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ILoanPersistance.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\CLDomainePersistance\\ILoanPersistance.cs",
-              "RelativeDocumentMoniker": "CLDomainePersistance\\ILoanPersistance.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\CLDomainePersistance\\ILoanPersistance.cs",
-              "RelativeToolTip": "CLDomainePersistance\\ILoanPersistance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:20:14.136Z",
+              "WhenOpened": "2024-11-12T10:20:52.049Z",
               "EditorCaption": ""
             }
           ]
@@ -248,12 +151,12 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
-        "Id": "03904a36-7037-41b0-9548-5bda4486d850",
+        "Id": "e076c07c-73da-4d98-b4a9-42dfce426807",
         "Display": 0,
-        "X": -1038,
-        "Y": 393,
-        "Width": 1067,
-        "Height": 834,
+        "X": 427,
+        "Y": 197,
+        "Width": 824,
+        "Height": 1449,
         "WindowState": 2
       },
       "DocumentGroups": [
@@ -263,26 +166,38 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfLoan\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\MainWindow.xaml",
-              "RelativeToolTip": "WpfLoan\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfControles\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfControles\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfControles\\MainWindow.xaml",
+              "RelativeToolTip": "WpfControles\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-10T10:37:06.395Z",
+              "WhenOpened": "2024-11-13T08:57:00.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SelectLoanWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\SelectLoanWindow.xaml",
-              "RelativeDocumentMoniker": "WpfLoan\\SelectLoanWindow.xaml",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfLoan\\SelectLoanWindow.xaml",
-              "RelativeToolTip": "WpfLoan\\SelectLoanWindow.xaml",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfRevision\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\MainWindow.xaml",
+              "RelativeToolTip": "WpfRevision\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-16T12:05:18.063Z",
+              "WhenOpened": "2024-11-12T08:20:31.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\App.xaml",
+              "RelativeDocumentMoniker": "WpfRevision\\App.xaml",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\App.xaml",
+              "RelativeToolTip": "WpfRevision\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T09:54:37.454Z",
               "EditorCaption": ""
             }
           ]

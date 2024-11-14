@@ -61,7 +61,7 @@ namespace WpfLoan {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfLoan;component/selectloanwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfLoan;V1.0.0.0;component/selectloanwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\SelectLoanWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

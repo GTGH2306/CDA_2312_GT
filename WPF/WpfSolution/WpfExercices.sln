@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryExceptions", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfLoan", "WpfLoan\WpfLoan.csproj", "{5E9FBA83-3F50-4DBA-9643-3CDFDCE1E799}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLDomainePersistance", "CLDomainePersistance\CLDomainePersistance.csproj", "{4F39E215-DAD1-42F3-AE12-77AC1E575545}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLDomainePersistance", "CLDomainePersistance\CLDomainePersistance.csproj", "{4F39E215-DAD1-42F3-AE12-77AC1E575545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLPersistance", "CLPersistance\CLPersistance.csproj", "{B0560461-55DE-49D8-9DDA-80F328CCFD46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLPersistance", "CLPersistance\CLPersistance.csproj", "{B0560461-55DE-49D8-9DDA-80F328CCFD46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfRevision", "WpfRevision\WpfRevision.csproj", "{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{B0560461-55DE-49D8-9DDA-80F328CCFD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0560461-55DE-49D8-9DDA-80F328CCFD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0560461-55DE-49D8-9DDA-80F328CCFD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

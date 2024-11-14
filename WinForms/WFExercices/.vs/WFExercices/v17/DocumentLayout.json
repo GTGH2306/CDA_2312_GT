@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\clobjet\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|solutionrelative:clobjet\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D6DF312-9575-447F-A73A-6FD757D4B1AE}|WFLoan\\WFLoan.csproj|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\wfloan\\formloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D6DF312-9575-447F-A73A-6FD757D4B1AE}|WFLoan\\WFLoan.csproj|solutionrelative:wfloan\\formloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\winforms\\wfexercices\\clobjet\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|solutionrelative:clobjet\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D6DF312-9575-447F-A73A-6FD757D4B1AE}|WFLoan\\WFLoan.csproj|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\wfloan\\formloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7D6DF312-9575-447F-A73A-6FD757D4B1AE}|WFLoan\\WFLoan.csproj|solutionrelative:wfloan\\formloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\clobjet\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC264CC-24FA-498B-B800-6A183DD45194}|CLObjet\\CLObjet.csproj|solutionrelative:clobjet\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +27,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoanController.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\LoanController.cs",
-              "RelativeDocumentMoniker": "CLObjet\\LoanController.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\LoanController.cs",
-              "RelativeToolTip": "CLObjet\\LoanController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:00:24.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "FormLoan.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs",
               "RelativeDocumentMoniker": "WFLoan\\FormLoan.cs",
@@ -56,18 +39,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormLoan.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs",
-              "RelativeDocumentMoniker": "WFLoan\\FormLoan.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs [Design]",
-              "RelativeToolTip": "WFLoan\\FormLoan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T13:51:50.338Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Loan.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\CLObjet\\Loan.cs",
@@ -76,8 +47,40 @@
               "RelativeToolTip": "CLObjet\\Loan.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T10:35:36.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T10:35:36.864Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "e076c07c-73da-4d98-b4a9-42dfce426807",
+        "Display": 0,
+        "X": 1279,
+        "Y": 140,
+        "Width": 824,
+        "Height": 1449,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs",
+              "RelativeDocumentMoniker": "WFLoan\\FormLoan.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WinForms\\WFExercices\\WFLoan\\FormLoan.cs [Design]",
+              "RelativeToolTip": "WFLoan\\FormLoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:51:50.338Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
