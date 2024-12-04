@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLMemento\bin\Debug\net8.0\CLMemento.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLMemento\bin\Debug\net8.0\CLMemento.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLMemento\bin\Debug\net8.0\CLMemento.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLMemento\obj\Debug\net8.0\CLMemento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLMemento\obj\Debug\net8.0\CLMemento.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLMemento\obj\Debug\net8.0\CLMemento.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLMemento\obj\Debug\net8.0\CLMemento.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLMemento\obj\Debug\net8.0\CLMemento.sourcelink.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLMemento\obj\Debug\net8.0\CLMemento.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLMemento\obj\Debug\net8.0\refint\CLMemento.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLMemento\obj\Debug\net8.0\CLMemento.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLMemento\obj\Debug\net8.0\ref\CLMemento.dll

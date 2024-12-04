@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\DesignPattern\\Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19ED9895-466B-4143-AF12-D738E718EC74}|testVisiteur\\testVisiteur.csproj|c:\\users\\tgrandgirard\\source\\repos\\testvisiteur\\testvisiteur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ED9895-466B-4143-AF12-D738E718EC74}|testVisiteur\\testVisiteur.csproj|c:\\users\\tgrandgirard\\source\\repos\\testvisiteur\\testvisiteur\\consolevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33715703-B2BD-4CE1-B481-727469124F4B}|CLtestVisiteur\\CLtestVisiteur.csproj|c:\\users\\tgrandgirard\\source\\repos\\testvisiteur\\cltestvisiteur\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33715703-B2BD-4CE1-B481-727469124F4B}|CLtestVisiteur\\CLtestVisiteur.csproj|c:\\users\\tgrandgirard\\source\\repos\\testvisiteur\\cltestvisiteur\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33715703-B2BD-4CE1-B481-727469124F4B}|CLtestVisiteur\\CLtestVisiteur.csproj|c:\\users\\tgrandgirard\\source\\repos\\testvisiteur\\cltestvisiteur\\femme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33715703-B2BD-4CE1-B481-727469124F4B}|CLtestVisiteur\\CLtestVisiteur.csproj|c:\\users\\tgrandgirard\\source\\repos\\testvisiteur\\cltestvisiteur\\homme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ED9895-466B-4143-AF12-D738E718EC74}|testVisiteur\\testVisiteur.csproj|c:\\users\\tgrandgirard\\source\\repos\\testvisiteur\\testvisiteur\\testvisiteur.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "testVisiteur",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\testVisiteur\\testVisiteur.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\testVisiteur\\testVisiteur.csproj",
+              "ToolTip": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\testVisiteur\\testVisiteur.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\testVisiteur\\testVisiteur.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T14:39:54.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\testVisiteur\\ConsoleVisitor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\testVisiteur\\ConsoleVisitor.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\testVisiteur\\ConsoleVisitor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\testVisiteur\\ConsoleVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:40:18.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\CLtestVisiteur\\Visitor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\CLtestVisiteur\\Visitor.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\CLtestVisiteur\\Visitor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\CLtestVisiteur\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:32:57.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Femme.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\CLtestVisiteur\\Femme.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\CLtestVisiteur\\Femme.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\CLtestVisiteur\\Femme.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\CLtestVisiteur\\Femme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:12:43.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Homme.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\CLtestVisiteur\\Homme.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\CLtestVisiteur\\Homme.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\CLtestVisiteur\\Homme.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\CLtestVisiteur\\Homme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:12:31.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\CLtestVisiteur\\Personne.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\CLtestVisiteur\\Personne.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\CLtestVisiteur\\Personne.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\CLtestVisiteur\\Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:08:57.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\testVisiteur\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\testVisiteur\\Program.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\source\\repos\\testVisiteur\\testVisiteur\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\testVisiteur\\testVisiteur\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:08:26.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

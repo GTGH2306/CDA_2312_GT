@@ -37,5 +37,36 @@ namespace CLDesignPattern
         {
             this.structures.Add(_structure);
         }
+
+        public override int GetEndX()
+        {
+            int result = this .positionX;
+            foreach (StructureGeometrique _structure in this.structures)
+            {
+                if (_structure.GetEndX() > result)
+                {
+                    result = _structure.GetEndX();
+                }
+            }
+            return result;
+        }
+
+        public override int GetEndY()
+        {
+            int result = this.positionX;
+            foreach (StructureGeometrique _structure in this.structures)
+            {
+                if (_structure.GetEndY() > result)
+                {
+                    result = _structure.GetEndY();
+                }
+            }
+            return result;
+        }
+
+        public List<StructureGeometrique> GetStructures()
+        {
+            return this.structures;
+        }
     }
 }

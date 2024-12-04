@@ -21,5 +21,15 @@ namespace CLDesignPattern
             return "Rectangle en position [" + this.positionX + ", " + this.positionY + "]" +
                 " avec une longueur de " + this.longueur + " et une largeur de " + this.largeur + ".";
         }
+
+        public override int GetEndX()
+        {
+            return this.largeur + this.positionX;
+        }
+
+        public override int GetEndY()
+        {
+            return this.longueur + this.positionY;
+        }
     }
 }

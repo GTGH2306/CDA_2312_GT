@@ -1,0 +1,16 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\bin\Debug\net8.0-windows\WFCLCommands.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\bin\Debug\net8.0-windows\WFCLCommands.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\bin\Debug\net8.0-windows\WFCLCommands.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\bin\Debug\net8.0-windows\CLTelecomande.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\bin\Debug\net8.0-windows\CLTelecomande.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\obj\Debug\net8.0-windows\WFCLCommands.csproj.AssemblyReference.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\obj\Debug\net8.0-windows\WFCLCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\obj\Debug\net8.0-windows\WFCLCommands.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\obj\Debug\net8.0-windows\WFCLCommands.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\obj\Debug\net8.0-windows\WFCLCommands.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\obj\Debug\net8.0-windows\WFCLCommands.sourcelink.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\obj\Debug\net8.0-windows\WFCLComm.BAA843C8.Up2Date
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\obj\Debug\net8.0-windows\WFCLCommands.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\obj\Debug\net8.0-windows\refint\WFCLCommands.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\obj\Debug\net8.0-windows\WFCLCommands.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\WFCLCommands\obj\Debug\net8.0-windows\ref\WFCLCommands.dll

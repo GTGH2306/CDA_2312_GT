@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLLampe\bin\Debug\net8.0\CLLampe.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLLampe\bin\Debug\net8.0\CLLampe.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLLampe\bin\Debug\net8.0\CLLampe.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLLampe\obj\Debug\net8.0\CLLampe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLLampe\obj\Debug\net8.0\CLLampe.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLLampe\obj\Debug\net8.0\CLLampe.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLLampe\obj\Debug\net8.0\CLLampe.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLLampe\obj\Debug\net8.0\CLLampe.sourcelink.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLLampe\obj\Debug\net8.0\CLLampe.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLLampe\obj\Debug\net8.0\refint\CLLampe.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLLampe\obj\Debug\net8.0\CLLampe.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ExercicesDPCommande\CLLampe\obj\Debug\net8.0\ref\CLLampe.dll

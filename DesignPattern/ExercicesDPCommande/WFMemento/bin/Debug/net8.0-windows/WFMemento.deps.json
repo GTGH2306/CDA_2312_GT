@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WFMemento/1.0.0": {
+        "dependencies": {
+          "CLMemento": "1.0.0"
+        },
+        "runtime": {
+          "WFMemento.dll": {}
+        }
+      },
+      "CLMemento/1.0.0": {
+        "runtime": {
+          "CLMemento.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WFMemento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CLMemento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

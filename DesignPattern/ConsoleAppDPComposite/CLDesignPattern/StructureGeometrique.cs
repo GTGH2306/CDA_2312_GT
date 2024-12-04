@@ -11,6 +11,14 @@ namespace CLDesignPattern
         protected int positionX;
         protected int positionY;
 
+        public int[] Position
+        {
+            get
+            {
+                return [ positionX, positionY ];
+            }
+        }
+
         public StructureGeometrique(int _posX, int _posY)
         {
             this.positionX = _posX;
@@ -18,5 +26,7 @@ namespace CLDesignPattern
         }
 
         public abstract string AfficheToi();
+        public abstract int GetEndX();
+        public abstract int GetEndY();
     }
 }

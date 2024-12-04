@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AppLampe/1.0.0": {
+        "dependencies": {
+          "CLLampe": "1.0.0"
+        },
+        "runtime": {
+          "AppLampe.dll": {}
+        }
+      },
+      "CLLampe/1.0.0": {
+        "runtime": {
+          "CLLampe.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppLampe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CLLampe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

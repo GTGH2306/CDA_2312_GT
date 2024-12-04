@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ConsoleAppDPComposite\CLDessin\bin\Debug\net8.0\CLDessin.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ConsoleAppDPComposite\CLDessin\bin\Debug\net8.0\CLDessin.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ConsoleAppDPComposite\CLDessin\bin\Debug\net8.0\CLDessin.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ConsoleAppDPComposite\CLDessin\obj\Debug\net8.0\CLDessin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ConsoleAppDPComposite\CLDessin\obj\Debug\net8.0\CLDessin.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ConsoleAppDPComposite\CLDessin\obj\Debug\net8.0\CLDessin.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ConsoleAppDPComposite\CLDessin\obj\Debug\net8.0\CLDessin.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ConsoleAppDPComposite\CLDessin\obj\Debug\net8.0\CLDessin.sourcelink.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ConsoleAppDPComposite\CLDessin\obj\Debug\net8.0\CLDessin.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ConsoleAppDPComposite\CLDessin\obj\Debug\net8.0\refint\CLDessin.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ConsoleAppDPComposite\CLDessin\obj\Debug\net8.0\CLDessin.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\DesignPattern\ConsoleAppDPComposite\CLDessin\obj\Debug\net8.0\ref\CLDessin.dll

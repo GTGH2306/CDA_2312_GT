@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppLampe", "AppLampe\AppLampe.csproj", "{1354BEBE-E8A7-4409-8D25-160FE245BBAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLLampe", "CLLampe\CLLampe.csproj", "{5B7E3879-EDC7-49E2-AA4E-5FF0EE468F5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WFTelecommande", "WFTelecomande\WFTelecommande.csproj", "{BEF0535A-3E4B-4760-808B-28797724CC5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLTelecomande", "CLTelecomande\CLTelecomande.csproj", "{B22007E8-998D-404F-AFD5-FB3F052DA278}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WFCLCommands", "WFCLCommands\WFCLCommands.csproj", "{EEE201C1-543B-4EBE-8A9F-EF2D07AA3671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLMemento", "CLMemento\CLMemento.csproj", "{4CD201A7-A00E-46B8-A046-8FD78D6C0768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFMemento", "WFMemento\WFMemento.csproj", "{FE72E504-3FC5-4BC0-A916-0FCC3CA5C336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1354BEBE-E8A7-4409-8D25-160FE245BBAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1354BEBE-E8A7-4409-8D25-160FE245BBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1354BEBE-E8A7-4409-8D25-160FE245BBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1354BEBE-E8A7-4409-8D25-160FE245BBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7E3879-EDC7-49E2-AA4E-5FF0EE468F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7E3879-EDC7-49E2-AA4E-5FF0EE468F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7E3879-EDC7-49E2-AA4E-5FF0EE468F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7E3879-EDC7-49E2-AA4E-5FF0EE468F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF0535A-3E4B-4760-808B-28797724CC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF0535A-3E4B-4760-808B-28797724CC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF0535A-3E4B-4760-808B-28797724CC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF0535A-3E4B-4760-808B-28797724CC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22007E8-998D-404F-AFD5-FB3F052DA278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22007E8-998D-404F-AFD5-FB3F052DA278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22007E8-998D-404F-AFD5-FB3F052DA278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22007E8-998D-404F-AFD5-FB3F052DA278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE201C1-543B-4EBE-8A9F-EF2D07AA3671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE201C1-543B-4EBE-8A9F-EF2D07AA3671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE201C1-543B-4EBE-8A9F-EF2D07AA3671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE201C1-543B-4EBE-8A9F-EF2D07AA3671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD201A7-A00E-46B8-A046-8FD78D6C0768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD201A7-A00E-46B8-A046-8FD78D6C0768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD201A7-A00E-46B8-A046-8FD78D6C0768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD201A7-A00E-46B8-A046-8FD78D6C0768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE72E504-3FC5-4BC0-A916-0FCC3CA5C336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE72E504-3FC5-4BC0-A916-0FCC3CA5C336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE72E504-3FC5-4BC0-A916-0FCC3CA5C336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE72E504-3FC5-4BC0-A916-0FCC3CA5C336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27A02D2E-1C6B-4221-A6D2-6DDA940AA305}
+	EndGlobalSection
+EndGlobal
