@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{E7DAB371-B45E-4FB2-9656-DB66F310928C}|WpfControles\\WpfControles.csproj|solutionrelative:wpfcontroles\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7DAB371-B45E-4FB2-9656-DB66F310928C}|WpfControles\\WpfControles.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfcontroles\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E7DAB371-B45E-4FB2-9656-DB66F310928C}|WpfControles\\WpfControles.csproj|solutionrelative:wpfcontroles\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\classlibrary\\monetarytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\monetarytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7DAB371-B45E-4FB2-9656-DB66F310928C}|WpfControles\\WpfControles.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfcontroles\\transactionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +19,8 @@
       "RelativeMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|solutionrelative:wpfrevision\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\classlibrary\\monetarytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\monetarytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\classlibrary\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B63DC3D-D70C-4726-9EFA-E262C89F7938}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfrevision\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|solutionrelative:wpfrevision\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfrevision\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|solutionrelative:wpfrevision\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60EF7665-4734-4FA5-BC7A-DB3C35B356A7}|WpfRevision\\WpfRevision.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfsolution\\wpfrevision\\revisionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,20 +48,20 @@
               "RelativeDocumentMoniker": "WpfControles\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfControles\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfControles\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T10:09:14.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MonetaryTransaction.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\ClassLibrary\\MonetaryTransaction.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\MonetaryTransaction.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\ClassLibrary\\MonetaryTransaction.cs",
               "RelativeToolTip": "ClassLibrary\\MonetaryTransaction.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T08:19:33.84Z",
               "EditorCaption": ""
@@ -88,12 +76,11 @@
               "RelativeToolTip": "WpfControles\\TransactionVM.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T08:19:21.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T08:19:21.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "RevisionVM.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\RevisionVM.cs",
               "RelativeDocumentMoniker": "WpfRevision\\RevisionVM.cs",
@@ -101,12 +88,11 @@
               "RelativeToolTip": "WpfRevision\\RevisionVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:06:56.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T10:06:56.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "AdditionneurRevision.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\ClassLibrary\\AdditionneurRevision.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\AdditionneurRevision.cs",
@@ -114,8 +100,7 @@
               "RelativeToolTip": "ClassLibrary\\AdditionneurRevision.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:02:06.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T10:02:06.199Z"
             },
             {
               "$type": "Document",
@@ -127,12 +112,11 @@
               "RelativeToolTip": "WpfRevision\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:20:31.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T08:20:31.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ViewModel.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\ClassLibrary\\ViewModel.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\ViewModel.cs",
@@ -140,65 +124,7 @@
               "RelativeToolTip": "ClassLibrary\\ViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:20:52.049Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "e076c07c-73da-4d98-b4a9-42dfce426807",
-        "Display": 0,
-        "X": 427,
-        "Y": 197,
-        "Width": 824,
-        "Height": 1449,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfControles\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfControles\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfControles\\MainWindow.xaml",
-              "RelativeToolTip": "WpfControles\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-13T08:57:00.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfRevision\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\MainWindow.xaml",
-              "RelativeToolTip": "WpfRevision\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-12T08:20:31.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\App.xaml",
-              "RelativeDocumentMoniker": "WpfRevision\\App.xaml",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfSolution\\WpfRevision\\App.xaml",
-              "RelativeToolTip": "WpfRevision\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-12T09:54:37.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T10:20:52.049Z"
             }
           ]
         }

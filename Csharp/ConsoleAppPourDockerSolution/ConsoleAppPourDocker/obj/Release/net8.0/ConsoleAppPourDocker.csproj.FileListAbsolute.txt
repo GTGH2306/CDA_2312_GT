@@ -1,0 +1,15 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\bin\Release\net8.0\ConsoleAppPourDocker.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\bin\Release\net8.0\ConsoleAppPourDocker.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\bin\Release\net8.0\ConsoleAppPourDocker.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\bin\Release\net8.0\ConsoleAppPourDocker.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\bin\Release\net8.0\ConsoleAppPourDocker.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\obj\Release\net8.0\ConsoleAppPourDocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\obj\Release\net8.0\ConsoleAppPourDocker.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\obj\Release\net8.0\ConsoleAppPourDocker.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\obj\Release\net8.0\ConsoleAppPourDocker.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\obj\Release\net8.0\ConsoleAppPourDocker.sourcelink.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\obj\Release\net8.0\ConsoleAppPourDocker.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\obj\Release\net8.0\refint\ConsoleAppPourDocker.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\obj\Release\net8.0\ConsoleAppPourDocker.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\obj\Release\net8.0\ConsoleAppPourDocker.genruntimeconfig.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\obj\Release\net8.0\ref\ConsoleAppPourDocker.dll

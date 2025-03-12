@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\ConsoleAppHanoiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{543CD3A6-B918-4233-80D1-A08677B08AC4}|ClassLibraryHanoi\\ClassLibraryHanoi.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\csharp\\consoleapphanoisolution\\classlibraryhanoi\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543CD3A6-B918-4233-80D1-A08677B08AC4}|ClassLibraryHanoi\\ClassLibraryHanoi.csproj|solutionrelative:classlibraryhanoi\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543CD3A6-B918-4233-80D1-A08677B08AC4}|ClassLibraryHanoi\\ClassLibraryHanoi.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\csharp\\consoleapphanoisolution\\classlibraryhanoi\\pellet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543CD3A6-B918-4233-80D1-A08677B08AC4}|ClassLibraryHanoi\\ClassLibraryHanoi.csproj|solutionrelative:classlibraryhanoi\\pellet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E0A64C-0E19-4292-9A9E-1F644E1F4051}|ConsoleAppHanoi\\ConsoleAppHanoi.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\csharp\\consoleapphanoisolution\\consoleapphanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E0A64C-0E19-4292-9A9E-1F644E1F4051}|ConsoleAppHanoi\\ConsoleAppHanoi.csproj|solutionrelative:consoleapphanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pellet.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\ConsoleAppHanoiSolution\\ClassLibraryHanoi\\Pellet.cs",
+              "RelativeDocumentMoniker": "ClassLibraryHanoi\\Pellet.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\ConsoleAppHanoiSolution\\ClassLibraryHanoi\\Pellet.cs",
+              "RelativeToolTip": "ClassLibraryHanoi\\Pellet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:20:26.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\ConsoleAppHanoiSolution\\ClassLibraryHanoi\\Game.cs",
+              "RelativeDocumentMoniker": "ClassLibraryHanoi\\Game.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\ConsoleAppHanoiSolution\\ClassLibraryHanoi\\Game.cs",
+              "RelativeToolTip": "ClassLibraryHanoi\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:18:42.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\ConsoleAppHanoiSolution\\ConsoleAppHanoi\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppHanoi\\Program.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\ConsoleAppHanoiSolution\\ConsoleAppHanoi\\Program.cs",
+              "RelativeToolTip": "ConsoleAppHanoi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:17:12.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

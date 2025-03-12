@@ -1,0 +1,12 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppHanoiSolution\ClassLibraryHanoi\bin\Debug\net8.0\ClassLibraryHanoi.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppHanoiSolution\ClassLibraryHanoi\bin\Debug\net8.0\ClassLibraryHanoi.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppHanoiSolution\ClassLibraryHanoi\bin\Debug\net8.0\ClassLibraryHanoi.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppHanoiSolution\ClassLibraryHanoi\obj\Debug\net8.0\ClassLibraryHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppHanoiSolution\ClassLibraryHanoi\obj\Debug\net8.0\ClassLibraryHanoi.AssemblyInfoInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppHanoiSolution\ClassLibraryHanoi\obj\Debug\net8.0\ClassLibraryHanoi.AssemblyInfo.cs
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppHanoiSolution\ClassLibraryHanoi\obj\Debug\net8.0\ClassLibraryHanoi.csproj.CoreCompileInputs.cache
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppHanoiSolution\ClassLibraryHanoi\obj\Debug\net8.0\ClassLibraryHanoi.sourcelink.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppHanoiSolution\ClassLibraryHanoi\obj\Debug\net8.0\ClassLibraryHanoi.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppHanoiSolution\ClassLibraryHanoi\obj\Debug\net8.0\refint\ClassLibraryHanoi.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppHanoiSolution\ClassLibraryHanoi\obj\Debug\net8.0\ClassLibraryHanoi.pdb
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppHanoiSolution\ClassLibraryHanoi\obj\Debug\net8.0\ref\ClassLibraryHanoi.dll

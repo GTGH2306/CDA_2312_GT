@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryJeu421", "ClassLibraryJeu421\ClassLibraryJeu421.csproj", "{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryJeu421", "ClassLibraryJeu421\ClassLibraryJeu421.csproj", "{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppJeu421", "ConsoleAppJeu421\ConsoleAppJeu421.csproj", "{B9A11D40-7CD3-439E-BAA1-59B674B6EDA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppJeu421", "ConsoleAppJeu421\ConsoleAppJeu421.csproj", "{B9A11D40-7CD3-439E-BAA1-59B674B6EDA2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup421", "Setup421\Setup421.vdproj", "{5C7D4375-A784-4558-892B-D9FFE1A8382D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,8 @@ Global
 		{B9A11D40-7CD3-439E-BAA1-59B674B6EDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9A11D40-7CD3-439E-BAA1-59B674B6EDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9A11D40-7CD3-439E-BAA1-59B674B6EDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7D4375-A784-4558-892B-D9FFE1A8382D}.Debug|Any CPU.ActiveCfg = Debug
+		{5C7D4375-A784-4558-892B-D9FFE1A8382D}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

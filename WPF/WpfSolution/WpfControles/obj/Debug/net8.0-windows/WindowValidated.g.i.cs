@@ -53,7 +53,7 @@ namespace WpfControles {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfControles;V1.0.0.0;component/windowvalidated.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfControles;component/windowvalidated.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\WindowValidated.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

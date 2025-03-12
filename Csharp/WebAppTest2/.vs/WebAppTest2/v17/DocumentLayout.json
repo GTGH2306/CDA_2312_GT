@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\WebAppTest2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F65E666-C4C9-449D-9261-892C8EB8F958}|WebAppTest2\\WebAppTest2.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\csharp\\webapptest2\\webapptest2\\models\\eshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F65E666-C4C9-449D-9261-892C8EB8F958}|WebAppTest2\\WebAppTest2.csproj|solutionrelative:webapptest2\\models\\eshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F65E666-C4C9-449D-9261-892C8EB8F958}|WebAppTest2\\WebAppTest2.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\csharp\\webapptest2\\webapptest2\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F65E666-C4C9-449D-9261-892C8EB8F958}|WebAppTest2\\WebAppTest2.csproj|solutionrelative:webapptest2\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F65E666-C4C9-449D-9261-892C8EB8F958}|WebAppTest2\\WebAppTest2.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\csharp\\webapptest2\\webapptest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F65E666-C4C9-449D-9261-892C8EB8F958}|WebAppTest2\\WebAppTest2.csproj|solutionrelative:webapptest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eshopContext.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\WebAppTest2\\WebAppTest2\\Models\\eshopContext.cs",
+              "RelativeDocumentMoniker": "WebAppTest2\\Models\\eshopContext.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\WebAppTest2\\WebAppTest2\\Models\\eshopContext.cs",
+              "RelativeToolTip": "WebAppTest2\\Models\\eshopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:34:17.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\WebAppTest2\\WebAppTest2\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "WebAppTest2\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\WebAppTest2\\WebAppTest2\\Models\\Produit.cs",
+              "RelativeToolTip": "WebAppTest2\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:31:44.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\WebAppTest2\\WebAppTest2\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppTest2\\Program.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\WebAppTest2\\WebAppTest2\\Program.cs",
+              "RelativeToolTip": "WebAppTest2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:22:28.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

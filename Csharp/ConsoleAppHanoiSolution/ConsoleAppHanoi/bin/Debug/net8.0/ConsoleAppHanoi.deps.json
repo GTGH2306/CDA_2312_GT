@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppHanoi/1.0.0": {
+        "dependencies": {
+          "ClassLibraryHanoi": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppHanoi.dll": {}
+        }
+      },
+      "ClassLibraryHanoi/1.0.0": {
+        "runtime": {
+          "ClassLibraryHanoi.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppHanoi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryHanoi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

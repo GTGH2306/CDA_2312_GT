@@ -16,7 +16,10 @@
       },
       "ClassLibraryJeu421/1.0.0": {
         "runtime": {
-          "ClassLibraryJeu421.dll": {}
+          "ClassLibraryJeu421.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

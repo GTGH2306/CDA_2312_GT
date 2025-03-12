@@ -1,0 +1,5 @@
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\bin\Release\net8.0\publish\ConsoleAppPourDocker.exe
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\bin\Release\net8.0\publish\ConsoleAppPourDocker.dll
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\bin\Release\net8.0\publish\ConsoleAppPourDocker.deps.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\bin\Release\net8.0\publish\ConsoleAppPourDocker.runtimeconfig.json
+C:\Users\TGrandgirard\Documents\git\CDA_2312_GT\Csharp\ConsoleAppPourDockerSolution\ConsoleAppPourDocker\bin\Release\net8.0\publish\ConsoleAppPourDocker.pdb
