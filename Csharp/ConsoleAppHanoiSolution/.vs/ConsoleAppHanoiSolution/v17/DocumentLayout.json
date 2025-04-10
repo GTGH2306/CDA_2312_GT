@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{543CD3A6-B918-4233-80D1-A08677B08AC4}|ClassLibraryHanoi\\ClassLibraryHanoi.csproj|solutionrelative:classlibraryhanoi\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{543CD3A6-B918-4233-80D1-A08677B08AC4}|ClassLibraryHanoi\\ClassLibraryHanoi.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\csharp\\consoleapphanoisolution\\classlibraryhanoi\\pellet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{543CD3A6-B918-4233-80D1-A08677B08AC4}|ClassLibraryHanoi\\ClassLibraryHanoi.csproj|solutionrelative:classlibraryhanoi\\pellet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48E0A64C-0E19-4292-9A9E-1F644E1F4051}|ConsoleAppHanoi\\ConsoleAppHanoi.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\csharp\\consoleapphanoisolution\\consoleapphanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48E0A64C-0E19-4292-9A9E-1F644E1F4051}|ConsoleAppHanoi\\ConsoleAppHanoi.csproj|solutionrelative:consoleapphanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543CD3A6-B918-4233-80D1-A08677B08AC4}|ClassLibraryHanoi\\ClassLibraryHanoi.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\csharp\\consoleapphanoisolution\\classlibraryhanoi\\pellet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543CD3A6-B918-4233-80D1-A08677B08AC4}|ClassLibraryHanoi\\ClassLibraryHanoi.csproj|solutionrelative:classlibraryhanoi\\pellet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Pellet.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\ConsoleAppHanoiSolution\\ClassLibraryHanoi\\Pellet.cs",
               "RelativeDocumentMoniker": "ClassLibraryHanoi\\Pellet.cs",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "ClassLibraryHanoi\\Pellet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:20:26.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T13:20:26.551Z"
             },
             {
               "$type": "Document",
@@ -49,14 +48,14 @@
               "RelativeDocumentMoniker": "ClassLibraryHanoi\\Game.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\ConsoleAppHanoiSolution\\ClassLibraryHanoi\\Game.cs",
               "RelativeToolTip": "ClassLibraryHanoi\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T13:18:42.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Csharp\\ConsoleAppHanoiSolution\\ConsoleAppHanoi\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppHanoi\\Program.cs",

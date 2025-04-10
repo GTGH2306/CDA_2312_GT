@@ -1,14 +1,10 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace ClassLibraryHanoi
+﻿namespace ClassLibraryHanoi
 {
     public class Game
     {
         private int move = 0;
-        private List<Pellet> tower1 = new List<Pellet>();
-        private List<Pellet> tower2 = new List<Pellet>();
-        private List<Pellet> tower3 = new List<Pellet>();
-        private List<List<Pellet>> towers = new List<List<Pellet>>();
+
+        private readonly List<List<Pellet>> towers;
 
         /// <summary>
         /// Create a game of the game "Tower of Hanoï"
@@ -17,14 +13,18 @@ namespace ClassLibraryHanoi
         /// <exception cref="ArgumentException">Occurs when the number of pellets is lower than 2</exception>
         public Game(int _pelletNb)
         {
+            List<Pellet> tower1 = new List<Pellet>();
+            List<Pellet> tower2 = new List<Pellet>();
+            List<Pellet> tower3 = new List<Pellet>();
+            this.towers = new List<List<Pellet>>();
             if (_pelletNb < 2)
             {
                 throw new ArgumentException("Invalid pellet number, hanoi tower puzzle must have at least 2 pellets");
             }
 
-            towers.Add(tower1);
-            towers.Add(tower2);
-            towers.Add(tower3);
+            this.towers.Add(tower1);
+            this.towers.Add(tower2);
+            this.towers.Add(tower3);
 
             for (int i = 0; i < _pelletNb; i++)
             {
@@ -48,24 +48,24 @@ namespace ClassLibraryHanoi
         /// <param name="_startingTower">The tower to take the pile from</param>
         /// <param name="_intermediateTower">The tower that is used to help for the transfer</param>
         /// <param name="_objectiveTower">The tower that is the final destination</param>
-        /// <exception cref="ArgumentException">Occurs when pile size is lower than 2, tower that doesn't exist is selected, or a tower appear twice in arguments</exception>
+        /// <exception cref="ArgumentException">Occurs when a pile size is lower than 2, a tower that doesn't exist is selected, or a tower appear twice in arguments</exception>
         private void Pile(int _pileSize,int _startingTower , int _intermediateTower, int _objectiveTower)
         {
             if (_pileSize < 2 || _pileSize > GetPelletTotal())
             {
-                throw new ArgumentException("Invalid pilesize");
+                throw new ArgumentException("Invalid pilesize", nameof(_pileSize));
             }
             if (_startingTower < 1 || _startingTower > 3)
             {
-                throw new ArgumentException("Invalid starting tower, must be between 1 and 3");
+                throw new ArgumentException("Invalid starting tower, must be between 1 and 3", nameof(_startingTower));
             }
             if (_intermediateTower < 1 || _intermediateTower > 3)
             {
-                throw new ArgumentException("Invalid intermediate tower, must be between 1 and 3");
+                throw new ArgumentException("Invalid intermediate tower, must be between 1 and 3", nameof(_intermediateTower));
             }
             if (_objectiveTower < 1 || _objectiveTower > 3)
             {
-                throw new ArgumentException("Invalid objective tower, must be between 1 and 3");
+                throw new ArgumentException("Invalid objective tower, must be between 1 and 3", nameof(_objectiveTower));
             }
             if (_startingTower == _intermediateTower || _startingTower == _objectiveTower || _intermediateTower == _objectiveTower)
             {
@@ -92,7 +92,12 @@ namespace ClassLibraryHanoi
         /// <returns>The total of pellets</returns>
         private int GetPelletTotal()
         {
-            return tower1.Count + tower2.Count + tower3.Count;
+            int totalPellet = 0;
+            for (int i = 0; i < this.towers.Count; i++)
+            {
+                totalPellet += this.towers[i].Count;
+            }
+            return totalPellet;
         }
 
         /// <summary>
@@ -106,13 +111,13 @@ namespace ClassLibraryHanoi
         {
             if (_towerStart < 1 || _towerStart > 3)
             {
-                throw new ArgumentException("Invalid starting tower, must be between 1 and 3");
+                throw new ArgumentException("Invalid starting tower, must be between 1 and 3", nameof(_towerStart));
             }
             if (_towerEnd < 1 || _towerEnd > 3)
             {
-                throw new ArgumentException("Invalid ending tower, must be between 1 and 3");
+                throw new ArgumentException("Invalid ending tower, must be between 1 and 3", nameof(_towerEnd));
             }
-            if (_towerEnd < 1 || _towerEnd > 3)
+            if (_towerStart == _towerEnd)
             {
                 throw new ArgumentException("Invalid towers, starting tower and ending tower cannot be the same");
             }
@@ -124,12 +129,9 @@ namespace ClassLibraryHanoi
             }
             else
             {
-                for (int i = 0; i < this.towers[_towerEnd - 1].Count; i++)
+                if (this.towers[_towerEnd - 1].LastOrDefault()?.Size < pellet.Size)
                 {
-                    if (this.towers[_towerEnd - 1][i].Size < pellet.Size)
-                    {
-                        throw new ArgumentException("Invalid movement, not allowed to move onto smaller pellet");
-                    }
+                    throw new ArgumentException("Invalid movement, not allowed to move onto smaller pellet");
                 }
 
                 this.towers[_towerEnd - 1].Add(pellet);

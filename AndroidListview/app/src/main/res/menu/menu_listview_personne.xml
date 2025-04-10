@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/copy_person" android:id="@+id/copy_person"/>
+    <item android:title="@string/del_person" android:id="@+id/del_person"/>
+</menu>

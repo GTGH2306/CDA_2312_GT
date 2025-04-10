@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassLibraryJeu421")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32d67c4c158f8a15deda0cd8cd98ba4cc1a4f2ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0126bc89461963171a29706bdeab0867996c52dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassLibraryJeu421")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassLibraryJeu421")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

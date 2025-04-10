@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppTutoJava</string>
+    <string name="default_value">0</string>
+    <string name="dec">-</string>
+    <string name="inc">+</string>
+    <string name="quit">Quitter</string>
+</resources>

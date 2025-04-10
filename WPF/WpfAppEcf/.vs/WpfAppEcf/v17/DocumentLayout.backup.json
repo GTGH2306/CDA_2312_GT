@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfappecf\\wpfappecf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|solutionrelative:wpfappecf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfappecf\\wpfappecf\\windowvalidated.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|solutionrelative:wpfappecf\\windowvalidated.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfappecf\\wpfappecf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|solutionrelative:wpfappecf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AB94C68-DDB6-4E40-A865-B014790761D0}|CLEcf\\CLEcf.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfappecf\\clecf\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AB94C68-DDB6-4E40-A865-B014790761D0}|CLEcf\\CLEcf.csproj|solutionrelative:clecf\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfappecf\\wpfappecf\\windowvalidated.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|solutionrelative:wpfappecf\\windowvalidated.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5AB94C68-DDB6-4E40-A865-B014790761D0}|CLEcf\\CLEcf.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfappecf\\clecf\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AB94C68-DDB6-4E40-A865-B014790761D0}|CLEcf\\CLEcf.csproj|solutionrelative:clecf\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfappecf\\wpfappecf\\inscriptionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|solutionrelative:wpfappecf\\inscriptionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfappecf\\wpfappecf\\windowvalidated.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|solutionrelative:wpfappecf\\windowvalidated.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CB5D73E-0D9B-4C0E-BD9B-2C25035AE524}|WpfAppEcf\\WpfAppEcf.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\wpf\\wpfappecf\\wpfappecf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -42,71 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfAppEcf\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WpfAppEcf\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwDAAAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T08:16:45.947Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "WindowValidated.xaml",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\WindowValidated.xaml",
+              "RelativeDocumentMoniker": "WpfAppEcf\\WindowValidated.xaml",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\WindowValidated.xaml",
+              "RelativeToolTip": "WpfAppEcf\\WindowValidated.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T09:51:54.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Inscription.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\CLEcf\\Inscription.cs",
               "RelativeDocumentMoniker": "CLEcf\\Inscription.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\CLEcf\\Inscription.cs",
               "RelativeToolTip": "CLEcf\\Inscription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T08:38:47.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\CLEcf\\ViewModel.cs",
-              "RelativeDocumentMoniker": "CLEcf\\ViewModel.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\CLEcf\\ViewModel.cs",
-              "RelativeToolTip": "CLEcf\\ViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T08:17:28.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WindowValidated.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\WindowValidated.xaml.cs",
-              "RelativeDocumentMoniker": "WpfAppEcf\\WindowValidated.xaml.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\WindowValidated.xaml.cs",
-              "RelativeToolTip": "WpfAppEcf\\WindowValidated.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:57:32.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InscriptionVM.cs",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\InscriptionVM.cs",
-              "RelativeDocumentMoniker": "WpfAppEcf\\InscriptionVM.cs",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\InscriptionVM.cs",
-              "RelativeToolTip": "WpfAppEcf\\InscriptionVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T08:37:44.946Z",
               "EditorCaption": ""
             }
           ]
@@ -128,35 +71,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WindowValidated.xaml",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\WindowValidated.xaml",
-              "RelativeDocumentMoniker": "WpfAppEcf\\WindowValidated.xaml",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\WindowValidated.xaml",
-              "RelativeToolTip": "WpfAppEcf\\WindowValidated.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-13T09:51:54.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfAppEcf\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\MainWindow.xaml",
-              "RelativeToolTip": "WpfAppEcf\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-13T08:16:46.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\WPF\\WpfAppEcf\\WpfAppEcf\\App.xaml",
               "RelativeDocumentMoniker": "WpfAppEcf\\App.xaml",

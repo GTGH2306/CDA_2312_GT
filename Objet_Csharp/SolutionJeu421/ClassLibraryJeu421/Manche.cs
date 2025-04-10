@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibraryJeu421
+namespace ClassLibraryJeu421 
 {
-    internal class Manche
+    internal class Manche : IManche
     {
         private int nbLancerRestant;
         private readonly int nbLancerMax;

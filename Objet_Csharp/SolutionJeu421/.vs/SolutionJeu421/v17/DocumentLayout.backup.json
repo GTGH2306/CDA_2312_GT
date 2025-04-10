@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9A11D40-7CD3-439E-BAA1-59B674B6EDA2}|ConsoleAppJeu421\\ConsoleAppJeu421.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\objet_csharp\\solutionjeu421\\consoleappjeu421\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9A11D40-7CD3-439E-BAA1-59B674B6EDA2}|ConsoleAppJeu421\\ConsoleAppJeu421.csproj|solutionrelative:consoleappjeu421\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\objet_csharp\\solutionjeu421\\classlibraryjeu421\\partie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|solutionrelative:classlibraryjeu421\\partie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\objet_csharp\\solutionjeu421\\classlibraryjeu421\\manche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|solutionrelative:classlibraryjeu421\\manche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60E2CE5-1544-489D-B089-7D6E9E7911F5}|421Tests\\421Tests.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\objet_csharp\\solutionjeu421\\421tests\\tests421.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60E2CE5-1544-489D-B089-7D6E9E7911F5}|421Tests\\421Tests.csproj|solutionrelative:421tests\\tests421.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\objet_csharp\\solutionjeu421\\classlibraryjeu421\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|solutionrelative:classlibraryjeu421\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\objet_csharp\\solutionjeu421\\classlibraryjeu421\\inextable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|solutionrelative:classlibraryjeu421\\inextable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\objet_csharp\\solutionjeu421\\classlibraryjeu421\\alea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|solutionrelative:classlibraryjeu421\\alea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\objet_csharp\\solutionjeu421\\classlibraryjeu421\\imanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|solutionrelative:classlibraryjeu421\\imanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A11D40-7CD3-439E-BAA1-59B674B6EDA2}|ConsoleAppJeu421\\ConsoleAppJeu421.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\objet_csharp\\solutionjeu421\\consoleappjeu421\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A11D40-7CD3-439E-BAA1-59B674B6EDA2}|ConsoleAppJeu421\\ConsoleAppJeu421.csproj|solutionrelative:consoleappjeu421\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|c:\\users\\tgrandgirard\\documents\\git\\cda_2312_gt\\objet_csharp\\solutionjeu421\\classlibraryjeu421\\partie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5553A2F5-1717-4492-A0FF-A1AD5590C8FA}|ClassLibraryJeu421\\ClassLibraryJeu421.csproj|solutionrelative:classlibraryjeu421\\partie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,27 +50,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "INextable.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\INextable.cs",
+              "RelativeDocumentMoniker": "ClassLibraryJeu421\\INextable.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\INextable.cs",
+              "RelativeToolTip": "ClassLibraryJeu421\\INextable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:19:30.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IManche.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\IManche.cs",
+              "RelativeDocumentMoniker": "ClassLibraryJeu421\\IManche.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\IManche.cs",
+              "RelativeToolTip": "ClassLibraryJeu421\\IManche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:57:35.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tests421.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\421Tests\\Tests421.cs",
+              "RelativeDocumentMoniker": "421Tests\\Tests421.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\421Tests\\Tests421.cs",
+              "RelativeToolTip": "421Tests\\Tests421.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:48:26.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Manche.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\Manche.cs",
               "RelativeDocumentMoniker": "ClassLibraryJeu421\\Manche.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\Manche.cs",
               "RelativeToolTip": "ClassLibraryJeu421\\Manche.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAAA0AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T10:20:12.776Z"
+              "WhenOpened": "2024-05-21T10:20:12.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Partie.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\Partie.cs",
               "RelativeDocumentMoniker": "ClassLibraryJeu421\\Partie.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\Partie.cs",
               "RelativeToolTip": "ClassLibraryJeu421\\Partie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAwAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T14:32:46.4Z"
+              "WhenOpened": "2024-05-16T14:32:46.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,34 +121,36 @@
               "RelativeDocumentMoniker": "ClassLibraryJeu421\\Alea.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\Alea.cs",
               "RelativeToolTip": "ClassLibraryJeu421\\Alea.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAWAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T14:40:36.896Z"
+              "WhenOpened": "2024-05-15T14:40:36.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ConsoleAppJeu421\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppJeu421\\Program.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ConsoleAppJeu421\\Program.cs",
               "RelativeToolTip": "ConsoleAppJeu421\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T12:06:14.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "De.cs",
               "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\De.cs",
               "RelativeDocumentMoniker": "ClassLibraryJeu421\\De.cs",
               "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\CDA_2312_GT\\Objet_Csharp\\SolutionJeu421\\ClassLibraryJeu421\\De.cs",
               "RelativeToolTip": "ClassLibraryJeu421\\De.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:01:52.306Z"
+              "WhenOpened": "2024-05-15T12:01:52.306Z",
+              "EditorCaption": ""
             }
           ]
         }

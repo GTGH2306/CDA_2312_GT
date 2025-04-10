@@ -5,11 +5,12 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace ClassLibraryJeu421
 {
-    internal class Alea : Random
+    internal class Alea : Random, INextable
     {
-        private static Alea monAlea = null;
+        private static Alea? monAlea = null;
         private Alea()
         {
         }
